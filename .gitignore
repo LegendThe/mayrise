@@ -67,3 +67,6 @@ __recovery/
 
 # Boss dependency manager vendor folder https://github.com/HashLoad/boss
 modules/
+
+# Include all files in components directory and below
+!/components/**

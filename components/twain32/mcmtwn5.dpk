@@ -1,0 +1,52 @@
+package mcmTWN5;
+
+{$R *.RES}
+{$R 'mcmTWAIN.dcr'}
+{$ALIGN ON}
+{$ASSERTIONS OFF}
+{$BOOLEVAL OFF}
+{$DEBUGINFO OFF}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS OFF}
+{$LOCALSYMBOLS OFF}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION ON}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO OFF}
+{$SAFEDIVIDE ON}
+{$STACKFRAMES OFF}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST ON}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$DESCRIPTION 'MCM DESIGN, TWAIN Toolkit for Delphi'}
+{$DESIGNONLY}
+{$IMPLICITBUILD OFF}
+{$DEFINE TWNDEBUG}
+
+requires
+  vcl50,
+  Vclx50,
+  VclSmp50,
+  mcmInte5;
+
+contains
+  mcmTWAIN in 'mcmTWAIN.pas',
+  uTwnAbout5 in 'uTwnAbout5.pas' {AboutBox},
+  InstmcmTwn in 'InstmcmTwn.pas',
+  mcmTWAINFix in 'mcmTWAINFix.pas',
+  mcmTWAINContainer in 'mcmTWAINContainer.pas',
+  mcmTWAINIntf in 'mcmTWAINIntf.pas',
+  mcmTWAINKernel in 'mcmTWAINKernel.pas',
+  mcmTWAINLog in 'mcmTWAINLog.pas',
+  twainproc in 'twainproc.pas',
+  twain in 'twain.pas',
+  mcmSelectSource in 'mcmSelectSource.pas' {FormSelectSource},
+  uTwnDlgSend in 'uTwnDlgSend.pas' {DlgTwnSend},
+  uTwnDlgPref in 'uTwnDlgPref.pas' {DlgTwainPref};
+
+end.

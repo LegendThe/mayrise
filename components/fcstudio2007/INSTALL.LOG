@@ -1,0 +1,1162 @@
+***  Installation Started 06/26/2019 10:39  ***
+Title: IstClass Studio for Delphi 2007
+Source: \\STOSVR40\Development\Third party software\Delphi 2007 Install\1stClassStudio2007.exe | 12-02-2010 | 10:26:52 | 13902002
+Made Dir: C:\Program Files (x86)\Woll2Woll
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\UNWISE.EXE | 06-25-1999 | 10:55:30 | | 149504 | 30fdd633
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\1stClass Studio for Delphi 2007
+RegDB Val: 1stClass Studio for Delphi 2007
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\1stClass Studio for Delphi 2007
+RegDB Val: C:\PROGRA~2\WOLL2W~1\FCSTUD~1\UNWISE.EXE C:\PROGRA~2\WOLL2W~1\FCSTUD~1\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\1stClass Studio for Delphi 2007
+RegDB Val: 
+RegDB Name: RegCompany
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\1stClass Studio for Delphi 2007
+RegDB Val: 
+RegDB Name: RegOwner
+RegDB Root: 2
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\help
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\help\h2reg2006.ini | 09-11-2007 | 14:54:44 | | 3530 | 71abcdc8
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\2006
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\2006\fcstudiowin105.bpl | 05-02-2008 | 16:06:24 | 5.0.3.2 | 750592 | 7ac53903
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\2006\fcstudiowin.res | 09-11-2007 | 13:59:24 | | 1708 | 2213a4cb
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\2006\fcstudiowin.lib | 05-02-2008 | 16:06:24 | | 1176576 | 9bca5cb2
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\2006\fcstudiowin.dproj.local | 07-18-2007 | 09:39:04 | | 62 | 35343d43
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\2006\fcstudiowin.dproj | 07-18-2007 | 09:39:04 | | 6502 | 4fd1a03b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\2006\fcstudiowin.dpk | 09-11-2007 | 13:59:26 | | 1229 | 652f4d10
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\2006\fcstudiowin.dcu | 05-02-2008 | 16:06:24 | | 4423 | 1214d2ab
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\2006\fcstudiowin.dcp | 05-02-2008 | 16:06:24 | | 1040604 | edab7c6
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\2006\fcstudiowin.cfg | 09-11-2007 | 13:59:32 | | 486 | f8c67466
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\2006\fcstudiowin.bpi | 05-02-2008 | 16:06:24 | | 240356 | b5723a9f
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\2006\fcstudiowin.bdsproj.local | 09-11-2007 | 13:59:26 | | 62 | 35343d43
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\2006\fcstudiowin.bdsproj | 09-11-2007 | 13:59:26 | | 8304 | 5a0defac
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\2006\dfcstudiowin105.bpl | 05-02-2008 | 16:06:26 | 5.0.3.1 | 123904 | cf4404d
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\2006\dfcstudiowin.res | 09-11-2007 | 14:26:56 | | 1596 | df35192e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\2006\dfcstudiowin.lib | 05-02-2008 | 16:06:26 | | 122880 | c4e1e4fb
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\2006\dfcstudiowin.dproj.local | 05-11-2007 | 11:38:00 | | 62 | 35343d43
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\2006\dfcstudiowin.dproj | 05-11-2007 | 11:38:00 | | 5457 | bed8a49b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\2006\dfcstudiowin.dpk | 09-11-2007 | 14:26:58 | | 761 | 44cf6785
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\2006\dfcstudiowin.dcu | 05-02-2008 | 16:06:26 | | 5169 | c4345003
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\2006\dfcstudiowin.dcp | 05-02-2008 | 16:06:26 | | 102230 | 24a7bf73
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\2006\dfcstudiowin.cfg | 09-11-2007 | 14:27:02 | | 486 | 32bdc5e4
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\2006\dfcstudiowin.bpi | 05-02-2008 | 16:06:26 | | 27396 | 7a179758
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\2006\dfcstudiowin.bdsproj.local | 09-11-2007 | 14:26:58 | | 62 | 35343d43
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\2006\dfcstudiowin.bdsproj | 09-11-2007 | 14:26:58 | | 8296 | fd1ec708
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\2006\build.bat | 09-11-2007 | 14:18:08 | | 1930 | e368c6de
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcTreeView_ItemsEditor.hpp | 05-02-2008 | 16:03:48 | | 7134 | 554d2185
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcTreeView.hpp | 05-02-2008 | 16:03:44 | | 36708 | bf4a4dc5
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fctreeheader.hpp | 05-02-2008 | 16:03:44 | | 13039 | 80103ce6
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcTreeCombo.hpp | 05-02-2008 | 16:03:44 | | 13745 | ea202600
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fctrackbar.hpp | 05-02-2008 | 16:03:44 | | 13868 | 3c5d0617
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcToolTip.hpp | 05-02-2008 | 16:03:44 | | 2419 | 2467de4d
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcText.hpp | 05-02-2008 | 16:03:44 | | 11589 | 3cbfcce7
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcstudiowin.hpp | 05-02-2008 | 16:03:44 | | 4160 | cf24bd1b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcStatusBar.hpp | 05-02-2008 | 16:03:44 | | 16227 | 268a7eb4
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcShapeBtn.hpp | 05-02-2008 | 16:03:44 | | 8074 | b085f464
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcscrollbar.hpp | 05-02-2008 | 16:03:44 | | 6571 | 3947ee1
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcPropEdt.hpp | 05-02-2008 | 16:03:48 | | 26302 | 1c47a4a7
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcprogressbar.hpp | 05-02-2008 | 16:03:44 | | 6376 | fcf58aca
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcPicEdt.hpp | 05-02-2008 | 16:03:48 | | 3567 | b22f37a2
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcpanel.hpp | 05-02-2008 | 16:03:44 | | 9907 | e38e9cf2
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcOutlookList.hpp | 05-02-2008 | 16:03:44 | | 19109 | 6ce9bbf0
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcOutlookBar.hpp | 05-02-2008 | 16:03:44 | | 10419 | d7c54700
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcLinesEditor.hpp | 05-02-2008 | 16:03:48 | | 2782 | 5c5f3c38
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fClass.hpp | 05-02-2008 | 16:03:48 | | 2459 | 4426ae9
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcLabel.hpp | 05-02-2008 | 16:03:44 | | 6799 | aa27de1a
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcImgBtn.hpp | 05-02-2008 | 16:03:44 | | 9223 | 808099e6
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcImager.hpp | 05-02-2008 | 16:03:44 | | 22105 | 9de2dc7b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcimagepanel.hpp | 05-02-2008 | 16:03:44 | | 4555 | 81177430
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcimageform.hpp | 05-02-2008 | 16:03:44 | | 5543 | 75203b22
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcimage.hpp | 05-02-2008 | 16:03:44 | | 2678 | d9a34756
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcGraphics.hpp | 05-02-2008 | 16:03:44 | | 1244 | 980544dc
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcframe.hpp | 05-02-2008 | 16:03:44 | | 6374 | 852a652e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcFontCombo.hpp | 05-02-2008 | 16:03:44 | | 9477 | 38272751
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcEvaluator.hpp | 05-02-2008 | 16:03:44 | | 2224 | 4bc0b97e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcDemoRichEdit.hpp | 05-02-2008 | 16:03:44 | | 3973 | 459a36c2
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcDBTreeView.hpp | 05-02-2008 | 16:03:44 | | 23266 | b8ce89b5
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcdbcommon.hpp | 05-02-2008 | 16:03:44 | | 1874 | ea26caa
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcCustomDraw.hpp | 05-02-2008 | 16:03:44 | | 2762 | 4ea7efe
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcCommon.hpp | 05-02-2008 | 16:03:44 | | 17799 | 29af752e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fccombobutton.hpp | 05-02-2008 | 16:03:44 | | 9373 | 658b0545
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fccombo.hpp | 05-02-2008 | 16:03:44 | | 13464 | 24fb890f
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcColorCombo.hpp | 05-02-2008 | 16:03:44 | | 23833 | 35d1e04b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcCollectionEditor.hpp | 05-02-2008 | 16:03:48 | | 5517 | 4cc82507
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcCollection.hpp | 05-02-2008 | 16:03:44 | | 3415 | 9b1faebe
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcClearPanel.hpp | 05-02-2008 | 16:03:44 | | 4050 | f407eef9
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcChangeLink.hpp | 05-02-2008 | 16:03:44 | | 2051 | e1cb2a55
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fccanvas.hpp | 05-02-2008 | 16:03:44 | | 3154 | 228988f9
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcCalculator.hpp | 05-02-2008 | 16:03:44 | | 11330 | 508a94c7
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fccalcedit.hpp | 05-02-2008 | 16:03:44 | | 10865 | f6671988
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcButtonGroup.hpp | 05-02-2008 | 16:03:44 | | 12035 | b5dcebc6
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcButton.hpp | 05-02-2008 | 16:03:44 | | 16611 | fb39f2f9
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcBitmap.hpp | 05-02-2008 | 16:03:44 | | 7461 | 32427ee4
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\fcAbout.hpp | 05-02-2008 | 16:03:48 | | 2625 | 441d3d2b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\include\dfcstudiowin.hpp | 05-02-2008 | 16:03:48 | | 4368 | 38ca66be
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\StatusBar
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\StatusBar\PProportionalDemo.bpr | 07-11-2001 | 18:49:32 | | 2624 | d9ab555b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\StatusBar\CoolAVI.res | 04-01-1999 | 15:59:50 | | 35404 | 115acd44
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\StatusBar\cool.avi | 04-01-1999 | 15:56:16 | | 35328 | f3f14729
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\StatusBar\AVIRes.rc | 04-01-1999 | 15:56:16 | | 1602 | 720e9d23
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\OutlookBar
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\OutlookBar\PPaintDemo.res | 02-11-2000 | 10:30:56 | | 876 | 40fef06c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\OutlookBar\PPaintDemo.cpp | 04-01-1999 | 12:00:02 | | 759 | fd01b39b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\OutlookBar\PPaintDemo.bpr | 07-11-2001 | 18:48:50 | | 2608 | 6eeb4860
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\OutlookBar\POutlookBarDemo.res | 02-11-2000 | 10:30:38 | | 876 | 40fef06c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\OutlookBar\POutlookBarDemo.cpp | 04-01-1999 | 11:11:08 | | 748 | 89d4636f
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\OutlookBar\POutlookBarDemo.bpr | 07-11-2001 | 18:48:24 | | 2612 | 853e0c8f
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\OutlookBar\paintu.h | 04-01-1999 | 11:59:54 | | 2531 | 57330843
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\OutlookBar\paintu.dfm | 04-30-1999 | 10:21:10 | | 33927 | a62ef07f
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\OutlookBar\paintu.cpp | 04-01-1999 | 11:59:54 | | 3792 | aadd998b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\OutlookBar\outlookbaru.h | 04-29-1999 | 13:32:14 | | 1998 | ed17cf78
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\OutlookBar\outlookbaru.dfm | 04-29-1999 | 13:31:04 | | 65018 | 51a046ea
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\OutlookBar\outlookbaru.cpp | 04-29-1999 | 15:36:16 | | 1163 | 86d8dfee
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\OutlookBar\infounit.h | 04-01-1999 | 11:12:54 | | 864 | a14840b9
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\OutlookBar\infounit.dfm | 04-01-1999 | 11:12:20 | | 2333 | f675428e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\OutlookBar\infounit.cpp | 04-01-1999 | 11:12:54 | | 566 | df16693e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\MainU.h | 01-26-2006 | 16:15:44 | | 5260 | 7311d0a2
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\MainU.dfm | 01-26-2006 | 16:15:32 | | 188709 | b9dcb6c4
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\MainU.cpp | 01-26-2006 | 16:15:44 | | 6693 | b0367bad
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\Labels
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\Labels\PLabel.res | 02-11-2000 | 10:30:16 | | 876 | 40fef06c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\Labels\PLabel.cpp | 04-01-1999 | 10:21:24 | | 719 | 6ee2fcd5
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\Labels\PLabel.bpr | 07-11-2001 | 18:47:50 | | 2566 | a5914fc3
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\Labels\labelu.h | 04-01-1999 | 11:04:08 | | 4313 | e3695ad7
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\Labels\labelu.dfm | 04-01-1999 | 11:08:58 | | 39951 | 2f696fc1
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\Labels\labelu.cpp | 04-01-1999 | 11:03:16 | | 2751 | e2b9dccd
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\imager
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\imager\TilerUnit.h | 04-29-1999 | 13:36:10 | | 1447 | 1c1ab3d2
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\imager\TilerUnit.dfm | 04-29-1999 | 15:25:42 | | 157076 | 13f27d24
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\imager\TilerUnit.cpp | 04-29-1999 | 13:36:10 | | 1251 | 2ca6834c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\imager\TilerProj.res | 02-11-2000 | 10:29:56 | | 876 | 40fef06c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\imager\TilerProj.cpp | 04-01-1999 | 11:56:48 | | 713 | f291b048
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\imager\TilerProj.bpr | 07-11-2001 | 18:47:22 | | 2584 | 74692eaf
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\imager\PicEdt.h | 04-01-1999 | 11:49:46 | | 1593 | 184d7c5b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\imager\PicEdt.dfm | 04-01-1999 | 11:49:46 | | 1801 | 63537cd1
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\imager\PicEdt.cpp | 04-01-1999 | 11:49:50 | | 3065 | b8f955fa
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\imager\ImagerProj.res | 02-11-2000 | 10:29:38 | | 876 | 40fef06c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\imager\ImagerProj.cpp | 04-01-1999 | 11:47:06 | | 849 | 134c032
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\imager\ImagerProj.bpr | 07-11-2001 | 18:46:54 | | 2631 | 7991d6be
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\imager\ImagerMain.h | 04-01-1999 | 11:37:16 | | 4212 | 9891f4aa
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\imager\ImagerMain.dfm | 04-21-1999 | 13:03:14 | | 162489 | 9cf3e430
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\imager\ImagerMain.cpp | 04-01-1999 | 11:46:12 | | 6693 | 8714ebfc
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ImageForm
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ImageForm\PTabForm.res | 02-11-2000 | 10:29:16 | | 876 | 40fef06c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ImageForm\PTabForm.cpp | 03-31-1999 | 18:10:12 | | 737 | 64b7ce28
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ImageForm\PTabForm.bpr | 07-11-2001 | 18:46:16 | | 2588 | 8aca66dd
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ImageForm\POrderForm.res | 02-10-2000 | 05:29:40 | | 876 | 40fef06c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ImageForm\POrderForm.cpp | 04-15-1999 | 02:24:14 | | 727 | 36fa941c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ImageForm\POrderForm.bpr | 07-11-2001 | 18:45:50 | | 2806 | 8ca56f43
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ImageForm\orderformu.h | 02-10-2000 | 05:05:48 | | 2136 | 8eeb7063
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ImageForm\orderformu.dfm | 02-10-2000 | 05:05:48 | | 188701 | 99c692
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ImageForm\orderformu.cpp | 04-15-1999 | 06:20:56 | | 4168 | d56b0c4
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ImageForm\imagetabformu.h | 03-31-1999 | 18:10:00 | | 1946 | 900f187b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ImageForm\imagetabformu.dfm | 03-31-1999 | 18:07:42 | | 134585 | 2100fd99
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ImageForm\imagetabformu.cpp | 03-31-1999 | 18:10:00 | | 1301 | 2ab108f3
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\framing
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\framing\PFrame.res | 02-11-2000 | 11:32:52 | | 876 | 40fef06c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\framing\PFrame.cpp | 02-10-2000 | 16:01:54 | | 731 | 317b0123
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\framing\PFrame.bpr | 07-11-2001 | 18:45:14 | | 2710 | d17ad87
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\framing\FrameU.h | 02-10-2000 | 14:28:02 | | 2447 | 55aeb1b7
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\framing\FrameU.dfm | 02-10-2000 | 16:35:46 | | 206625 | 5b3b8d1e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\framing\FrameU.cpp | 02-10-2000 | 16:04:14 | | 4060 | b19d5395
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\Demo1stClass.res | 09-11-2007 | 15:50:24 | | 876 | 40fef06c
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\treeview
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\treeview\TreeDemo.h | 04-01-1999 | 14:34:34 | | 2402 | a6942f5b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\Demo1stClass.cpp | 09-11-2007 | 16:50:32 | | 2053 | cb77c0fc
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\Demo1stClass.bpr | 01-26-2006 | 16:04:34 | | 10113 | 112a61b0
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\Demo1stClass.bdsproj.local | 09-11-2007 | 16:57:18 | | 2313 | cb74aa91
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\Demo1stClass.bdsproj | 09-11-2007 | 16:57:18 | | 32390 | e9e565ee
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\StatusBar\PProportionalDemo.cpp | 04-01-1999 | 12:06:06 | | 725 | eec65eea
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\StatusBar\PProportionalDemo.res | 02-11-2000 | 10:31:18 | | 876 | 40fef06c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\StatusBar\proportionalu.cpp | 04-01-1999 | 14:38:56 | | 667 | ba43aa4e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\StatusBar\proportionalu.dfm | 04-01-1999 | 14:38:56 | | 2689 | 808b4890
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\StatusBar\proportionalu.h | 04-01-1999 | 14:38:56 | | 1007 | caad88d7
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\StatusBar\PStatusBarDemo.bpr | 07-11-2001 | 18:50:30 | | 2650 | ebdc94b1
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\StatusBar\PStatusBarDemo.cpp | 04-01-1999 | 12:40:00 | | 755 | 2a83028e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\StatusBar\PStatusBarDemo.res | 02-11-2000 | 10:31:34 | | 876 | 40fef06c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\StatusBar\resource.h | 04-01-1999 | 15:56:16 | | 455 | dace4487
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\StatusBar\statusbaru.cpp | 04-02-1999 | 12:58:24 | | 4583 | 2b54362f
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\StatusBar\statusbaru.dfm | 02-11-2000 | 10:31:38 | | 54564 | f62f31b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\StatusBar\statusbaru.h | 04-02-1999 | 12:56:54 | | 4221 | ccaea2c8
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\TreeCombos
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\TreeCombos\PTreeComboDemo.bpr | 07-11-2001 | 18:51:12 | | 2617 | 839e318
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\TreeCombos\PTreeComboDemo.cpp | 03-31-1999 | 18:05:22 | | 719 | 5fc57ca7
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\TreeCombos\PTreeComboDemo.res | 02-11-2000 | 10:31:52 | | 876 | 40fef06c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\TreeCombos\TreeCombos.cpp | 05-10-1999 | 16:36:42 | | 3199 | 1e7c4330
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\TreeCombos\TreeCombos.dfm | 05-10-1999 | 17:25:40 | | 15561 | 1bda0ea0
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\TreeCombos\TreeCombos.h | 05-10-1999 | 16:36:42 | | 1837 | 2361c7d8
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\treeview\PrjTreeDemo.bpr | 07-11-2001 | 18:51:44 | | 2590 | 84135816
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\treeview\PrjTreeDemo.cpp | 04-01-1999 | 12:18:24 | | 714 | 4bd86628
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\treeview\PrjTreeDemo.res | 02-11-2000 | 10:32:10 | | 876 | 40fef06c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\treeview\TreeDemo.cpp | 04-19-1999 | 14:54:20 | | 5657 | 7288e7a9
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\treeview\TreeDemo.dfm | 05-10-1999 | 16:34:52 | | 33168 | 8ecdd71d
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\dbtreeview
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\dbtreeview\PrjDBSample.res | 02-11-2000 | 10:28:12 | | 876 | 40fef06c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\dbtreeview\PrjDBSample.cpp | 03-31-1999 | 17:30:02 | | 745 | 53de6cc3
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\dbtreeview\PrjDBSample.bpr | 07-11-2001 | 18:44:40 | | 2598 | 3d1f3f98
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\dbtreeview\DBTreeSample.h | 04-29-1999 | 15:31:38 | | 6840 | a7f8b75b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\dbtreeview\DBTreeSample.dfm | 04-29-1999 | 17:14:10 | | 93265 | 6200b521
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\dbtreeview\DBTreeSample.cpp | 04-29-1999 | 15:38:40 | | 6215 | 11971d86
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\db
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\db\fcvendors.PX | 08-05-1997 | 03:01:00 | | 4096 | baf29dd7
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\db\fcvendors.DB | 08-05-1997 | 03:01:00 | | 8192 | ded8e495
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\db\fctreelables.db | 03-17-1999 | 08:47:28 | | 4096 | 82b7ccfe
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\db\fcparts.YG0 | 08-05-1997 | 03:01:00 | | 4096 | 8edbf424
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\db\fcparts.Y02 | 08-05-1997 | 03:01:00 | | 4096 | 1818d285
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\db\fcparts.XG0 | 08-05-1997 | 03:01:00 | | 6144 | 84056128
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\db\fcparts.X02 | 08-05-1997 | 03:01:00 | | 4096 | 170dc208
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\db\fcparts.TV | 12-09-1998 | 17:19:12 | | 1737 | 3fbccbed
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\db\fcparts.PX | 01-11-1999 | 18:09:38 | | 4096 | 5d097316
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\db\fcparts.FAM | 01-11-1999 | 16:16:32 | | 423 | a753d740
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\db\fcparts.DB | 01-11-1999 | 18:11:22 | | 8192 | 34c7846f
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\db\fcorders.Y02 | 12-09-1998 | 17:24:44 | | 4096 | 2e4e2b0c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\db\fcorders.X02 | 12-09-1998 | 17:24:44 | | 6144 | 7d5e071
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\db\fcorders.VAL | 01-11-1999 | 16:16:18 | | 483 | 9eb503e7
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\db\fcorders.TV | 12-09-1998 | 17:19:18 | | 5112 | 4c34d62e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\db\fcorders.PX | 01-11-1999 | 18:09:28 | | 4096 | 74b25f2d
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\db\fcorders.FAM | 01-11-1999 | 16:16:28 | | 423 | 5c9dcf16
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\db\fcorders.DB | 01-11-1999 | 18:11:22 | | 71680 | 47b8dbf1
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\db\fcitems.YG0 | 02-09-1999 | 16:10:40 | | 4096 | 4b4a07b1
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\db\fcitems.Y03 | 02-09-1999 | 16:10:40 | | 4096 | f061d027
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\db\fcitems.XG0 | 02-09-1999 | 16:10:40 | | 28672 | dd91358e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\db\fcitems.X03 | 02-09-1999 | 16:10:40 | | 38912 | 6b7c5697
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\db\fcitems.PX | 02-09-1999 | 16:10:40 | | 4096 | ac1f3e7a
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\db\fcitems.DB | 02-09-1999 | 16:10:40 | | 40960 | 71d05bc2
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\db\fccust.YG0 | 12-11-1998 | 12:59:52 | | 4096 | f8be416d
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\db\fccust.XG0 | 12-11-1998 | 12:59:52 | | 8192 | a92ffa98
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\db\fccust.PX | 12-11-1998 | 12:59:52 | | 4096 | 1b4f4dcc
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\db\fccust.DB | 12-11-1998 | 13:00:04 | | 18432 | 3e5df6d0
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\db\fcCounty.MB | 01-12-1999 | 14:46:40 | | 4096 | c4e8fe89
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\db\fcCounty.DB | 01-12-1999 | 14:46:40 | | 6144 | d72362ae
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\cool.avi | 04-01-1999 | 15:56:16 | | 35328 | f3f14729
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ColorDemo
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ColorDemo\PColordemo.res | 02-11-2000 | 10:27:48 | | 876 | 40fef06c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ColorDemo\PColordemo.cpp | 03-31-1999 | 14:46:26 | | 739 | 91505d32
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ColorDemo\PColordemo.bpr | 07-11-2001 | 18:44:00 | | 2590 | 4251f574
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ColorDemo\colordemou.h | 04-01-1999 | 16:03:38 | | 3477 | b8c978fb
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ColorDemo\colordemou.dfm | 04-01-1999 | 16:03:38 | | 12408 | 743988fc
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ColorDemo\colordemou.cpp | 04-01-1999 | 16:34:02 | | 7371 | 3343a471
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\Buttons
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\Buttons\shapeu.h | 03-31-1999 | 12:24:30 | | 4336 | a63f9f10
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\Buttons\shapeu.dfm | 01-26-2006 | 16:30:52 | | 33869 | ec811f41
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\Buttons\shapeu.cpp | 01-26-2006 | 16:33:08 | | 4845 | 156648ae
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\Buttons\PShapebuttons.res | 02-11-2000 | 10:27:26 | | 876 | 40fef06c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\Buttons\PShapebuttons.cpp | 03-31-1999 | 12:24:46 | | 747 | 9b67f9f7
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\Buttons\PShapebuttons.bpr | 07-11-2001 | 18:43:30 | | 2613 | 8fb0c3f9
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\Buttons\PMap.res | 02-11-2000 | 10:27:10 | | 876 | 40fef06c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\Buttons\PMap.cpp | 03-31-1999 | 12:08:18 | | 709 | 49dd721c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\Buttons\PMap.bpr | 07-11-2001 | 18:39:44 | | 2554 | 6cfe86dd
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\Buttons\PImgDemo.res | 02-11-2000 | 10:26:42 | | 876 | 40fef06c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\Buttons\PImgDemo.cpp | 03-31-1999 | 14:08:52 | | 748 | 91963607
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\Buttons\PImgDemo.bpr | 07-11-2001 | 18:40:14 | | 2586 | c086eb70
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\Buttons\mapu.h | 03-31-1999 | 12:08:06 | | 2146 | 23386c44
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\Buttons\mapu.dfm | 03-31-1999 | 12:05:56 | | 109215 | d061db4
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\Buttons\mapu.cpp | 03-31-1999 | 12:08:06 | | 1446 | e405d9ba
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\Buttons\imagebuttonu.h | 03-31-1999 | 14:08:44 | | 6275 | 58fe4389
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\Buttons\imagebuttonu.dfm | 04-15-1999 | 04:12:06 | | 286317 | ba77167d
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\Buttons\imagebuttonu.cpp | 04-19-1999 | 14:48:40 | | 5917 | 7cd0d121
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ButtonGroup
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ButtonGroup\tabbuttons.h | 03-30-1999 | 18:17:12 | | 2043 | 50cf4022
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ButtonGroup\tabbuttons.dfm | 03-30-1999 | 17:39:14 | | 20707 | cd32ec34
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ButtonGroup\tabbuttons.cpp | 03-30-1999 | 18:17:12 | | 1063 | 26720ed3
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ButtonGroup\Ptabbuttons.res | 02-11-2000 | 10:26:16 | | 876 | 40fef06c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ButtonGroup\Ptabbuttons.cpp | 03-30-1999 | 18:17:18 | | 746 | 6178fe99
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ButtonGroup\Ptabbuttons.bpr | 07-11-2001 | 18:32:38 | | 2605 | e41eecb7
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ButtonGroup\PDemo1stClassMDI.res | 07-11-2001 | 18:16:44 | | 876 | 6716899b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ButtonGroup\PDemo1stClassMDI.cpp | 03-30-1999 | 18:19:02 | | 805 | b6d9dcb4
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ButtonGroup\PDemo1stClassMDI.bpr | 07-11-2001 | 17:52:06 | | 2563 | 75888a4e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ButtonGroup\Pbuttongroupdemo.res | 02-11-2000 | 10:25:12 | | 876 | 40fef06c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ButtonGroup\Pbuttongroupdemo.cpp | 04-01-1999 | 14:25:06 | | 768 | e7acdc4e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ButtonGroup\Pbuttongroupdemo.bpr | 07-11-2001 | 18:38:58 | | 2635 | 88f943fb
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ButtonGroup\mainmdi.h | 03-31-1999 | 11:32:58 | | 2289 | 94228ca5
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ButtonGroup\mainmdi.dfm | 03-31-1999 | 11:32:58 | | 13286 | 3c4d23a3
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ButtonGroup\mainmdi.cpp | 03-31-1999 | 11:33:54 | | 2587 | aa71b522
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ButtonGroup\childwin.h | 03-31-1999 | 11:13:56 | | 1104 | 83abbc7d
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ButtonGroup\childwin.dfm | 03-31-1999 | 11:41:14 | | 1971 | 8b4fd9d6
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ButtonGroup\childwin.cpp | 03-31-1999 | 11:39:50 | | 1857 | 142f0af7
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ButtonGroup\buttongroupdemo.h | 02-10-2000 | 05:31:00 | | 6207 | 6cc21a39
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ButtonGroup\buttongroupdemo.dfm | 01-26-2006 | 16:29:30 | | 184798 | c5ee3a5c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ButtonGroup\buttongroupdemo.cpp | 01-26-2006 | 16:31:28 | | 8434 | 774ea916
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ButtonGroup\About.h | 03-30-1999 | 14:21:00 | | 978 | e67cf03c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ButtonGroup\About.dfm | 03-30-1999 | 14:20:08 | | 914 | b834478d
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\builder\ButtonGroup\About.cpp | 03-30-1999 | 14:21:00 | | 532 | 6bbe190b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\RegisterW2W2.exe | 05-02-2008 | 11:11:52 | 1.0.3044.18355 | 69632 | 2e8bfd78
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\help\scripts.js | 11-01-2004 | 07:45:00 | | 7955 | 2c2f847e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\help\H2Reg_cmd.ini | 11-01-2004 | 08:17:00 | | 943 | 294d608a
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\help\H2Reg.ini | 09-11-2007 | 13:11:06 | | 3530 | 86a546b5
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\help\H2Reg.exe | 03-09-2007 | 11:00:00 | 1.4.3.0 | 189952 | 11cac9d6
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\help\1stClassHelp_NamedURL.HxK | 09-11-2007 | 13:04:06 | | 146 | c3a57b67
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\help\1stClassHelp_K.HxK | 09-11-2007 | 13:03:48 | | 445124 | f3cf7b67
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\help\1stClassHelp_F.HxK | 09-11-2007 | 13:03:40 | | 610661 | ad891b16
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\help\1stClassHelp_A.HxK | 09-11-2007 | 13:03:32 | | 445106 | 6cea6958
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\help\1stClassHelp.HxT | 09-11-2007 | 13:03:22 | | 272039 | d068d9bb
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\help\1stClassHelp.HxS.compiler.log | 09-11-2007 | 12:29:18 | | 538875 | e28f90d1
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\help\1stClassHelp.HxS | 09-11-2007 | 12:29:16 | 1.0.0.0 | 1989702 | 22d449b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\help\1stClassHelp.HxI | 09-11-2007 | 12:29:16 | 1.0.0.0 | 213166 | d5d4d73c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\help\1stClassHelp.HxF | 09-11-2007 | 13:03:14 | | 243483 | b39e259c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\help\1stClassHelp.HxC | 09-11-2007 | 13:03:04 | | 1206 | f10440ce
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\w2wlogo.BMP | 02-16-1999 | 14:10:48 | | 21718 | e41b1a46
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\256Colors
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\256Colors\woodfloorgray2.BMP | 04-26-1999 | 18:21:42 | | 66102 | dfd5227b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\256Colors\woodfloorgray.BMP | 02-16-1999 | 13:37:44 | | 66102 | 96b1fcde
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\256Colors\woodfloor2.BMP | 05-19-1999 | 11:48:54 | | 66102 | 591e7b3b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\256Colors\woodfloor.BMP | 02-16-1999 | 13:36:44 | | 66102 | c063bba5
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\256Colors\TrueSilver.bmp | 02-16-1999 | 12:57:14 | | 10294 | 41991d6f
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\256Colors\TilePattern.BMP | 08-06-1999 | 13:00:10 | | 17462 | e65b7094
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\256Colors\TileLucky.BMP | 08-06-1999 | 13:01:52 | | 10294 | d0f0a602
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\256Colors\Tile9.BMP | 08-06-1999 | 12:59:46 | | 17462 | 61d8d529
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\256Colors\Tile8.BMP
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\256Colors\Tile8.#$# | 08-06-1999 | 12:59:36 | | 17462 | da664e21
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\256Colors\Tile7.BMP | 08-06-1999 | 12:59:30 | | 17462 | 1e7b7f25
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\256Colors\Tile6.BMP | 08-06-1999 | 12:58:44 | | 17462 | a362af4
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\256Colors\Tile5.BMP | 08-06-1999 | 12:58:26 | | 17462 | 226b035c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\256Colors\Tile4.BMP | 08-06-1999 | 12:57:24 | | 17462 | 54009bea
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\256Colors\Tile3.BMP | 08-06-1999 | 12:57:18 | | 17462 | a54d1936
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\256Colors\Tile2.BMP | 08-06-1999 | 12:57:10 | | 17462 | 424dbe59
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\256Colors\Tile16.BMP | 08-06-1999 | 13:02:52 | | 17462 | 4f118583
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\256Colors\Tile15.BMP | 08-06-1999 | 13:02:28 | | 17462 | a974be53
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\256Colors\Tile14.BMP | 08-06-1999 | 13:01:40 | | 17462 | 8a1f5ccb
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\256Colors\Tile13.BMP | 08-06-1999 | 13:01:28 | | 17462 | d4c7fae4
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\256Colors\Tile12.BMP | 08-06-1999 | 13:00:18 | | 17462 | 679bb46
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\256Colors\Tile11.BMP | 08-06-1999 | 13:00:00 | | 17462 | 615b611d
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\256Colors\Tile10.BMP | 08-06-1999 | 12:59:52 | | 17462 | e87b14e2
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\256Colors\Tile1.BMP | 08-06-1999 | 12:57:04 | | 17462 | f0de6939
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\256Colors\texture1.BMP | 02-16-1999 | 13:54:20 | | 9118 | 86de7bf6
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\256Colors\tacktemp.BMP | 02-14-2000 | 16:19:22 | | 2678 | f1849c63
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\256Colors\tacks.BMP | 03-01-1999 | 19:09:56 | | 22902 | 7b7874b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\256Colors\Stone.BMP | 02-16-1999 | 13:14:18 | | 17462 | 6269b2e2
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\256Colors\Popcorn.BMP | 03-01-1999 | 14:16:38 | | 27118 | 378f625d
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\256Colors\PlaidGray.BMP | 02-26-1999 | 20:35:14 | | 12418 | 63b439fa
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\256Colors\Plaid.BMP | 02-26-1999 | 20:33:02 | | 12418 | b1394201
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\256Colors\partytemp.BMP | 02-14-2000 | 16:21:58 | | 49718 | 653e3ac5
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\256Colors\Bricks3.BMP | 02-16-1999 | 12:14:10 | | 17462 | dc29db2c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\256Colors\Bricks.BMP | 02-16-1999 | 13:14:58 | | 17462 | f5937624
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\Wood1.BMP | 02-26-1999 | 10:30:56 | | 32630 | cc4bf6d8
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\w2wtext6.BMP | 08-20-1999 | 13:46:56 | | 36566 | 98b98ea4
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\w2wtext5.BMP | 08-20-1999 | 13:48:50 | | 36566 | de745788
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\w2wtext4.BMP | 08-20-1999 | 13:44:12 | | 215526 | ded09c4d
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\w2wtext3.BMP | 08-20-1999 | 13:15:10 | | 97254 | 9baef442
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\w2wtext2.BMP | 08-20-1999 | 13:10:52 | | 97254 | 9edcd471
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\w2wtext.BMP | 08-20-1999 | 13:08:54 | | 16678 | 3041caaf
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\Tile7.BMP | 02-16-1999 | 11:55:04 | | 3318 | d684bbff
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\Tile6.BMP | 02-16-1999 | 11:54:46 | | 3318 | 122f27ee
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\Tile5.BMP | 02-16-1999 | 11:54:26 | | 3318 | 539628d6
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\Tile4.BMP | 02-16-1999 | 11:53:54 | | 3318 | 99d941b4
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\Tile3.BMP | 02-16-1999 | 11:53:32 | | 3318 | 8b673f47
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\Tile2.BMP | 02-16-1999 | 11:52:20 | | 3318 | 3345a566
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\Tile1.BMP | 02-16-1999 | 11:52:02 | | 3318 | f93d381c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\Texture2.bmp | 02-26-1999 | 11:03:40 | | 4138 | 73dff044
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\Texture1.BMP | 02-26-1999 | 10:35:56 | | 4138 | 73dff044
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\Stone1.bmp | 02-26-1999 | 10:30:08 | | 8310 | 291b7a8a
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\Plaid.BMP | 02-26-1999 | 20:32:44 | | 5998 | a3a6ffbc
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\NewTile9.BMP | 08-06-1999 | 12:55:34 | | 4214 | 5caed0fa
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\NewTile8.BMP | 08-06-1999 | 11:14:06 | | 8310 | 7e6b9828
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\NewTile7.BMP | 08-06-1999 | 11:07:18 | | 8310 | 800ca0f0
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\NewTile6.BMP | 08-06-1999 | 10:54:00 | | 8310 | da393ab5
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\NewTile5.BMP | 08-06-1999 | 10:49:02 | | 8310 | 7bc27602
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\NewTile4.BMP | 08-06-1999 | 10:40:46 | | 8310 | ef2ba5d
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\NewTile3.BMP | 08-06-1999 | 09:44:52 | | 8310 | 6419a02
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\NewTile20.BMP | 08-06-1999 | 13:04:50 | | 8310 | a7fcec94
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\NewTile2.BMP | 08-06-1999 | 09:25:12 | | 8310 | 78a22ca9
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\NewTile19.BMP | 08-06-1999 | 13:04:42 | | 8310 | 3f06b1fa
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\NewTile18.BMP | 08-06-1999 | 13:04:32 | | 8310 | 8b8d3175
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\NewTile17.BMP | 08-06-1999 | 13:04:24 | | 8310 | 8c0c75c5
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\NewTile16.BMP | 08-06-1999 | 13:04:16 | | 8310 | f5fefade
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\NewTile15.BMP | 08-06-1999 | 13:04:04 | | 8310 | 5b8ea394
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\NewTile14.BMP | 08-06-1999 | 13:03:58 | | 8310 | edcfe5ad
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\NewTile13.BMP | 08-06-1999 | 13:03:40 | | 8310 | df79293b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\NewTile12.BMP | 08-06-1999 | 13:03:32 | | 8310 | f8157e9f
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\NewTile11.BMP | 08-06-1999 | 13:03:24 | | 8310 | 7e6b9828
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\NewTile10.BMP | 08-06-1999 | 13:03:04 | | 8310 | 449bf8ea
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\NewTile1.BMP | 08-06-1999 | 09:18:52 | | 8310 | c35333df
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\clover.BMP | 08-06-1999 | 13:03:48 | | 4726 | f99ee215
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\Brick2.bmp | 02-26-1999 | 10:29:24 | | 8310 | 532d50d8
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Tiles\16colors\Brick1.bmp | 02-26-1999 | 10:28:54 | | 8310 | 99792965
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Misc
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Misc\WoodBackground.BMP | 04-26-1999 | 17:32:04 | | 63078 | 1f7ad6e3
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Misc\waterbackground.BMP | 02-26-1999 | 16:35:24 | | 42358 | 647645b4
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Misc\w2wlogoBlack.BMP | 02-11-1999 | 13:18:04 | | 6838 | 46c9e27f
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Misc\w2wlogo.BMP | 02-02-1999 | 13:18:08 | | 2998 | 144be3d1
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Misc\CustomCheckboxWoodLabel.BMP | 02-17-1999 | 14:50:18 | | 3446 | c8559f5e
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Shapes
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Shapes\up.BMP | 02-09-1999 | 13:28:36 | | 246 | 78244f10
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Shapes\Triangle.BMP | 02-09-1999 | 12:17:34 | | 246 | fd7f0161
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Shapes\star.BMP | 02-09-1999 | 12:11:26 | | 246 | 88b9d726
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Shapes\RoundRect.BMP | 02-09-1999 | 12:03:42 | | 246 | a1bcb073
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Shapes\Rect.BMP | 02-09-1999 | 12:05:34 | | 246 | 53d56865
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Shapes\left.BMP | 02-09-1999 | 13:28:56 | | 246 | 529a265f
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Shapes\Ellipse.BMP | 02-09-1999 | 12:04:52 | | 246 | c23ce8a
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Shapes\down.BMP | 02-09-1999 | 13:29:16 | | 246 | 2672cf34
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Shapes\Diamond.BMP | 02-09-1999 | 11:56:08 | | 246 | 78259fec
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Shapes\Arrow3d.BMP | 05-14-2003 | 21:37:20 | | 310 | 806b64cb
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Shapes\Arrow.BMP | 02-09-1999 | 12:16:46 | | 246 | 51d3d08d
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\OutlookBar
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\OutlookBar\VertImgBtn.BMP | 12-10-1998 | 16:37:30 | | 7654 | 95fc1ec0
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\OutlookBar\Tool_Square.bmp | 09-21-1998 | 15:50:14 | | 358 | 77e52808
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\OutlookBar\Tool_RoundRect.bmp | 09-21-1998 | 15:50:40 | | 334 | c918d302
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\OutlookBar\Tool_Pen.bmp | 09-21-1998 | 15:50:48 | | 358 | f3bdd0e0
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\OutlookBar\Tool_Line.bmp | 09-21-1998 | 15:50:04 | | 358 | 2b140c3e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\OutlookBar\Tool_Circle.bmp | 09-21-1998 | 15:50:24 | | 334 | 63a2b51c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\OutlookBar\Tool_Brush.bmp | 09-21-1998 | 15:50:56 | | 358 | f00dab27
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\OutlookBar\SentItems.BMP | 02-04-1999 | 13:43:54 | | 630 | e9a8d1b5
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\OutlookBar\Pen_6.bmp | 09-21-1998 | 15:48:50 | | 178 | 96598dfe
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\OutlookBar\Pen_5.bmp | 09-21-1998 | 15:48:42 | | 178 | a4afdde1
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\OutlookBar\Pen_4.bmp | 09-21-1998 | 15:48:36 | | 178 | 59ecb5c5
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\OutlookBar\Pen_3.bmp | 09-21-1998 | 15:48:30 | | 178 | db67ee91
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\OutlookBar\Pen_2.bmp | 09-21-1998 | 15:48:26 | | 178 | 4d667c62
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\OutlookBar\Pen_1.bmp | 09-21-1998 | 15:48:20 | | 178 | b7f762e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\OutlookBar\Folder.BMP | 12-14-1998 | 09:59:50 | | 3126 | e68a6a1e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\OutlookBar\Drafts.BMP | 02-04-1999 | 13:42:44 | | 630 | d46657e8
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\OutlookBar\DeletedItems.BMP | 02-04-1999 | 13:41:08 | | 630 | dce613d8
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\OutlookBar\Brushes_8.bmp | 09-21-1998 | 15:48:02 | | 358 | df8744c5
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\OutlookBar\Brushes_7.bmp | 09-21-1998 | 15:47:52 | | 358 | 8353812a
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\OutlookBar\Brushes_6.bmp | 09-21-1998 | 15:47:38 | | 358 | 8e552144
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\OutlookBar\Brushes_5.bmp | 09-21-1998 | 15:47:32 | | 358 | 15e745a
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\OutlookBar\Brushes_4.bmp | 09-21-1998 | 15:47:24 | | 358 | dc250435
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\OutlookBar\Brushes_3.bmp | 09-21-1998 | 15:47:16 | | 358 | 245a8258
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\OutlookBar\Brushes_2.bmp | 09-21-1998 | 15:47:08 | | 358 | 77e52808
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\OutlookBar\Brushes_1.bmp | 09-21-1998 | 15:46:54 | | 358 | 27934802
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\OutlookBar\Box_Out.BMP | 02-04-1999 | 13:37:26 | | 630 | 876a1c62
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\OutlookBar\Box_In.BMP | 02-04-1999 | 13:39:16 | | 630 | 7fe296c3
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\OutlookBar\Box.BMP | 12-11-1998 | 16:00:32 | | 51534 | 1ce0b391
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Misc
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Misc\visa.bmp | 02-01-1999 | 16:22:32 | | 310 | f1abfbf7
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Misc\startup.BMP | 01-29-1999 | 10:52:02 | | 246 | fd28e523
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Misc\Security.BMP | 01-29-1999 | 10:48:34 | | 246 | 52d118c4
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Misc\Pencil.bmp | 10-13-1998 | 16:09:10 | | 246 | 37759580
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Misc\owed.BMP | 01-29-1999 | 12:03:54 | | 246 | 14613f72
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Misc\Ordered.BMP | 01-29-1999 | 12:19:00 | | 246 | 3391ec52
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Misc\Mode.BMP | 01-29-1999 | 10:57:28 | | 246 | c0050a7
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Misc\Mascara.bmp | 10-13-1998 | 16:06:30 | | 246 | d8076eba
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Misc\Lipstick.bmp | 10-13-1998 | 16:00:00 | | 246 | 5137d354
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Misc\InfoPowr.BMP | 01-29-1999 | 11:22:40 | | 246 | a41b4487
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Misc\ieicon.BMP | 01-29-1999 | 10:47:34 | | 246 | 47e0e6b7
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Misc\ftpdown.BMP | 01-29-1999 | 11:05:44 | | 246 | 760d5df2
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Misc\environ.BMP | 01-29-1999 | 15:39:44 | | 246 | 7c8f70ec
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Misc\delphi.BMP | 01-29-1999 | 11:10:54 | | 246 | a9e705b9
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Misc\Country.BMP | 02-01-1999 | 16:28:10 | | 310 | 7efabe11
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Misc\balancedue.BMP | 02-01-1999 | 16:09:32 | | 310 | 65b0c93a
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Misc\applicat.BMP | 01-29-1999 | 11:14:54 | | 246 | 85778402
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Misc\AdmMode.BMP | 01-29-1999 | 10:52:54 | | 246 | b4f12ef8
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\formbuttons
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\formbuttons\Restore.bmp | 04-27-1998 | 11:25:24 | | 198 | e4d0e657
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\formbuttons\Minimize.bmp | 04-27-1998 | 11:22:58 | | 198 | 9eb33077
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\formbuttons\Maximize.bmp | 04-27-1998 | 11:22:18 | | 198 | b4e99a48
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\formbuttons\Close.bmp | 04-27-1998 | 11:24:12 | | 198 | 54081dd
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Flags
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Flags\westindie.bmp | 02-01-1999 | 16:24:46 | | 310 | d8a4c51b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Flags\virginisland.bmp | 02-01-1999 | 16:26:42 | | 310 | 6f105c63
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Flags\venezuela.bmp | 02-01-1999 | 16:21:06 | | 310 | a67aaca5
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Flags\usa.bmp | 02-01-1999 | 16:20:46 | | 310 | 8675e2fc
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Flags\greece.bmp | 02-01-1999 | 16:20:24 | | 310 | c963c41b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Flags\fiji.bmp | 02-01-1999 | 16:19:52 | | 310 | 396ba1d0
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Flags\cyprus.bmp | 02-01-1999 | 16:17:50 | | 310 | 878b5bd9
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Flags\canada.bmp | 02-01-1999 | 16:16:58 | | 310 | 25187519
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Flags\bermuda.bmp | 02-01-1999 | 16:15:48 | | 1462 | ef7752c5
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Flags\belize.bmp | 02-01-1999 | 16:10:12 | | 310 | 6b2430ee
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\Flags\bahama.bmp | 02-01-1999 | 16:09:10 | | 310 | 1c060da4
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\ditherfills
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\ditherfills\fill.BMP | 01-05-1999 | 17:38:34 | | 670 | c448f61e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\ditherfills\ditherblend.BMP | 01-05-1999 | 17:40:08 | | 670 | ac4a7ccc
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\ditherfills\dither.BMP | 01-05-1999 | 17:37:52 | | 670 | b188837c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Glyphs\bulb.BMP | 02-16-1999 | 15:22:28 | | 630 | 671ee328
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\WoodForm.BMP | 02-16-1999 | 17:00:04 | | 174846 | 962e7727
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\tabformright.BMP | 01-27-1999 | 15:04:30 | | 71318 | c853e474
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\tabformleft.BMP | 01-27-1999 | 14:42:36 | | 74374 | 9f23dbb9
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\Starform1.BMP | 02-16-1999 | 17:57:24 | | 114038 | 697671b1
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\royform.WMF | 03-25-1999 | 11:21:54 | | 476046 | 927f4fad
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\PaperForm3.BMP | 07-30-1999 | 14:27:46 | | 133470 | c7a631f
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\PaperForm2.BMP | 07-30-1999 | 10:11:38 | | 133470 | 3b3d66db
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\PaperForm.BMP | 07-30-1999 | 10:05:06 | | 126202 | 89da48e2
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\MainForm3.BMP | 01-25-1999 | 11:00:50 | | 291798 | ea684d28
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\Mainform2.BMP | 01-26-1999 | 18:30:10 | | 278878 | 2faf07ef
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\MainForm1.BMP | 01-26-1999 | 16:07:26 | | 120498 | 2707d07f
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\imager1.bmp | 07-24-1999 | 23:43:26 | | 49718 | a1573cf1
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\ImageForm.png | 03-25-1999 | 11:49:18 | | 8017 | 3ead312b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\ImageForm.gif | 03-25-1999 | 11:48:36 | | 9287 | 456f8452
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\ImageForm.bmp | 03-25-1999 | 11:49:10 | | 475686 | cc6cd96f
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\FormParts
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\FormParts\WoodVertOvalUp.BMP | 05-28-1999 | 09:42:26 | | 4278 | b4fc21c0
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\FormParts\WoodVertOvalDn.BMP | 05-28-1999 | 09:42:40 | | 4278 | ee938639
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\FormParts\WoodSplashNew.BMP | 02-16-1999 | 18:58:00 | | 6974 | c857dd43
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\FormParts\WoodRectButton.BMP | 02-16-1999 | 19:01:06 | | 1038 | 10b65f9b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\FormParts\WoodMinimize.BMP | 02-16-1999 | 18:59:04 | | 346 | 7b24bf40
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\FormParts\WoodIcon.BMP | 02-16-1999 | 18:59:18 | | 346 | c4735f34
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\FormParts\WoodHouseButton.BMP | 02-16-1999 | 18:58:22 | | 8910 | fb94bfed
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\FormParts\WoodHorzOvalUp.BMP | 05-28-1999 | 09:45:16 | | 4022 | e2afd2a4
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\FormParts\WoodHorzOvalDn.BMP | 05-28-1999 | 09:44:12 | | 4150 | 8b8dac4e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\FormParts\WoodCloseBtn.BMP | 02-16-1999 | 18:58:48 | | 346 | e03bf6fa
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\FormParts\WoodCheckedbox.BMP | 02-16-1999 | 19:01:44 | | 322 | 748a6327
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\FormParts\WoodCheckboxEmpty.BMP | 02-16-1999 | 19:02:02 | | 322 | ae8c3630
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\FormParts\WoodCheckboxEditYes.BMP | 02-17-1999 | 11:41:38 | | 2970 | e82d71db
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\FormParts\WoodCheckboxEditNo.BMP | 02-17-1999 | 11:41:44 | | 2970 | d01e25cd
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\FormParts\WoodCaptionBar.BMP | 02-16-1999 | 19:05:30 | | 12082 | 92d3ee75
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\FormParts\WoodButtonOval.BMP | 02-16-1999 | 18:57:38 | | 14182 | 36d46be6
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\FormParts\starcaptionbar.BMP | 02-16-1999 | 17:36:52 | | 36934 | accc24cb
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\FormParts\funMenubtn.BMP | 02-02-1999 | 13:21:14 | | 638 | 2fc6a84c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\FormParts\funclose.BMP | 02-02-1999 | 13:21:40 | | 370 | 9b35b5a7
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\FormParts\corkcaptionbarimage.BMP | 10-02-1998 | 09:50:58 | | 6474 | 870e092f
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\FormParts\CorkButton2.BMP | 05-18-1999 | 10:26:10 | | 3262 | 9199e79a
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\FormParts\CorkButton.BMP | 05-14-1999 | 15:32:50 | | 13038 | 6e76b137
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\CorkForm.BMP | 02-16-1999 | 16:53:20 | | 124726 | 1ef726d7
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\CoolFormShort.BMP | 01-28-1999 | 18:34:40 | | 113746 | 42076da
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\CoolformLong.BMP | 01-27-1999 | 11:48:00 | | 228382 | 5120defd
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\CoolFormGray.bmp | 02-11-1999 | 13:16:28 | | 160486 | dec29d3c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\CoolFormBlackjpg4.JPG | 03-25-1999 | 11:15:40 | | 19938 | c189c18e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\CoolFormBlackjpg3.JPG | 03-25-1999 | 11:10:42 | | 20179 | 6ce3f5e5
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\CoolFormBlackjpg2.JPG | 03-25-1999 | 11:07:16 | | 21471 | dd3d81db
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\CoolFormBlackjpg.JPG | 03-24-1999 | 16:34:58 | | 9831 | 402bbdbd
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\CoolformBlack.BMP | 02-11-1999 | 15:50:48 | | 160486 | 8f474d21
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Forms\CoolForm.bmp | 02-10-1999 | 13:16:00 | | 160486 | 52bde053
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\yellowledon.bmp | 02-26-1999 | 16:08:24 | | 2942 | ecf674b4
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\yellowleddown.bmp | 02-26-1999 | 16:08:02 | | 2942 | 2d96d7e3
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\256Color
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\256Color\yellowlighton2.BMP | 02-26-1999 | 16:10:28 | | 2598 | a49d2fe6
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\256Color\yellowlighton.BMP | 10-06-1998 | 11:18:24 | | 2598 | 7ddcdf79
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\256Color\yellowlightoff2.BMP | 02-26-1999 | 16:10:48 | | 2598 | 95a19ffe
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\256Color\yellowlightoff.BMP | 10-06-1998 | 11:17:02 | | 2598 | 34fed4b0
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\256Color\yellowbtnup.BMP | 05-27-1999 | 13:10:40 | | 2882 | fafecd89
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\256Color\yellowbtndn.BMP | 05-27-1999 | 13:10:32 | | 2882 | 5cf6d57
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\256Color\WoodRadioUnSelected.BMP | 02-16-1999 | 18:53:54 | | 2970 | 37789361
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\256Color\WoodRadioSelected2.BMP | 02-16-1999 | 19:03:14 | | 2970 | 704f66b1
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\256Color\WoodRadioSelected1.BMP | 02-16-1999 | 18:53:46 | | 2970 | 620af99d
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\256Color\Roundup.bmp | 02-05-1999 | 16:30:22 | | 11078 | 935af98a
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\256Color\Rounddn.bmp | 02-05-1999 | 16:30:26 | | 11078 | 2304ddaf
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\256Color\pushpinout.BMP | 02-15-1999 | 19:08:20 | | 2410 | 1c1f85a2
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\256Color\pushpinin.BMP | 02-15-1999 | 19:08:12 | | 2410 | 4c800906
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\256Color\ovalup.BMP | 02-12-1999 | 15:16:12 | | 6078 | f56f8a9c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\256Color\ovaldn.BMP | 02-12-1999 | 15:16:00 | | 6078 | 7f0ce24e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\256Color\Clickmeup.BMP | 01-14-1999 | 16:01:50 | | 4214 | 5606c915
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\256Color\Clickmedn.BMP | 01-14-1999 | 15:55:04 | | 4214 | b19f420
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\256Color\Clickme.BMP | 01-14-1999 | 15:56:24 | | 4214 | c9b3d597
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\16Color
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\16Color\yellowledon.BMP | 04-06-1999 | 10:25:56 | | 878 | fa60cb9e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\16Color\yellowledoff.BMP | 04-06-1999 | 10:22:18 | | 878 | 5f83ce9b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\16Color\tackgreyout.BMP | 02-15-1999 | 18:49:40 | | 1318 | ed4e8eda
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\16Color\tackgreyin.BMP | 02-15-1999 | 18:47:20 | | 1318 | faaf72e4
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\16Color\tackblueout.BMP | 02-15-1999 | 18:40:04 | | 1318 | 35356229
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\16Color\tackbluein.BMP | 02-15-1999 | 18:36:30 | | 1318 | ffaa1edf
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\16Color\tabupright.BMP | 02-17-1999 | 14:17:06 | | 1414 | 9c354fbc
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\16Color\tabdnright.BMP | 02-01-1999 | 18:38:48 | | 1414 | 65fc4078
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\16Color\tab3up.BMP | 05-19-1999 | 17:00:32 | | 2518 | 7c966e29
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\16Color\tab3dn.BMP | 05-19-1999 | 17:07:56 | | 2518 | f2854877
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\16Color\tab2up.BMP | 02-17-1999 | 14:14:18 | | 1798 | 51ffe038
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\16Color\tab2dn.BMP | 05-19-1999 | 17:00:40 | | 2518 | f2854877
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\16Color\tab1up.bmp | 02-17-1999 | 14:38:12 | | 1198 | 24d7a7e9
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\16Color\tab1dn.bmp | 02-17-1999 | 14:38:58 | | 1198 | ad120f04
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\16Color\SwitchHandleOn.BMP | 02-02-1999 | 13:55:52 | | 1234 | 8c6933bc
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\16Color\SwitchHandleOff.BMP | 02-02-1999 | 13:55:30 | | 1270 | 4f3e672f
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\16Color\SwitchBoxOn.BMP | 02-15-1999 | 18:31:48 | | 1278 | 991bbbaa
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\16Color\SwitchBoxOff.BMP | 02-15-1999 | 18:31:36 | | 1278 | c5fffc3a
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\16Color\Switch2On.BMP | 05-13-1999 | 11:32:36 | | 3278 | 18180926
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\16Color\Switch2Off.BMP | 05-13-1999 | 11:26:38 | | 3278 | 81819a90
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\16Color\Switch1On.BMP | 02-15-1999 | 18:27:56 | | 2358 | 1fdc4249
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\16Color\Switch1Off.BMP | 02-15-1999 | 18:28:04 | | 2358 | fccda235
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\16Color\RadioItemDiamondUn.BMP | 02-12-1999 | 17:16:10 | | 2158 | 90baf2f8
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\16Color\RadioItemDiamond.BMP | 01-07-1999 | 17:52:26 | | 2158 | 4bdfe3bf
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\16Color\pushpinout.BMP | 02-02-1999 | 13:58:24 | | 394 | d08c2c13
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\16Color\pushpinin.BMP | 02-02-1999 | 13:58:08 | | 394 | 5c28efc
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\16Color\LightSwitch2On.BMP | 05-13-1999 | 11:49:40 | | 2518 | 25c1b988
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\16Color\LightSwitch2Off.BMP | 05-13-1999 | 11:49:36 | | 2518 | d15718e5
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\16Color\LightSwitch1On.BMP | 02-08-1999 | 16:01:44 | | 1870 | 947c3125
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\16Color\LightSwitch1Off.BMP | 02-02-1999 | 13:39:18 | | 1870 | 664e617d
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\16Color\EditCheckboxUnChecked.BMP | 02-15-1999 | 18:21:30 | | 2294 | 69287721
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\16Color\EditCheckboxChecked.BMP | 02-10-1999 | 12:50:56 | | 2294 | bee0ce11
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\16Color\CheckBoxUnChecked.BMP | 02-02-1999 | 13:44:04 | | 630 | 53006783
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\UpDown\16Color\CheckBoxChecked.BMP | 02-02-1999 | 13:43:54 | | 630 | e959cbe3
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\256colors
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\256colors\Timer.BMP | 03-25-1999 | 17:52:04 | | 6586 | fa9f947a
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\256colors\puzzle5b.BMP | 01-05-1999 | 17:52:58 | | 6262 | 91f68570
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\256colors\puzzle4b.BMP | 01-05-1999 | 18:04:14 | | 4410 | c7a20419
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\256colors\puzzle3b.BMP | 01-05-1999 | 18:03:56 | | 5566 | 243b4537
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\256colors\puzzle2b.BMP | 01-05-1999 | 18:04:32 | | 4510 | 74fdef95
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\256colors\puzzle1b.BMP | 01-05-1999 | 18:04:54 | | 4510 | e59b44ef
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\256colors\New.BMP | 02-15-1999 | 19:14:08 | | 3886 | f1682a5c
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\256colors\Map
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\256colors\Map\worldmap.BMP | 12-15-1998 | 14:52:52 | | 95254 | cd21158a
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\256colors\Map\sonoma.BMP | 01-25-1999 | 17:38:20 | | 18358 | 87780195
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\256colors\Map\solano.BMP | 01-25-1999 | 17:35:40 | | 8278 | 5c180331
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\256colors\Map\sf.BMP | 01-25-1999 | 17:33:12 | | 1378 | 3d8cc541
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\256colors\Map\santacruz.BMP | 01-25-1999 | 17:35:04 | | 7062 | 28b3b998
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\256colors\Map\santaclara.BMP | 01-25-1999 | 17:34:34 | | 12358 | d44f92c1
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\256colors\Map\sanmateo.BMP | 01-25-1999 | 17:33:50 | | 5654 | 4d45f902
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\256colors\Map\napa.BMP | 01-25-1999 | 17:50:18 | | 8998 | af6cb738
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\256colors\Map\marin.BMP | 01-25-1999 | 17:32:20 | | 6518 | 65db1021
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\256colors\Map\contra.BMP | 01-25-1999 | 17:31:12 | | 19170 | 16ec19a0
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\256colors\Map\alameda.BMP | 01-25-1999 | 17:29:58 | | 8746 | ef142865
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\256colors\heart.BMP | 01-08-1999 | 17:33:40 | | 1974 | 8c1ada95
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\256colors\computer.BMP | 01-04-1999 | 16:34:12 | | 2478 | 97c524fe
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\256colors\butterfly.bmp | 01-05-1999 | 15:37:24 | | 3262 | 42a99cd5
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\256colors\balloon.BMP | 01-27-1999 | 11:53:08 | | 10318 | f4f99573
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\256colors\1stTrophy.BMP | 05-19-1999 | 13:37:04 | | 16730 | b8d4b89f
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\World
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\World\SouthAmerica.BMP | 12-15-1998 | 15:02:02 | | 2778 | 484c88fd
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\World\NorthAmerica.BMP | 12-15-1998 | 15:02:32 | | 11986 | 71e85ed1
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\World\Europe.BMP | 12-15-1998 | 15:01:16 | | 3462 | 440deee1
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\World\Australia.BMP | 12-15-1998 | 15:01:26 | | 2078 | 803e67d2
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\World\Asia.BMP | 01-07-1999 | 15:18:54 | | 14918 | 51912219
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\World\Africa.BMP | 12-15-1998 | 15:01:42 | | 4210 | 239f1cb0
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\StrawBerry.BMP | 02-16-1999 | 18:45:48 | | 1174 | 34765943
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\star.BMP | 02-24-1999 | 14:43:44 | | 838 | 10cb24e9
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\splash.BMP | 01-14-1999 | 16:11:26 | | 2478 | bf5b3407
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\SmoothRect.BMP | 02-17-1999 | 14:13:42 | | 1686 | bf0aded1
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\Rectangle.BMP | 04-16-1999 | 02:26:22 | | 1558 | 55a62920
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\Printer.BMP | 02-16-1999 | 18:40:14 | | 758 | 344cfce1
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\OvalGold.BMP | 02-26-1999 | 11:30:24 | | 1798 | e97bcc77
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\money.BMP | 02-02-1999 | 13:50:12 | | 858 | 8db8a2cc
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\Map
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\Map\sonoma16.BMP | 02-09-1999 | 11:20:04 | | 8758 | a3fa6d63
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\Map\solano16.BMP | 02-09-1999 | 11:17:32 | | 3718 | f07358fc
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\Map\sf16.BMP | 02-09-1999 | 11:14:56 | | 298 | 93e0f6ec
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\Map\santacruz16.BMP | 02-09-1999 | 11:12:50 | | 3110 | 38510624
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\Map\santaclara16.BMP | 02-09-1999 | 11:12:10 | | 5758 | 418161a1
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\Map\sanmateo16.BMP | 02-09-1999 | 11:14:16 | | 2582 | f40de575
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\Map\napa16.BMP | 02-09-1999 | 11:18:26 | | 4078 | 51b8eae1
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\Map\marin16.BMP | 02-09-1999 | 11:19:16 | | 2998 | 585855f0
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\Map\contra16.BMP | 02-09-1999 | 11:09:46 | | 3422 | ca415a54
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\Map\alameda16.BMP | 02-09-1999 | 11:09:02 | | 4094 | 1e46f7f4
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\knight.BMP | 03-02-1999 | 15:37:58 | | 1218 | 42e09fbb
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\golddiamond.BMP | 02-15-1999 | 19:11:40 | | 2134 | eab8bdf6
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\computer.BMP | 03-02-1999 | 15:54:14 | | 818 | ee9ca989
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\buttontab2.bmp | 02-10-1999 | 11:32:58 | | 1854 | bcfc19db
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\buttontab1.bmp | 02-10-1999 | 11:31:58 | | 1854 | 4529d635
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\butterfly.bmp | 02-02-1999 | 13:51:24 | | 1294 | bea5ccae
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\barright.BMP | 02-10-1999 | 15:11:28 | | 2362 | 77c23a85
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\barmiddle.BMP | 02-10-1999 | 15:10:48 | | 2362 | 51e56dae
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\barleft.BMP | 02-10-1999 | 15:15:32 | | 2362 | 61276af9
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\apple.bmp | 02-15-1999 | 18:14:46 | | 4342 | 12c1c84a
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\images\Buttons\Single\16Colors\1stTrophy.BMP | 05-19-1999 | 13:16:46 | | 7510 | 46ed5512
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\biolife.db | 12-05-2001 | 12:44:58 | | 10240 | e27d7701
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\biolife.mb | 12-05-2001 | 12:21:46 | | 1302528 | 3fde597d
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\biolife.px | 12-05-2001 | 12:44:58 | | 6144 | 8d12703d
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\descriptions.DB | 02-16-1999 | 15:56:48 | | 28672 | 3a24ea0a
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\descriptions.MB | 02-11-1999 | 17:47:42 | | 77824 | d3358a8b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\descriptions.PX | 02-16-1999 | 15:56:48 | | 4096 | 16156d32
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\descriptions.XG0 | 02-16-1999 | 15:56:48 | | 8192 | a48948e3
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\descriptions.YG0 | 02-16-1999 | 15:56:48 | | 4096 | 85347432
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcCounty.DB | 01-12-1999 | 14:46:40 | | 6144 | d72362ae
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcCounty.MB | 01-12-1999 | 14:46:40 | | 4096 | c4e8fe89
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fccust.DB | 12-11-1998 | 13:00:04 | | 18432 | 3e5df6d0
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fccust.PX | 12-11-1998 | 12:59:52 | | 4096 | 1b4f4dcc
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcvendors.PX | 08-05-1997 | 03:01:00 | | 4096 | baf29dd7
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcvendors.DB | 08-05-1997 | 03:01:00 | | 8192 | ded8e495
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fctreelables.db | 03-17-1999 | 08:47:28 | | 4096 | 82b7ccfe
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcpicture.PX | 12-05-2001 | 18:48:54 | | 4096 | 8e2e6aa1
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcpicture.MB | 12-05-2001 | 17:23:18 | | 258048 | 99c2406f
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcpicture.db | 12-05-2001 | 18:48:54 | | 4096 | e1d3f06e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcparts.YG0 | 08-05-1997 | 03:01:00 | | 4096 | 8edbf424
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fccust.XG0 | 12-11-1998 | 12:59:52 | | 8192 | a92ffa98
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fccust.YG0 | 12-11-1998 | 12:59:52 | | 4096 | f8be416d
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcitems.DB | 02-09-1999 | 16:10:40 | | 40960 | 71d05bc2
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcitems.PX | 02-09-1999 | 16:10:40 | | 4096 | ac1f3e7a
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcitems.X03 | 02-09-1999 | 16:10:40 | | 38912 | 6b7c5697
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcparts.Y02 | 08-05-1997 | 03:01:00 | | 4096 | 1818d285
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcitems.XG0 | 02-09-1999 | 16:10:40 | | 28672 | dd91358e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcitems.Y03 | 02-09-1999 | 16:10:40 | | 4096 | f061d027
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcitems.YG0 | 02-09-1999 | 16:10:40 | | 4096 | 4b4a07b1
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcmsg.db | 09-15-2001 | 00:09:46 | | 198656 | 463906d8
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcmsg.MB | 09-15-2001 | 00:09:46 | | 684032 | cafbd4c5
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcmsg.PX | 09-15-2001 | 00:09:46 | | 4096 | 94adcaa8
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcmsg.X05 | 09-14-2001 | 10:35:20 | | 18432 | 6cad6c09
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcmsg.X06 | 09-14-2001 | 00:02:50 | | 2048 | e9d2852
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcmsg.X07 | 09-14-2001 | 00:02:50 | | 2048 | 1fa0f0a
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcmsg.XG0 | 09-15-2001 | 00:09:46 | | 51200 | 79bf40e9
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcmsg.Y05 | 09-14-2001 | 10:35:20 | | 4096 | 369562b9
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcmsg.Y06 | 09-14-2001 | 00:02:50 | | 2048 | d56136f8
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcmsg.Y07 | 09-14-2001 | 00:02:50 | | 2048 | 578286d7
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcmsg.YG0 | 09-15-2001 | 00:09:46 | | 4096 | 7c22c98b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcorders.DB | 01-11-1999 | 18:11:22 | | 71680 | 47b8dbf1
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcorders.FAM | 01-11-1999 | 16:16:28 | | 423 | 5c9dcf16
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcorders.PX | 01-11-1999 | 18:09:28 | | 4096 | 74b25f2d
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcorders.TV | 12-09-1998 | 17:19:18 | | 5112 | 4c34d62e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcorders.VAL | 01-11-1999 | 16:16:18 | | 483 | 9eb503e7
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcorders.X02 | 12-09-1998 | 17:24:44 | | 6144 | 7d5e071
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcorders.Y02 | 12-09-1998 | 17:24:44 | | 4096 | 2e4e2b0c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcparts.DB | 01-11-1999 | 18:11:22 | | 8192 | 34c7846f
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcparts.FAM | 01-11-1999 | 16:16:32 | | 423 | a753d740
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcparts.PX | 01-11-1999 | 18:09:38 | | 4096 | 5d097316
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcparts.TV | 12-09-1998 | 17:19:12 | | 1737 | 3fbccbed
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcparts.X02 | 08-05-1997 | 03:01:00 | | 4096 | 170dc208
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\db\fcparts.XG0 | 08-05-1997 | 03:01:00 | | 6144 | 84056128
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\fcstudiowin.lib | 05-02-2008 | 16:03:44 | | 1176576 | 9f8e5b9b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\fcstudiowin.bpi | 05-02-2008 | 16:03:44 | | 240356 | c3e03f20
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\dfcstudiowin.bpi | 05-02-2008 | 16:03:48 | | 27396 | c812d51f
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\dfcstudiowin.lib | 05-02-2008 | 16:03:48 | | 122880 | dbf35011
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\dfcstudiowin110.bpl | 05-02-2008 | 16:03:48 | 5.0.3.1 | 124416 | 5792a8
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcTreeView_ItemsEditor.dfm | 05-04-1999 | 09:53:02 | | 4713 | d4faade4
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcTreeView_ItemsEditor.dcu | 05-02-2008 | 16:03:48 | | 26891 | f4e74841
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fctreeview.dcu | 05-02-2008 | 16:03:44 | | 111920 | 4d66da7
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fctreeheader.dcu | 05-02-2008 | 16:03:44 | | 33126 | e54cd81a
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fctreecombo.dcu | 05-02-2008 | 16:03:44 | | 49378 | b3d7503
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fctrackbar.dcu | 05-02-2008 | 16:03:44 | | 47854 | 3a63b2f7
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcToolTip.dcu | 05-02-2008 | 16:03:44 | | 4312 | 34b0fc10
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcText.dcu | 05-02-2008 | 16:03:44 | | 26842 | 479706ec
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcstudiowin.dcu | 05-02-2008 | 16:03:44 | | 4463 | 5fcb3040
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcStatusBar.dcu | 05-02-2008 | 16:03:44 | | 47746 | 3242049
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcShapeBtn.dcu | 05-02-2008 | 16:03:44 | | 29078 | 58781261
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcscrollbar.dcu | 05-02-2008 | 16:03:44 | | 19958 | 824f330f
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcPropEdt.dcu | 05-02-2008 | 16:03:48 | | 39398 | e204571
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcProgressBar.dcu | 05-02-2008 | 16:03:44 | | 20649 | 7142d0bb
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcPicEdt.dfm | 02-04-2000 | 18:03:32 | | 1555 | 5388830f
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcPicEdt.dcu | 05-02-2008 | 16:03:46 | | 7712 | 919a8886
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcpanel.dcu | 05-02-2008 | 16:03:44 | | 28901 | d9fc4736
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcOutlookList.dcu | 05-02-2008 | 16:03:44 | | 53436 | 81c1962e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcOutlookBar.dcu | 05-02-2008 | 16:03:44 | | 36256 | 8a197c72
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fclineseditor.dfm | 07-26-1999 | 16:03:48 | | 759 | 63e928fc
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fclineseditor.dcu | 05-02-2008 | 16:03:46 | | 5152 | b85ce570
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fclass.dcu | 05-02-2008 | 16:03:48 | | 8489 | 22bbabff
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fclabel.dcu | 05-02-2008 | 16:03:44 | | 17164 | bf988b62
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcImgBtn.dcu | 05-02-2008 | 16:03:44 | | 28712 | e3f94a6
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcimager.dcu | 05-02-2008 | 16:03:44 | | 61045 | 96cd1237
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcimagepanel.dcu | 05-02-2008 | 16:03:44 | | 14061 | 2cdeb7d6
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcimageform.dcu | 05-02-2008 | 16:03:44 | | 16799 | effb727e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcimage.dcu | 05-02-2008 | 16:03:44 | | 7379 | 95cbd66e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcGraphics.dcu | 05-02-2008 | 16:03:42 | | 1506 | 71135529
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcFrmBtn.res | 06-15-1998 | 09:26:08 | | 956 | 8b04112e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcframe.dcu | 05-02-2008 | 16:03:44 | | 13295 | bf008458
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcfontcombo.dcu | 05-02-2008 | 16:03:44 | | 28805 | 9826816c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcFont.res | 11-24-1998 | 10:23:44 | | 548 | 533888fb
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcEvaluator.dcu | 05-02-2008 | 16:03:44 | | 3746 | d7110e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcdemorichedit.dcu | 05-02-2008 | 16:03:44 | | 10016 | 33a05a28
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcdbtreeview.dcu | 05-02-2008 | 16:03:44 | | 86273 | df94cae4
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcdbcommon.dcu | 05-02-2008 | 16:03:44 | | 2329 | 4b634e94
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fccustomdraw.dcu | 05-02-2008 | 16:03:44 | | 1951 | 41820ee2
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcCommon.dcu | 05-02-2008 | 16:03:44 | | 52509 | 1b0242e8
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fccombobutton.dcu | 05-02-2008 | 16:03:44 | | 32361 | 3632a6a6
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fccombo.dcu | 05-02-2008 | 16:03:44 | | 46861 | fc3a48d3
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fccolorcombo.dcu | 05-02-2008 | 16:03:44 | | 83046 | 40fe4b95
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fccollectioneditor.dfm | 05-03-1999 | 17:14:00 | | 3476 | e0110dd5
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fccollectioneditor.dcu | 05-02-2008 | 16:03:46 | | 14641 | 3ad019a0
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcCollection.dcu | 05-02-2008 | 16:03:44 | | 3902 | 96a0afb5
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\Fccmbbtn.res | 02-26-1999 | 11:50:08 | | 2212 | aa3ba220
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcclearpanel.dcu | 05-02-2008 | 16:03:44 | | 8237 | b00d73bf
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcChangeLInk.dcu | 05-02-2008 | 16:03:42 | | 1465 | e26e63b7
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcCanvas.dcu | 05-02-2008 | 16:03:44 | | 8555 | 65b3b8c6
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fccalculator.dcu | 05-02-2008 | 16:03:44 | | 54329 | 85be42f
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcCalcEdit.dcu | 05-02-2008 | 16:03:44 | | 41294 | a1de0e77
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcbuttongroup.dcu | 05-02-2008 | 16:03:44 | | 32044 | 834968f8
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcbutton.dcu | 05-02-2008 | 16:03:44 | | 45882 | c831f6b7
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcButtns.res | 05-22-1998 | 17:48:40 | | 5124 | 437286cc
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcBrushes.res | 12-21-1998 | 13:46:26 | | 1824 | 964e7691
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcBitmap.dcu | 05-02-2008 | 16:03:44 | | 27769 | be9b7921
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcabout.dfm | 04-28-2008 | 13:18:40 | | 1421 | da056d45
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\fcabout.dcu | 05-02-2008 | 16:03:46 | | 4495 | 3085f956
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\dfcstudiowin.dcu | 05-02-2008 | 16:03:48 | | 5302 | 851408a
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\lib\windows\1stclass.dcr | 05-22-2003 | 06:51:40 | | 10292 | 24bba8d0
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcTreeView_ItemsEditor.pas | 06-22-2001 | 14:45:00 | | 22371 | 2a0d9939
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcTreeView_ItemsEditor.dfm | 05-04-1999 | 09:53:02 | | 4713 | d4faade4
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fctreeview.pas | 04-21-2005 | 08:48:52 | | 170689 | dab9172f
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fctreeheader.pas | 05-14-2003 | 09:07:22 | | 37240 | d7b07fc4
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fctreecombo.pas | 08-31-2007 | 15:29:00 | | 50712 | 5b2874ee
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fctrackbar.pas | 05-24-2004 | 15:36:44 | | 61776 | 8bb54e7
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fctpanel.pas | 06-23-2001 | 12:44:42 | | 14268 | e1365308
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcToolTip.pas | 04-27-1999 | 12:50:50 | | 1401 | a59070ef
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcText.pas | 04-16-2003 | 15:29:10 | | 37643 | 900765ca
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcStatusBar.pas | 05-14-2003 | 09:13:10 | | 61212 | 33d8c6fb
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcShapeBtn.pas | 01-12-2006 | 13:09:26 | | 23993 | f39a678f
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcscrollbar.pas | 05-14-2003 | 08:58:58 | | 26517 | e58c87c8
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcPropEdt.pas | 05-11-2007 | 12:13:52 | | 31152 | 6fb81ebb
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcProgressBar.pas | 05-21-2003 | 18:38:20 | | 17481 | a2117b3e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcPicEdt.pas | 02-04-2000 | 18:06:48 | | 3616 | d94bc59b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcPicEdt.dfm | 02-04-2000 | 18:03:32 | | 1555 | 5388830f
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcpaneltest.pas | 07-07-2001 | 15:19:00 | | 13804 | b8bb5277
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcpanel.pas | 12-19-2001 | 12:15:04 | | 25182 | 8cb1015c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcOutlookList.pas | 04-25-2006 | 16:24:32 | | 65825 | 8ba95fcd
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcOutlookBar.pas | 04-25-2006 | 16:26:34 | | 34454 | 93d15d8f
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fclineseditor.pas | 03-02-1999 | 12:33:56 | | 1687 | 9d47c664
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fclineseditor.dfm | 07-26-1999 | 16:03:48 | | 759 | 63e928fc
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fclabel.pas | 12-13-2001 | 11:56:36 | | 12739 | 757c87b6
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcintl.pas | 08-13-2001 | 15:01:12 | | 2150 | e0ff6c27
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcImgBtn.pas | 01-12-2006 | 13:09:16 | | 27327 | 12b12995
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcimager.pas | 01-12-2006 | 13:04:22 | | 70602 | 53d36180
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcimagepanel2.pas | 02-17-2000 | 18:15:36 | | 11661 | e9314061
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcimagepanel.pas | 12-22-2004 | 11:23:36 | | 9037 | dbaeb1a4
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcimageform.pas | 05-24-2002 | 15:53:52 | | 22545 | 195cc232
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcimage.pas | 09-07-2001 | 16:13:50 | | 6006 | 703bea6d
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcifdef.pas | 09-11-2007 | 14:21:22 | | 1163 | f55a34d9
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcGraphics.pas | 03-02-1999 | 16:01:30 | | 2621 | 3063b3d4
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcFrmBtn.res | 06-15-1998 | 09:26:08 | | 956 | 8b04112e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcframe.pas | 01-06-2003 | 16:33:34 | | 23955 | 812c41c9
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcfontcombo.pas | 04-03-2003 | 19:20:28 | | 18516 | d6fc5753
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcFont.res | 11-24-1998 | 10:23:44 | | 548 | 533888fb
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcEvaluator.pas | 12-07-1998 | 14:22:12 | | 2984 | 9fd6df47
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcdemorichedit.pas | 04-30-1999 | 02:33:38 | | 3023 | ee43778d
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcdbtreeview.pas | 05-08-2007 | 16:33:56 | | 135239 | dc7b1714
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcdbimager.pas | 01-12-2006 | 13:03:56 | | 25924 | 735d13e1
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcdbcommon.pas | 11-27-2001 | 10:29:28 | | 3551 | fc0b82f5
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fccustomdraw.pas | 04-27-1999 | 12:51:18 | | 5020 | 332e5ea7
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcCommon.pas | 05-02-2008 | 15:56:46 | | 82137 | 8ae8442a
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fccombobutton.pas | 09-11-2007 | 14:21:26 | | 46388 | 324c2b9a
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fccombo.pas | 08-31-2007 | 15:10:34 | | 60598 | 4ed49e62
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fccolorcombo.pas | 06-16-2007 | 15:34:50 | | 108519 | 10bdedff
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fccollectioneditor.pas | 06-22-2001 | 15:23:08 | | 14212 | 3840d67b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fccollectioneditor.dfm | 05-03-1999 | 17:14:00 | | 3476 | e0110dd5
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcCollection.pas | 04-26-1999 | 23:05:30 | | 2612 | b66f1712
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\Fccmbbtn.res | 02-26-1999 | 11:50:08 | | 2212 | aa3ba220
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcclearpanel.pas | 08-05-1999 | 00:20:34 | | 6837 | 6de1319b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcChangeLInk.pas | 03-22-1999 | 11:15:54 | | 925 | b583d676
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcCanvas.pas | 03-02-1999 | 12:31:34 | | 8752 | 443d064c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fccalculator.pas | 03-05-2002 | 10:49:14 | | 70634 | 889f373c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcCalcEdit.pas | 12-22-2004 | 11:23:42 | | 44176 | 33d7e2ed
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcbuttongroup.pas | 11-11-2003 | 10:26:44 | | 37821 | 5ea8dbef
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcbutton.pas | 02-14-2008 | 10:13:42 | | 63831 | ce66b399
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcButtns.res | 05-22-1998 | 17:48:40 | | 5124 | 437286cc
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcBrushes.res | 12-21-1998 | 13:46:26 | | 1824 | 964e7691
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcBitmap.pas | 01-24-2007 | 13:04:02 | | 40029 | b4660205
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcabout.pas | 04-30-1999 | 02:33:42 | | 779 | 671ba893
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\fcabout.dfm | 04-28-2008 | 13:18:40 | | 1421 | da056d45
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\source\windows\1stclass.dcr | 05-22-2003 | 06:51:40 | | 10292 | 24bba8d0
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Labels
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Labels\plabel.res | 03-26-1999 | 10:32:40 | | 876 | 24de9315
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Trackbar
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Trackbar\PTrackDemo.res | 05-05-2003 | 07:22:56 | | 1580 | 33ddab0f
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Trackbar\trackdemo.ddp | 05-30-2003 | 09:43:36 | | 51 | 4fc2fcbe
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Trackbar\trackdemo.dfm | 05-30-2003 | 09:43:22 | | 10860 | 27109ce
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Labels\plabel.dpr | 03-26-1999 | 10:32:28 | | 200 | b3c55131
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Labels\plabel.dof | 05-11-1999 | 14:15:48 | | 740 | f6773ea5
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Labels\labelu.pas | 04-15-1999 | 14:11:28 | | 5026 | 7841d4c7
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Labels\labelu.dfm | 03-30-1999 | 00:36:36 | | 40115 | 66541ae
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Labels\dblabelu.pas | 03-05-2002 | 14:11:30 | | 920 | 131206ce
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Labels\dblabelu.dfm | 03-05-2002 | 14:11:10 | | 18201 | 6ff36ef8
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\InfoPower
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\InfoPower\PrjIPGridDemo.res | 09-12-2002 | 22:31:00 | | 876 | dd75daa5
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\OutlookBar
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\OutlookBar\OutlookBarProj.cfg | 02-05-1999 | 15:28:46 | | 316 | 834c2a43
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\InfoPower\PrjIPGridDemo.dpr | 09-12-2002 | 16:51:40 | | 203 | 31fdf879
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\InfoPower\PrjIPGridDemo.dof | 09-17-2002 | 15:30:26 | | 2472 | 4ba68482
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\InfoPower\PrjIPGridDemo.cfg | 09-17-2002 | 15:30:26 | | 386 | feb78bdd
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\InfoPower\ipgriddemo.pas | 09-17-2002 | 08:46:36 | | 875 | a665af7c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\InfoPower\ipgriddemo.dfm | 09-17-2002 | 08:46:44 | | 18077 | 9e597983
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\InfoPower\ipgriddemo.ddp | 09-17-2002 | 08:47:40 | | 51 | c75d6e7d
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\imager
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\imager\TilerUnit.pas | 04-28-1999 | 15:45:08 | | 1208 | 23cd1a9b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\imager\TilerUnit.dfm | 04-28-1999 | 16:01:06 | | 105795 | a728152c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\imager\TilerProj.res | 04-02-1999 | 15:26:26 | | 876 | 24de9315
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\imager\TilerProj.dpr | 01-26-1999 | 11:48:44 | | 209 | 14e23e81
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Trackbar\trackdemo.pas | 05-30-2003 | 09:16:10 | | 1587 | 675837d0
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\imager\TilerProj.dof | 05-11-1999 | 14:15:36 | | 738 | 960b7182
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\treeview
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\treeview\PrjTreeDemo.dof | 05-11-1999 | 14:17:20 | | 932 | 2f959d16
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\treeview\PrjTreeDemo.dpr | 03-26-1999 | 10:54:56 | | 230 | 98094dbe
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\imager\TilerProj.cfg | 04-01-1999 | 12:12:14 | | 311 | 9fc70848
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\imager\PicEdt.pas | 02-04-2000 | 18:05:34 | | 3568 | 12eaed27
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\imager\PicEdt.dfm | 02-04-2000 | 18:05:22 | | 1543 | f2a226f8
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\imager\Party.bmp | 02-10-1999 | 17:44:06 | | 49718 | 300fce3a
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\imager\ImagerProj.res | 02-16-1999 | 12:46:26 | | 876 | ad1df479
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\imager\ImagerProj.dpr | 03-25-1999 | 17:30:22 | | 215 | 36d11ad0
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\imager\ImagerProj.dof | 05-11-1999 | 14:15:26 | | 738 | 1cf92215
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\imager\ImagerMain.pas | 04-15-1999 | 14:14:24 | | 8373 | c930b087
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\imager\ImagerMain.dfm | 04-02-1999 | 11:34:46 | | 154325 | b84af0bd
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\imager\ImagerDesc.pas | 02-08-1999 | 17:31:08 | | 352 | 4968dabd
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\imager\ImagerDesc.dfm | 02-11-1999 | 16:00:42 | | 285 | cc2b9147
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\imager\DBImageru.pas | 01-25-2006 | 18:36:16 | | 5904 | 1794062f
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\imager\DBImageru.dfm | 01-25-2006 | 18:26:36 | | 14494 | 1326703d
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\treeview\PrjTreeDemo.res | 03-26-1999 | 10:55:16 | | 876 | 76e95a1e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\treeview\treedemo.dfm | 08-20-1999 | 16:03:58 | | 54020 | f07497ae
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ColorDemo
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ColorDemo\pcolordemo.res | 03-25-1999 | 16:01:34 | | 876 | 2d37e273
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ColorDemo\pcolordemo.dpr | 03-25-1999 | 15:58:14 | | 224 | 528534f
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ColorDemo\pcolordemo.dof | 03-25-1999 | 16:01:36 | | 803 | 391955f9
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ColorDemo\colordemou.pas | 03-25-1999 | 15:58:22 | | 7540 | e540f69c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ColorDemo\colordemou.dfm | 03-30-1999 | 00:34:52 | | 12312 | c52783fa
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\imager\DBImagerProj.res | 12-05-2001 | 12:14:30 | | 876 | 483416c3
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\imager\DBImagerProj.dpr | 12-05-2001 | 16:16:52 | | 233 | 79c3a6ad
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\imager\DBImagerProj.dof | 12-05-2001 | 18:48:52 | | 1363 | 3a7382f8
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\imager\DBImagerProj.cfg | 12-05-2001 | 18:48:52 | | 386 | 98c46dd3
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ImageForm
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ImageForm\w2wform.res | 03-25-1999 | 17:04:46 | | 876 | aafa333b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ImageForm\w2wform.dpr | 03-25-1999 | 16:13:32 | | 209 | b0fe51ca
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\CalcCombo
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\CalcCombo\PCalcDemo.res | 12-06-2001 | 16:00:24 | | 876 | 483416c3
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\treeview\treedemo.pas | 09-20-2001 | 09:51:14 | | 6645 | 5a8c658
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\CalcCombo\PCalcDemo.dpr | 12-03-2004 | 10:28:52 | | 236 | 6ed50f04
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\CalcCombo\PCalcDemo.dof | 12-03-2004 | 01:32:54 | | 2255 | cf40280f
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\CalcCombo\PCalcDemo.cfg | 12-03-2004 | 01:32:54 | | 386 | 16712b0d
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\CalcCombo\CalcDemoU.pas | 12-06-2001 | 17:21:28 | | 4353 | a5efd0a1
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\CalcCombo\CalcDemoU.dfm | 12-06-2001 | 17:20:54 | | 58866 | db174356
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Buttons
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Buttons\Shapeu.pas | 04-20-1999 | 16:03:00 | | 6796 | 345eef0d
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Buttons\Shapeu.dfm | 04-20-1999 | 16:02:28 | | 101593 | 174d263b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Buttons\pshapebuttons.res | 03-25-1999 | 15:55:36 | | 876 | 24de9315
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Buttons\pshapebuttons.dpr | 03-25-1999 | 15:52:38 | | 228 | 2a6dc518
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Buttons\pshapebuttons.dof | 03-25-1999 | 15:55:40 | | 803 | 1a644196
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Buttons\pshapebuttons.cfg | 02-08-1999 | 12:03:12 | | 311 | 5ebb97be
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Buttons\pmap.res | 01-08-1999 | 16:03:00 | | 876 | cb4d809
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Buttons\pmap.dpr | 01-25-1999 | 18:09:10 | | 188 | dc65979b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Buttons\pmap.dof | 05-11-1999 | 14:13:02 | | 782 | d8ea5772
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Buttons\pmap.BCE | 01-29-1999 | 16:57:56 | | 12429 | 6c4ba9df
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Buttons\PImgDemo.res | 03-25-1999 | 15:45:52 | | 876 | 24de9315
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Buttons\PImgDemo.dpr | 03-25-1999 | 15:52:24 | | 237 | cb5148e0
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Buttons\PImgDemo.dof | 04-06-1999 | 10:37:32 | | 803 | ad6f11f1
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Buttons\PImgDemo.cfg | 01-12-1999 | 11:34:12 | | 316 | 834c2a43
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Buttons\mapu.pas | 03-31-1999 | 11:43:42 | | 2674 | 87bcfefc
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Buttons\mapu.dfm | 03-02-1999 | 10:52:16 | | 109168 | 88d09699
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Buttons\ImgButtonDemo.pas | 04-15-1999 | 14:12:34 | | 9420 | 5a3ad976
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Buttons\ImgButtonDemo.dfm | 04-14-1999 | 23:00:06 | | 240296 | 1a8ea0fa
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ButtonGroup
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ButtonGroup\tabbuttons.pas | 04-15-1999 | 14:08:48 | | 1766 | a5c672a
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ButtonGroup\tabbuttons.dfm | 09-21-2001 | 17:13:42 | | 20747 | 63f6e9a4
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ButtonGroup\ptabbuttons.res | 03-25-1999 | 15:26:58 | | 876 | cb4d809
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ButtonGroup\ptabbuttons.dpr | 01-27-1999 | 11:24:54 | | 231 | 130801e3
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ButtonGroup\ptabbuttons.dof | 04-02-1999 | 11:38:16 | | 804 | 651385e4
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ButtonGroup\pbuttongroupdemo.res | 03-29-1999 | 11:38:34 | | 876 | 24de9315
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ButtonGroup\pbuttongroupdemo.dpr | 03-25-1999 | 15:25:40 | | 249 | c5492968
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ButtonGroup\pbuttongroupdemo.dof | 02-11-2000 | 17:21:30 | | 924 | 263d9f70
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ButtonGroup\pbuttongroupdemo.cfg | 02-11-2000 | 17:21:26 | | 386 | c70cca5a
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ButtonGroup\mdiapp.ico | 06-18-1998 | 05:00:00 | | 766 | ff6434d0
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ButtonGroup\Main.pas | 04-02-1999 | 11:47:20 | | 3022 | 51e7d281
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ButtonGroup\MAIN.dfm | 03-16-1999 | 17:20:22 | | 13283 | d02a385d
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ButtonGroup\Demo1stClassMDI.res | 07-11-2001 | 16:05:06 | | 1876 | e0be5005
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ButtonGroup\Demo1stClassMDI.dpr | 03-30-1999 | 00:48:00 | | 289 | 8fce0d53
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ButtonGroup\Demo1stClassMDI.dof | 07-11-2001 | 15:44:24 | | 1396 | 463f7455
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ButtonGroup\Demo1stClassMDI.cfg | 07-11-2001 | 15:44:24 | | 414 | 11c454ed
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ButtonGroup\Childwin.pas | 03-25-1999 | 15:21:48 | | 1490 | 59bb68e5
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ButtonGroup\CHILDWIN.dfm | 04-02-1999 | 11:45:44 | | 1938 | 1934894b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ButtonGroup\buttongroupdemo.pas | 05-24-2004 | 15:15:30 | | 11820 | d9e1a7c2
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ButtonGroup\buttongroupdemo.dfm | 05-24-2004 | 15:23:44 | | 185261 | 96c0efe7
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ButtonGroup\buttongroupdemo.ddp | 05-24-2004 | 15:23:56 | | 51 | c75d6e7d
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ButtonGroup\about.pas | 06-18-1998 | 05:00:00 | | 475 | 9501fb01
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ButtonGroup\about.dfm | 06-18-1998 | 05:00:00 | | 881 | 68d78353
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Trackbar\PTrackDemo.dpr | 05-05-2003 | 13:42:08 | | 219 | 89a0badc
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Trackbar\PTrackDemo.dof | 05-05-2003 | 20:21:56 | | 3077 | d75e81ff
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Trackbar\PTrackDemo.cfg | 05-05-2003 | 20:21:48 | | 391 | b87773f8
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Trackbar\progressdemo.pas | 05-30-2003 | 10:14:08 | | 2761 | 4d55f80f
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Trackbar\progressdemo.dfm | 05-30-2003 | 10:17:52 | | 5873 | 7ca54997
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Trackbar\progressdemo.ddp | 05-30-2003 | 10:17:54 | | 51 | c75d6e7d
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\OutlookBar\InfoUnit.dfm | 03-30-1999 | 00:36:30 | | 2321 | 6a8247c2
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\OutlookBar\ControlBarUnit.dfm | 02-04-1999 | 14:02:02 | | 21712 | da40c4e7
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\mosaicform.BMP | 02-02-2000 | 13:36:18 | | 83942 | 41cf888d
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\mainu.pas | 06-30-2003 | 16:12:06 | | 10599 | cb1d1689
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\mainu.dfm | 12-22-2004 | 11:33:48 | | 205322 | e6d5d25f
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\mainu.ddp | 07-02-2003 | 17:11:34 | | 51 | 4fc2fcbe
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\linenform.BMP | 02-02-2000 | 15:21:34 | | 83942 | 4b0c6ab5
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\StatusBar
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\StatusBar\StatusBars.pas | 09-21-2001 | 17:17:06 | | 5499 | 1159a29b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\StatusBar\StatusBars.dfm | 09-21-2001 | 17:17:00 | | 52713 | 4ca373f0
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\StatusBar\PStatusBar.res | 03-26-1999 | 10:51:24 | | 876 | 272d70b4
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\StatusBar\PStatusBar.dpr | 03-26-1999 | 10:47:02 | | 236 | b4ba6036
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\StatusBar\PStatusBar.dof | 05-11-1999 | 14:16:46 | | 782 | b978fd75
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\StatusBar\PStatusBar.cfg | 02-05-1999 | 11:31:54 | | 600 | dc71b0d2
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\StatusBar\proportional.pas | 09-13-2007 | 18:48:44 | | 441 | 87a105cb
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\StatusBar\proportional.dfm | 09-13-2007 | 18:48:40 | | 2199 | ae7cf410
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\StatusBar\PPropDemo.res | 03-26-1999 | 10:41:58 | | 876 | 24de9315
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\StatusBar\PPropDemo.dpr | 03-26-1999 | 10:41:30 | | 236 | 978bef21
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\StatusBar\PPropDemo.dof | 05-11-1999 | 14:16:30 | | 738 | 1cf92215
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ProgressBar
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ProgressBar\trackdemo.pas | 05-16-2003 | 11:14:30 | | 389 | ff5537cc
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ProgressBar\trackdemo.dfm | 05-16-2003 | 10:56:20 | | 1382 | 8311baa4
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ProgressBar\progressdemo.pas | 05-16-2003 | 11:14:44 | | 392 | ab1cd419
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ProgressBar\progressdemo.dfm | 05-16-2003 | 10:56:20 | | 1382 | 8311baa4
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\PlainForm.BMP | 02-02-2000 | 15:00:44 | | 83942 | af6ccb1d
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\parchmentform.bmp | 02-01-2000 | 17:09:12 | | 83942 | f12273b5
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Panels
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Panels\PanelDemo.pas | 12-06-2001 | 12:57:34 | | 2544 | 6e178f73
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Panels\PanelDemo.dfm | 12-06-2001 | 12:59:42 | | 17705 | e4bc56ac
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Panels\PanelDemo.ddp | 11-16-2001 | 17:34:30 | | 51 | 4fc2fcbe
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Panels\Panel2u.pas | 12-06-2001 | 15:11:28 | | 4550 | 4d41cf90
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Panels\Panel2u.dfm | 12-06-2001 | 15:10:40 | | 96119 | f8d2df7
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\OutlookBar\PaintUnit.pas | 04-15-1999 | 14:04:30 | | 3993 | 21cb9055
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\OutlookBar\PaintUnit.dfm | 04-28-1999 | 15:32:06 | | 25382 | 6559741
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\OutlookBar\Paint.res | 03-26-1999 | 10:37:18 | | 876 | ad1df479
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\OutlookBar\Paint.dpr | 03-26-1999 | 10:34:44 | | 247 | e496ec59
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\OutlookBar\Paint.dof | 05-11-1999 | 14:16:02 | | 738 | 1cf92215
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\OutlookBar\OutlookBarUnit.pas | 12-06-2001 | 12:25:40 | | 1478 | f6480e19
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\OutlookBar\OutlookBarUnit.dfm | 12-06-2001 | 12:27:18 | | 77359 | 2c0e47ef
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\OutlookBar\OutlookBarProj.res | 03-26-1999 | 10:40:18 | | 876 | 24de9315
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\OutlookBar\InfoUnit.pas | 03-26-1999 | 10:34:26 | | 387 | 4bedbe8b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\OutlookBar\OutlookBarProj.dpr | 03-26-1999 | 10:39:48 | | 239 | 855e45d0
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\OutlookBar\OutlookBarProj.dof | 05-11-1999 | 14:16:14 | | 740 | 7ac06f20
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\OutlookBar\OutlookBarProj.dfm | 02-04-1999 | 14:02:02 | | 21712 | da40c4e7
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\dbtreeview
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\dbtreeview\DBSelfTree.ddp | 10-31-2001 | 17:44:22 | | 33 | c86bad3a
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\dbtreeview\DBSelfTree.dfm | 11-16-2001 | 12:10:48 | | 15428 | 96250601
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\dbtreeview\DBSelfTree.pas | 09-26-2001 | 16:47:46 | | 5221 | 80729c2
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\dbtreeview\DBTreeSample1.ddp | 01-19-2006 | 16:03:46 | | 51 | c75d6e7d
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\dbtreeview\DBTreeSample1.dfm | 01-25-2006 | 18:26:16 | | 227324 | 712588ba
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\dbtreeview\DBTreeSample1.pas | 01-25-2006 | 18:26:32 | | 11050 | 18efeb6f
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\dbtreeview\DBTreeSample2.dfm | 04-01-1999 | 00:47:20 | | 20916 | c5fe58ef
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\dbtreeview\DBTreeSample2.pas | 04-01-1999 | 00:41:14 | | 8683 | eacc3bd3
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\dbtreeview\PrjDBSample1.dof | 04-02-1999 | 15:24:46 | | 1006 | 80a12213
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ImageForm\w2wform.dof | 03-25-1999 | 17:04:54 | | 803 | 391955f9
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ImageForm\PTabForm.res | 02-16-1999 | 11:49:00 | | 876 | ad1df479
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ImageForm\PTabForm.dpr | 02-16-1999 | 11:49:58 | | 225 | 6b3b8fc5
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ImageForm\PTabForm.dof | 05-11-1999 | 14:14:42 | | 738 | 1cf92215
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ImageForm\orderformu.pas | 12-23-2004 | 13:09:54 | | 4410 | 814a7e65
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ImageForm\orderformu.dfm | 12-23-2004 | 13:09:50 | | 192499 | 646876a4
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ImageForm\orderformu.ddp | 07-02-2003 | 11:17:32 | | 51 | c75d6e7d
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ImageForm\imagetabformu.pas | 12-23-2004 | 13:09:36 | | 1749 | e9c9fdbf
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ImageForm\imagetabformu.dfm | 12-23-2004 | 13:08:02 | | 134674 | e8e3452a
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ImageCombo
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ImageCombo\ImgCombosDemo.res | 03-25-1999 | 16:10:36 | | 876 | aafa333b
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ImageCombo\ImgCombosDemo.dpr | 03-25-1999 | 16:08:00 | | 237 | d1953b6a
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ImageCombo\ImgCombosDemo.dof | 04-14-1999 | 23:01:28 | | 803 | 391955f9
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ImageCombo\ImgCombos.pas | 05-07-1999 | 12:00:58 | | 3053 | 232c41b8
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\ImageCombo\ImgCombos.dfm | 05-07-1999 | 11:52:16 | | 15456 | 68e42f58
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\framing
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\framing\wrinkleform.BMP | 02-02-2000 | 15:21:44 | | 83942 | 440c918c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\framing\wrinkle.BMP | 02-03-2000 | 17:10:50 | | 37558 | 898c4d31
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\framing\test.BMP | 02-08-2000 | 17:35:32 | | 8054 | 7da70f27
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\framing\PlainForm.BMP | 02-02-2000 | 15:00:44 | | 83942 | af6ccb1d
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\framing\plain.BMP | 02-03-2000 | 17:10:10 | | 238 | 507f1d03
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\framing\pFrame.res | 02-08-2000 | 18:16:56 | | 876 | cb4d809
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\framing\pFrame.dpr | 02-03-2000 | 11:03:00 | | 200 | 1b5aa09a
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\framing\pFrame.dof | 02-08-2000 | 18:17:06 | | 1160 | 138384d0
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\framing\pFrame.cfg | 02-08-2000 | 18:17:00 | | 386 | b1c3f9fd
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\framing\parchmentform.bmp | 02-01-2000 | 17:09:12 | | 83942 | f12273b5
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\framing\parchment.BMP | 02-03-2000 | 17:16:00 | | 8310 | b36b9407
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\framing\parchform3.BMP | 02-01-2000 | 17:09:12 | | 83942 | f12273b5
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\framing\mosaicform.BMP | 02-02-2000 | 13:36:18 | | 83942 | 41cf888d
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\framing\mosaic.BMP | 02-03-2000 | 17:12:28 | | 27702 | 2d90da7d
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\framing\linenform.BMP | 02-02-2000 | 15:21:34 | | 83942 | 4b0c6ab5
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\framing\linen.BMP | 02-03-2000 | 17:14:12 | | 2558 | 2b21f5f5
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\framing\graydots.BMP | 02-03-2000 | 17:21:38 | | 598 | e8abe93c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\framing\Frameu.pas | 12-23-2004 | 13:11:46 | | 5445 | 23cc539
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\framing\Frameu.dfm | 12-23-2004 | 13:11:32 | | 222527 | f14b3afa
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\framing\Frameu.ddp | 07-11-2001 | 16:27:56 | | 51 | 4fc2fcbe
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Demo1stClass.res | 12-22-2004 | 11:33:08 | | 876 | 8c341621
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Demo1stClass.identcache | 06-26-2007 | 16:26:42 | | 2244 | a4a8763
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\wrinkleform.BMP | 02-02-2000 | 15:21:44 | | 83942 | 440c918c
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Demo1stClass.dpr | 07-02-2003 | 17:11:32 | | 2025 | 15a2c34
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Demo1stClass.dof | 07-02-2003 | 15:55:10 | | 2213 | 52ef1f9a
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Demo1stClass.cfg | 01-25-2006 | 18:23:40 | | 484 | 8f711431
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Demo1stClass.bdsproj.local | 12-22-2004 | 11:33:12 | | 62 | 35343d43
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\Demo1stClass.bdsproj | 12-22-2004 | 11:33:12 | | 7958 | 71632eab
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\dbtreeview\prjdbselftree.res | 08-02-2001 | 17:00:00 | | 876 | 483416c3
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\dbtreeview\PrjDBSelfTree.dpr | 09-20-2001 | 17:55:22 | | 213 | b8f7c66d
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\dbtreeview\PrjDBSelfTree.dof | 11-16-2001 | 11:40:24 | | 1094 | 4bb95ba8
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\dbtreeview\PrjDBSelfTree.cfg | 11-16-2001 | 11:40:24 | | 386 | 98c46dd3
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\dbtreeview\PrjDBSample2.res | 03-25-1999 | 16:05:42 | | 876 | 899a5672
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\dbtreeview\PrjDBSample2.dpr | 03-31-1999 | 23:41:20 | | 238 | 923c9c32
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\dbtreeview\PrjDBSample2.dof | 04-01-1999 | 12:49:36 | | 1114 | 84ed081f
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\dbtreeview\PrjDBSample1.res | 03-25-1999 | 16:05:42 | | 876 | 899a5672
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\demos\windows\dbtreeview\PrjDBSample1.dpr | 03-25-1999 | 16:05:12 | | 235 | ac71092e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\build.bat | 05-11-2007 | 11:50:46 | | 1821 | 6471d21
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\dfcstudiowin.bdsproj | 05-11-2007 | 11:25:30 | | 8290 | a7adf786
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\dfcstudiowin.bdsproj.local | 01-24-2006 | 10:21:36 | | 62 | 35343d43
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\dfcstudiowin.cfg | 01-24-2006 | 10:08:36 | | 482 | bb106e82
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\dfcstudiowin.dcp | 05-02-2008 | 16:03:48 | | 102315 | ca9de5e9
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\dfcstudiowin.dpk | 09-11-2007 | 13:57:16 | | 761 | 3915dc7e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\dfcstudiowin.res | 09-11-2007 | 13:57:14 | | 1596 | df35192e
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\fcstudiowin.bdsproj | 09-08-2006 | 09:34:56 | | 8299 | f1b5991d
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\fcstudiowin.bdsproj.local | 09-08-2006 | 09:34:56 | | 62 | 35343d43
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\fcstudiowin110.bpl | 05-02-2008 | 16:03:44 | 5.0.3.3 | 750592 | ec0296fa
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\fcstudiowin.cfg | 09-08-2006 | 09:18:56 | | 486 | f8c67466
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\fcstudiowin.dpk | 05-02-2008 | 15:57:58 | | 1229 | 63632d30
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\fcstudiowin.res | 05-02-2008 | 15:57:56 | | 1708 | eb8385a4
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\fcstudiowin.dcp | 05-02-2008 | 16:03:44 | | 1040655 | 7744c91d
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\readme.htm | 01-10-2008 | 16:35:44 | | 13979 | 88818d70
+Made Dir: C:\Program Files (x86)\Woll2Woll\fcstudio2007\temp
+File Copy: C:\Program Files (x86)\Woll2Woll\fcstudio2007\temp\gacutil.exe | 09-23-2005 | 08:01:18 | 2.0.50727.42 | 97472 | d289f3d3
+RegDB Key: Software\Woll2Woll\1stClassStudio2007
+RegDB Val: C:\Program Files (x86)\Woll2Woll\fcstudio2007
+RegDB Name: RootDir
+RegDB Root: 1
+RegDB Key: Software\Woll2Woll\1stClassStudio2007
+RegDB Val: C:\Windows\system32
+RegDB Name: RegDir
+RegDB Root: 1
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\dfcstudiowin.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcAbout.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcBitmap.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcButton.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcButtonGroup.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fccalcedit.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcCalculator.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fccanvas.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcChangeLink.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcClearPanel.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcCollection.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcCollectionEditor.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcColorCombo.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fccombo.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fccombobutton.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcCommon.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcCustomDraw.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcdbcommon.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcDBTreeView.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcDemoRichEdit.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcEvaluator.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcFontCombo.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcframe.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcGraphics.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcimage.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcimageform.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcimagepanel.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcImager.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcImgBtn.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcLabel.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fClass.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcLinesEditor.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcOutlookBar.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcOutlookList.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcpanel.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcPicEdt.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcprogressbar.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcPropEdt.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcscrollbar.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcShapeBtn.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcStatusBar.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcstudiowin.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcText.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcToolTip.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fctrackbar.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcTreeCombo.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fctreeheader.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcTreeView.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\fcTreeView_ItemsEditor.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\fcBrushes.res
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\fcButtns.res
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\Fccmbbtn.res
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\fcFont.res
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\fcFrmBtn.res
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\fcabout.dfm
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\fccollectioneditor.dfm
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\fclineseditor.dfm
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\fcPicEdt.dfm
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\fcTreeView_ItemsEditor.dfm
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\\dfcstudiowin.lib
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\\fcstudiowin.lib
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\\dfcstudiowin.bpi
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\\fcstudiowin.bpi
+File Copy: C:\Windows\System32\registerw2w2.exe
+File Copy: C:\Windows\System32\fcstudiowin110.bpl
+RegDB Key: Software\Borland\BDS\5.0\Known Packages
+RegDB Val: Woll2Woll 1stClass Studio Windows
+RegDB Name: C:\Program Files (x86)\Woll2Woll\fcstudio2007\bin\windows\dfcstudiowin110.bpl
+RegDB Root: 1
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\fcstudiowin.dcp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\dfcstudiowin.dcp
+RegDB Key: Software\Borland\BDS\5.0\Disabled Packages
+RegDB Val: Woll2Woll 1stClass Studio
+RegDB Name: C:\Program Files\CodeGear\Rad studio\5.0\bin\windows\dfcstudiowin100.bpl
+RegDB Root: 1
+RegDB Key: Software\Woll2Woll\1STCLASSSTUDIO2007
+RegDB Val: LASS-55
+RegDB Name: RegMask
+RegDB Root: 1
+RegDB Root: 1

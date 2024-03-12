@@ -1,0 +1,44 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{27aeda42-212e-423a-9202-704da9373505}</ProjectGuid>
+  </PropertyGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Projects Include="XMLPartner_PD70.dproj" />
+    <Projects Include="XMLPartner_PR70.dproj" />
+  </ItemGroup>
+  <ProjectExtensions>
+    <Borland.Personality>Default.Personality</Borland.Personality>
+    <Borland.ProjectType />
+    <BorlandProject>
+  <BorlandProject xmlns=""> <Default.Personality> </Default.Personality> </BorlandProject></BorlandProject>
+  </ProjectExtensions>
+  <Target Name="XMLPartner_PD70">
+    <MSBuild Projects="XMLPartner_PD70.dproj" Targets="" />
+  </Target>
+  <Target Name="XMLPartner_PD70:Clean">
+    <MSBuild Projects="XMLPartner_PD70.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="XMLPartner_PD70:Make">
+    <MSBuild Projects="XMLPartner_PD70.dproj" Targets="Make" />
+  </Target>
+  <Target Name="XMLPartner_PR70">
+    <MSBuild Projects="XMLPartner_PR70.dproj" Targets="" />
+  </Target>
+  <Target Name="XMLPartner_PR70:Clean">
+    <MSBuild Projects="XMLPartner_PR70.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="XMLPartner_PR70:Make">
+    <MSBuild Projects="XMLPartner_PR70.dproj" Targets="Make" />
+  </Target>
+  <Target Name="Build">
+    <CallTarget Targets="XMLPartner_PD70;XMLPartner_PR70" />
+  </Target>
+  <Target Name="Clean">
+    <CallTarget Targets="XMLPartner_PD70:Clean;XMLPartner_PR70:Clean" />
+  </Target>
+  <Target Name="Make">
+    <CallTarget Targets="XMLPartner_PD70:Make;XMLPartner_PR70:Make" />
+  </Target>
+  <Import Condition="Exists('$(MSBuildBinPath)\Borland.Group.Targets')" Project="$(MSBuildBinPath)\Borland.Group.Targets" />
+</Project>

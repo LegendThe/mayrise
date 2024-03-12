@@ -1,0 +1,46 @@
+ISGMapi Component 2.5
+Copyright (C) 1995-99 Infinity Software Group
+All Rights Reserved
+
+For ordering information, see the file ORDER.TXT.
+
+License Agreement
+
+You should carefully read the following terms and conditions
+before using this software.  Unless you have a different license
+agreement signed by Infinity Software Group, your use of this
+software you indicates your acceptance of this license agreement
+and warranty.
+
+Registered Version
+
+One registered copy of ISGMapi Component may either be used by a single
+person who uses the software personally on one or more computers,or installed 
+on a single workstation used nonsimultaneously by multiple people, but not 
+both.
+
+You may access the registered version of ISGMapi Component through a network,
+provided that you have obtained individual licenses for the software covering 
+all workstations that will access the software through the network.  For 
+instance, if 8 different workstations will access ISGMapi Component on the 
+network, each workstation must have its own ISGMapi Component license, 
+regardless of whether they use ISGMapi Component at different times or 
+concurrently.
+
+Governing Law
+
+This agreement shall be governed by the laws of the State of Louisiana.
+
+Disclaimer of Warranty
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND WITHOUT 
+WARRANTIES AS TO PERFORMANCE OF MERCHANTABILITY OR ANY OTHER WARRANTIES 
+WHETHER EXPRESSED OR IMPLIED. Because of the various hardware and software 
+environments into which ISGMapi Component may be put, NO WARRANTY OF FITNESS 
+FOR A PARTICULAR PURPOSE IS OFFERED.
+
+Good data processing procedure dictates that any program be thoroughly tested 
+with non-critical data before relying on it.  The user must assume the entire 
+risk of using the program.  ANY LIABILITY OF THE SELLER WILL BE LIMITED 
+EXCLUSIVELY TO PRODUCT REPLACEMENT OR REFUND OF PURCHASE PRICE.
+

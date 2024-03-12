@@ -1,0 +1,44 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{9c3fd809-af73-4683-9242-70a2d242985c}</ProjectGuid>
+  </PropertyGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Projects Include="dcldxEdtrD7.dproj" />
+    <Projects Include="dxEdtrD7.dproj" />
+  </ItemGroup>
+  <ProjectExtensions>
+    <Borland.Personality>Default.Personality</Borland.Personality>
+    <Borland.ProjectType />
+    <BorlandProject>
+  <BorlandProject xmlns=""> <Default.Personality> </Default.Personality> </BorlandProject></BorlandProject>
+  </ProjectExtensions>
+  <Target Name="dcldxEdtrD7">
+    <MSBuild Projects="dcldxEdtrD7.dproj" Targets="" />
+  </Target>
+  <Target Name="dcldxEdtrD7:Clean">
+    <MSBuild Projects="dcldxEdtrD7.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="dcldxEdtrD7:Make">
+    <MSBuild Projects="dcldxEdtrD7.dproj" Targets="Make" />
+  </Target>
+  <Target Name="dxEdtrD7">
+    <MSBuild Projects="dxEdtrD7.dproj" Targets="" />
+  </Target>
+  <Target Name="dxEdtrD7:Clean">
+    <MSBuild Projects="dxEdtrD7.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="dxEdtrD7:Make">
+    <MSBuild Projects="dxEdtrD7.dproj" Targets="Make" />
+  </Target>
+  <Target Name="Build">
+    <CallTarget Targets="dcldxEdtrD7;dxEdtrD7" />
+  </Target>
+  <Target Name="Clean">
+    <CallTarget Targets="dcldxEdtrD7:Clean;dxEdtrD7:Clean" />
+  </Target>
+  <Target Name="Make">
+    <CallTarget Targets="dcldxEdtrD7:Make;dxEdtrD7:Make" />
+  </Target>
+  <Import Condition="Exists('$(MSBuildBinPath)\Borland.Group.Targets')" Project="$(MSBuildBinPath)\Borland.Group.Targets" />
+</Project>

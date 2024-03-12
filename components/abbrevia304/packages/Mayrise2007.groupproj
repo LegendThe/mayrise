@@ -1,0 +1,54 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{57b4a6cd-6e10-446d-8c4d-7404f3f58858}</ProjectGuid>
+  </PropertyGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Projects Include="B304vd70.dproj" />
+    <Projects Include="B304vr70.dproj" />
+    <Projects Include="B304_r70.dproj" />
+  </ItemGroup>
+  <ProjectExtensions>
+    <Borland.Personality>Default.Personality</Borland.Personality>
+    <Borland.ProjectType />
+    <BorlandProject>
+  <BorlandProject xmlns=""> <Default.Personality> </Default.Personality> </BorlandProject></BorlandProject>
+  </ProjectExtensions>
+  <Target Name="B304vr70">
+    <MSBuild Projects="B304vr70.dproj" Targets="" />
+  </Target>
+  <Target Name="B304vr70:Clean">
+    <MSBuild Projects="B304vr70.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="B304vr70:Make">
+    <MSBuild Projects="B304vr70.dproj" Targets="Make" />
+  </Target>
+  <Target Name="B304vd70">
+    <MSBuild Projects="B304vd70.dproj" Targets="" />
+  </Target>
+  <Target Name="B304vd70:Clean">
+    <MSBuild Projects="B304vd70.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="B304vd70:Make">
+    <MSBuild Projects="B304vd70.dproj" Targets="Make" />
+  </Target>
+  <Target Name="B304_r70">
+    <MSBuild Projects="B304_r70.dproj" Targets="" />
+  </Target>
+  <Target Name="B304_r70:Clean">
+    <MSBuild Projects="B304_r70.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="B304_r70:Make">
+    <MSBuild Projects="B304_r70.dproj" Targets="Make" />
+  </Target>
+  <Target Name="Build">
+    <CallTarget Targets="B304vr70;B304vd70;B304_r70" />
+  </Target>
+  <Target Name="Clean">
+    <CallTarget Targets="B304vr70:Clean;B304vd70:Clean;B304_r70:Clean" />
+  </Target>
+  <Target Name="Make">
+    <CallTarget Targets="B304vr70:Make;B304vd70:Make;B304_r70:Make" />
+  </Target>
+  <Import Condition="Exists('$(MSBuildBinPath)\Borland.Group.Targets')" Project="$(MSBuildBinPath)\Borland.Group.Targets" />
+</Project>

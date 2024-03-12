@@ -1,0 +1,42 @@
+package ISGMapi25;
+
+{$R *.RES}
+{$R 'Isgmapi.dcr'}
+{$R 'Frmpkg.dcr'}
+{$R 'Isgclist.dcr'}
+{$ALIGN ON}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO OFF}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION ON}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO OFF}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES OFF}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST ON}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$DESCRIPTION 'ISGMapi 2.4 for Delphi 5.0'}
+{$DESIGNONLY}
+{$IMPLICITBUILD OFF}
+
+requires
+  vcl50;
+
+contains
+  Isgmapi in 'Isgmapi.pas',
+  FrmPkged in 'FrmPkged.pas',
+  Frmpkg in 'Frmpkg.pas',
+  Eflib in 'Eflib.pas',
+  Isgclist in 'Isgclist.pas';
+
+end.

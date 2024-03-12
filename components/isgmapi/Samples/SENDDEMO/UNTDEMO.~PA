@@ -1,0 +1,200 @@
+unit Untdemo;
+
+interface
+
+uses
+  SysUtils, WinTypes, WinProcs, Messages, Classes, Graphics, Controls,
+  Forms, Dialogs, StdCtrls, Menus, ExtCtrls, ISGMapi;
+
+type
+  TfrmSampleMail = class(TForm)
+    MainMenu1: TMainMenu;
+    File1: TMenuItem;
+    Open1: TMenuItem;
+    N1: TMenuItem;
+    Exit1: TMenuItem;
+    Mail1: TMenuItem;
+    Address1: TMenuItem;
+    AttachFile1: TMenuItem;
+    Send1: TMenuItem;
+    Memo1: TMemo;
+    pnlTop: TPanel;
+    lblTo: TLabel;
+    lblCC: TLabel;
+    lblAttach: TLabel;
+    cbxAttach: TComboBox;
+    cbxCC: TComboBox;
+    cbxTo: TComboBox;
+    btnSendMail: TButton;
+    OpenDialog1: TOpenDialog;
+    btnClearItem: TButton;
+    edSubject: TEdit;
+    lblSubject: TLabel;
+    IfIwantComposeOnly1: TMenuItem;
+    Compose1: TMenuItem;
+    ISGMapi1: TISGMapi;
+    Button1: TButton;
+    procedure Exit1Click(Sender: TObject);
+    procedure btnSendMailClick(Sender: TObject);
+    procedure Open1Click(Sender: TObject);
+    procedure Address1Click(Sender: TObject);
+    procedure AttachFile1Click(Sender: TObject);
+    procedure btnClearItemClick(Sender: TObject);
+    procedure Compose1Click(Sender: TObject);
+    procedure FormCreate(Sender: TObject);
+    procedure FormDestroy(Sender: TObject);
+    procedure Button1Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmSampleMail: TfrmSampleMail;
+
+implementation
+
+{$R *.DFM}
+
+procedure TfrmSampleMail.FormCreate(Sender: TObject);
+begin
+  { I could require users to be logged in to MSMail
+      to access the application, but it is not necessary}
+
+  ISGMapi1.Options:=[mfShowUI];
+  ISGMapi1.Logon;
+  if not ISGMapi1.Connected then
+  begin
+    MessageDlg('Unable to login to Mail.',mtError,[mbOk],0);
+    Application.Terminate;
+  end;
+
+end;
+
+procedure TfrmSampleMail.Exit1Click(Sender: TObject);
+begin
+  Close;
+end;
+
+procedure TfrmSampleMail.btnSendMailClick(Sender: TObject);
+Var
+  i:integer;
+begin
+  {Just to make sure that I have the flags that I want}
+  ISGMapi1.Options:=[mfShowUI];
+
+  {It is not necessary to use the Logon method.
+   - If you are logged into MSMail, then you will not be asked to log in again.
+   - If you are NOT, then you will have to log in
+     - Exception: when the username and password is specified }
+
+  {Add all attachments from combobox at one time}
+  ISGMapi1.Attachments.Clear;
+  ISGMapi1.Attachments.AddStrings(cbxAttach.Items);
+
+  {Copy the Subject text from control into Message}
+  ISGMapi1.Subject:=edSubject.Text;
+
+  {Copy Text from Memo Control into Message}
+  ISGMapi1.NoteText.Clear;
+  ISGMapi1.NoteText.AddStrings(Memo1.Lines);
+
+  ISGMapi1.SendMail; {Send the message}
+  if ISGMapi1.Result<>SUCCESS_SUCCESS then
+    MessageDlg('Unable to send Message.',mtError,[mbOk],0)
+  else
+    Close;
+end;
+
+procedure TfrmSampleMail.Open1Click(Sender: TObject);
+begin
+  {Load a Text file into Memo}
+  OpenDialog1.Filter := 'Text files|*.TXT';
+  OpenDialog1.DefaultExt:='TXT';
+  if OpenDialog1.Execute then
+  begin
+    Memo1.Lines.LoadfromFile(OpenDialog1.FileName);
+  end;
+end;
+
+procedure TfrmSampleMail.Address1Click(Sender: TObject);
+Var
+  i:integer;
+begin
+  with ISGMapi1 do
+  begin
+    RecipTypeCount:=2;  {Both To and CC will be displayed}
+    Address;            {Show Address Book}
+
+    {After address book is closed, the Address Comboboxes are updated}
+    cbxTo.Items.Clear;
+    for i:=0 to RecipientsTo.Count-1 do
+      cbxTo.Items.Add(MapiName(RecipientsTo[i]));
+    cbxTo.ItemIndex:=0;
+    cbxCC.Items.Clear;
+    for i:=0 to RecipientsCC.Count-1 do
+      cbxCC.Items.Add(MapiName(RecipientsCC[i]));
+    cbxCC.ItemIndex:=0;
+  end;
+end;
+
+procedure TfrmSampleMail.AttachFile1Click(Sender: TObject);
+begin
+  {Get a filename and add it to combobox}
+  OpenDialog1.Filter := 'Text files|*.TXT|All files|*.*';
+  OpenDialog1.FilterIndex:=2;
+
+  if OpenDialog1.Execute then
+    cbxAttach.ItemIndex:=cbxAttach.Items.Add(OpenDialog1.FileName);
+end;
+
+procedure TfrmSampleMail.btnClearItemClick(Sender: TObject);
+begin
+  {Delete the currently selected Attachment from combobox}
+  if cbxAttach.ItemIndex > -1 then
+  begin
+    cbxAttach.Items.Delete(cbxAttach.ItemIndex);
+    cbxAttach.ItemIndex:=0;
+  end;
+end;
+
+procedure TfrmSampleMail.Compose1Click(Sender: TObject);
+begin
+  {Clear the selected Recipients}
+  {Just get a blank compose screen from MSMail.}
+  with ISGMapi1 do
+  begin
+    RecipientsTo.Clear;
+    RecipientsCC.Clear;
+    Options:=[mfShowUI,mfDialog];
+    SendMail;
+  end;
+end;
+
+procedure TfrmSampleMail.FormDestroy(Sender: TObject);
+begin
+  { If Connected then Logoff of the Mail System }
+  { - This is only necessary if you explicitly logged in }
+  {     to the system with a call to the Logon method }
+  if ISGMapi1.Connected then
+    ISGMapi1.Logoff;
+end;
+
+procedure TfrmSampleMail.Button1Click(Sender: TObject);
+begin
+  with ISGMapi1 do
+    begin
+      MessageID:='';
+      MessageType:='';
+      Options:=[mfUnreadOnly];
+      FindNext;
+      while Result=SUCCESS_SUCCESS do
+        begin
+          Memo1.Lines.Add(Originator);
+          FindNext;
+        end;
+    end;
+end;
+
+end.

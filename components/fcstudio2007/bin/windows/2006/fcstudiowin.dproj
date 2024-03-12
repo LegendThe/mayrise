@@ -1,0 +1,95 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{62e0e54d-f0f9-4870-b2bd-54937e39becd}</ProjectGuid>
+    <MainSource>fcstudiowin.dpk</MainSource>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <DCC_DCCCompiler>DCC32</DCC_DCCCompiler>
+    <DCC_DependencyCheckOutputName>fcstudiowin110.bpl</DCC_DependencyCheckOutputName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <Version>7.0</Version>
+    <DCC_AssertionsAtRuntime>False</DCC_AssertionsAtRuntime>
+    <DCC_DebugInformation>False</DCC_DebugInformation>
+    <DCC_WriteableConstants>True</DCC_WriteableConstants>
+    <DCC_LocalDebugSymbols>False</DCC_LocalDebugSymbols>
+    <DCC_SymbolReferenceInfo>0</DCC_SymbolReferenceInfo>
+    <DCC_BplOutput>..\..\bin\windows</DCC_BplOutput>
+    <DCC_DcpOutput>..\..\bin\windows</DCC_DcpOutput>
+    <DCC_UnitSearchPath>..\..\source\windows</DCC_UnitSearchPath>
+    <DCC_ResourcePath>..\..\source\windows</DCC_ResourcePath>
+    <DCC_ObjPath>..\..\source\windows</DCC_ObjPath>
+    <DCC_IncludePath>..\..\source\windows</DCC_IncludePath>
+    <DCC_Define>RELEASE</DCC_Define>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <Version>7.0</Version>
+    <DCC_AssertionsAtRuntime>False</DCC_AssertionsAtRuntime>
+    <DCC_DebugInformation>False</DCC_DebugInformation>
+    <DCC_WriteableConstants>True</DCC_WriteableConstants>
+    <DCC_LocalDebugSymbols>False</DCC_LocalDebugSymbols>
+    <DCC_SymbolReferenceInfo>0</DCC_SymbolReferenceInfo>
+    <DCC_BplOutput>..\..\bin\windows</DCC_BplOutput>
+    <DCC_DcpOutput>..\..\bin\windows</DCC_DcpOutput>
+    <DCC_UnitSearchPath>..\..\source\windows</DCC_UnitSearchPath>
+    <DCC_ResourcePath>..\..\source\windows</DCC_ResourcePath>
+    <DCC_ObjPath>..\..\source\windows</DCC_ObjPath>
+    <DCC_IncludePath>..\..\source\windows</DCC_IncludePath>
+  </PropertyGroup>
+  <ProjectExtensions>
+    <Borland.Personality>Delphi.Personality</Borland.Personality>
+    <Borland.ProjectType>Package</Borland.ProjectType>
+    <BorlandProject>
+<BorlandProject><Delphi.Personality><Parameters><Parameters Name="UseLauncher">False</Parameters><Parameters Name="LoadAllSymbols">True</Parameters><Parameters Name="LoadUnspecifiedSymbols">False</Parameters></Parameters><Package_Options><Package_Options Name="PackageDescription">Woll2Woll 1stClass Studio 2007</Package_Options><Package_Options Name="ImplicitBuild">False</Package_Options><Package_Options Name="DesigntimeOnly">False</Package_Options><Package_Options Name="RuntimeOnly">True</Package_Options><Package_Options Name="LibSuffix">110</Package_Options></Package_Options><Language><Language Name="ProjectLang">$00000409</Language></Language><VersionInfo><VersionInfo Name="IncludeVerInfo">True</VersionInfo><VersionInfo Name="AutoIncBuild">False</VersionInfo><VersionInfo Name="MajorVer">5</VersionInfo><VersionInfo Name="MinorVer">0</VersionInfo><VersionInfo Name="Release">1</VersionInfo><VersionInfo Name="Build">2</VersionInfo><VersionInfo Name="Debug">False</VersionInfo><VersionInfo Name="PreRelease">True</VersionInfo><VersionInfo Name="Special">False</VersionInfo><VersionInfo Name="Private">False</VersionInfo><VersionInfo Name="DLL">False</VersionInfo><VersionInfo Name="Locale">1033</VersionInfo><VersionInfo Name="CodePage">1252</VersionInfo></VersionInfo><VersionInfoKeys><VersionInfoKeys Name="CompanyName">Woll2Woll Software</VersionInfoKeys><VersionInfoKeys Name="FileDescription">1stClass Studio Runtime Package</VersionInfoKeys><VersionInfoKeys Name="FileVersion">5.0.1.2</VersionInfoKeys><VersionInfoKeys Name="InternalName"></VersionInfoKeys><VersionInfoKeys Name="LegalCopyright">(c) 2007 Woll2Woll Software</VersionInfoKeys><VersionInfoKeys Name="LegalTrademarks"></VersionInfoKeys><VersionInfoKeys Name="OriginalFilename"></VersionInfoKeys><VersionInfoKeys Name="ProductName">1stClass Studio</VersionInfoKeys><VersionInfoKeys Name="ProductVersion">2007</VersionInfoKeys><VersionInfoKeys Name="Comments"></VersionInfoKeys></VersionInfoKeys><Source><Source Name="MainSource">fcstudiowin.dpk</Source></Source></Delphi.Personality></BorlandProject></BorlandProject>
+  </ProjectExtensions>
+  <Import Project="$(MSBuildBinPath)\Borland.Delphi.Targets" />
+  <ItemGroup>
+    <DelphiCompile Include="fcstudiowin.dpk">
+      <MainSource>MainSource</MainSource>
+    </DelphiCompile>
+    <DCCReference Include="fcBitmap" />
+    <DCCReference Include="fcButton" />
+    <DCCReference Include="fcButtonGroup" />
+    <DCCReference Include="fccalcedit" />
+    <DCCReference Include="fccalculator" />
+    <DCCReference Include="fcCanvas" />
+    <DCCReference Include="fcChangeLink" />
+    <DCCReference Include="fcClearPanel" />
+    <DCCReference Include="fcCollection" />
+    <DCCReference Include="fcColorCombo" />
+    <DCCReference Include="fcCombo" />
+    <DCCReference Include="fccombobutton" />
+    <DCCReference Include="fcCommon" />
+    <DCCReference Include="fcCustomDraw" />
+    <DCCReference Include="fcDBCommon" />
+    <DCCReference Include="fcDBTreeView" />
+    <DCCReference Include="fcDemoRichEdit" />
+    <DCCReference Include="fcEvaluator" />
+    <DCCReference Include="fcFontCombo" />
+    <DCCReference Include="fcframe" />
+    <DCCReference Include="fcGraphics" />
+    <DCCReference Include="fcImage" />
+    <DCCReference Include="fcimageform" />
+    <DCCReference Include="fcimagepanel" />
+    <DCCReference Include="fcImager" />
+    <DCCReference Include="fcImgBtn" />
+    <DCCReference Include="fcLabel" />
+    <DCCReference Include="fcOutlookBar" />
+    <DCCReference Include="fcOutlookList" />
+    <DCCReference Include="fcpanel" />
+    <DCCReference Include="fcprogressbar" />
+    <DCCReference Include="fcScrollBar" />
+    <DCCReference Include="fcShapeBtn" />
+    <DCCReference Include="fcStatusBar" />
+    <DCCReference Include="fcText" />
+    <DCCReference Include="fcToolTip" />
+    <DCCReference Include="fctrackbar" />
+    <DCCReference Include="fcTreeCombo" />
+    <DCCReference Include="fctreeheader" />
+    <DCCReference Include="fcTreeView" />
+    <DCCReference Include="rtl.dcp" />
+    <DCCReference Include="VCL.dcp" />
+    <DCCReference Include="VCLDB.dcp" />
+    <DCCReference Include="VCLX.dcp" />
+  </ItemGroup>
+</Project>

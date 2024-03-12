@@ -1,0 +1,62 @@
+package dipstudiowin;
+
+{$R *.res}
+{$ALIGN 8}
+{$ASSERTIONS OFF}
+{$BOOLEVAL OFF}
+{$DEBUGINFO OFF}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS OFF}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION ON}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO OFF}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES OFF}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST ON}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$DESCRIPTION 'InfoPower Studio 2007/ Win32'}
+{$LIBSUFFIX '110'}
+{$DESIGNONLY}
+{$IMPLICITBUILD OFF}
+
+requires
+  designide,
+  BDERTL,
+  VCL,
+  VCLDB,
+  VCLACTNBAND,
+  VCLX,
+  ipstudiowin;
+
+contains
+  infopowr,
+  ipabout,
+  ipdsgn,
+  wwprpds,
+  wwprpedt,
+  wwpiced2,
+  wwrgxed2,
+  wwfltfld,
+  wwselfld,
+  wwprppic,
+  wwpicdb,
+  wwprpfld,
+  wwaddlk,
+  wwgttbl,
+  wwprpcom,
+  wwDBNavEdt,
+  wwcollectioneditor,
+  wwInspectorPrpEdt,
+  wwinspectorprop,
+  wwedtpic,
+  wwprprx;
+
+end.

@@ -1,0 +1,53 @@
+package DelphiZlib;
+
+{$R *.res}
+{$R 'DelphiZlib.dcr'}
+{$ALIGN 8}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO ON}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION ON}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES OFF}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST ON}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$DESCRIPTION 'DelphiZlib: TGzip, TCrc32, TAdler32, TUnTar'}
+{$IMPLICITBUILD ON}
+
+requires
+  vcl,
+  rtl;
+
+contains
+  DelphiGzip in 'DelphiGzip.pas',
+  Trees in 'Trees.pas',
+  Crc in 'Crc.pas',
+  Zdeflate in 'Zdeflate.pas',
+  infcodes in 'infcodes.pas',
+  infblock in 'infblock.pas',
+  Adler in 'Adler.pas',
+  Zinflate in 'Zinflate.pas',
+  g_Zlib in 'g_Zlib.pas',
+  inftrees in 'inftrees.pas',
+  infutil in 'infutil.pas',
+  inffast in 'inffast.pas',
+  Zutil in 'Zutil.pas',
+  Unzip in 'Unzip.pas',
+  Ziputils in 'Ziputils.pas',
+  utils in 'utils.pas',
+  gzio in 'gzio.pas',
+  tarfile in 'tarfile.pas';
+
+end.

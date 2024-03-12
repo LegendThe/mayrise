@@ -1,0 +1,49 @@
+package DecisionCube;
+
+{$R *.res}
+{$R 'MXREG.dcr'}
+{$ALIGN 8}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO ON}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION ON}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES OFF}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST OFF}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$DESCRIPTION 'CodeGear Decision Cube Components'}
+{$IMPLICITBUILD ON}
+
+requires
+  rtl,
+  vcl,
+  designide,
+  xmlrtl,
+  vclactnband,
+  vclx,
+  bdertl,
+  dbrtl,
+  dcltee,
+  teeUI,
+  tee,
+  teedb,
+  vcldb,
+  adortl,
+  dclbde;
+
+contains
+  MXREG in 'MXREG.PAS';
+
+end.

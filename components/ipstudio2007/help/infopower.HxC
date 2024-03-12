@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE HelpCollection>
+<HelpCollection
+   Id = "infopower"
+   DTDVersion = "1.0"
+   Title = "InfoPower Studio"
+   Copyright = "Copyright (c) 2007. All rights reserved."
+   FileVersion = "1.0"
+>
+<CompilerOptions
+    CompileResult = "HxiHxs "
+    OutputFile = "infopower.HxS"
+    CreateFullTextIndex = "Yes" >
+<IncludeFile File = "infopower.HxF" />
+</CompilerOptions>
+<TOCDef File = "infopower.HxT" />
+<KeywordIndexDef File = "infopower_K.HxK" />
+<KeywordIndexDef File = "infopower_F.HxK" />
+<KeywordIndexDef File = "infopower_A.HxK" />
+<KeywordIndexDef File = "infopower_NamedURL.HxK" />
+    <ItemMoniker Name="!DefaultToc" ProgId="HxDs.HxHierarchy" InitData=""/>
+    <ItemMoniker Name="!DefaultFullTextSearch" ProgId="HxDs.HxFullTextSearch" InitData=""/>
+    <ItemMoniker Name="!DefaultKeywordIndex" ProgId="HxDs.HxIndex" InitData="K"/>
+    <ItemMoniker Name="!DefaultAssociativeIndex" ProgId="HxDs.HxIndex" InitData="A" />
+    <ItemMoniker Name="!DefaultContextWindowIndex" ProgId="HxDs.HxIndex" InitData="F" />
+    <ItemMoniker Name="!DefaultNamedUrlIndex" ProgId="HxDs.HxIndex" InitData="NamedURLIndex"/>
+</HelpCollection>

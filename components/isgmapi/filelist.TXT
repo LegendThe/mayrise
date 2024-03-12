@@ -1,0 +1,163 @@
+Developer,
+
+Thank you for ordering the Infinity Software Group TISGMapi version 2.5 Component. We hope that you will find the product a valuable tool.
+
+Complete File Listing
+
+  Main Directory
+     INICALC.DLL	Dll For FormPackager Help
+     INSTALL.LOG
+
+     ISGHelp.exe	Help File Merge Program for Delphi 3 & 4
+     FRMPKG.HLP 	FormPackager Component Help
+     FRMPKG.KWF 	FormPackager Installable Keyword File
+     FRMPKG.CNT 	FormPackager Component Help Contents File
+     FMPKWIN3.HLP 	FormPackager Component Windows 3.x Help File
+     ISGMAPI.HLP	ISGMapi Component Help
+     ISGMAPI.KWF	ISGMapi Installable Keyword File
+     ISGMAPI.CNT	ISGMapi Component Help Contents File
+     MAPIWIN3.HLP 	ISGMapi Component Windows 3.x Help File
+
+     ISGMEF.DLL 	EForm-MsMail Integeration Dll
+     LICENSE.TXT	License Information
+     ORDER.TXT  	Order Form
+     README.TXT
+     FILELIST.TXT
+     UNWISE.EXE 	Uninstall Executable
+
+  \Browser
+     EFBROWSE.DPR	EForm Browser Project
+     MAIN.DFM
+     MAIN.PAS
+
+  \CppbBrowser
+     BROWSER.MAK	EForm Browser Project
+     BROWSER.RES
+     BROWSER.CPP
+     MAIN.DFM
+     MAIN.PAS
+     MAIN.OBJ
+     MAIN.HPP
+
+  \CompD1
+     EFLIB.DCU
+     EFLIB.PAS
+     FRMPKG.DCR
+     FRMPKG.DCU 	FormPackager Component Main File
+     FRMPKG.PAS
+     FRMPKG.RES
+     FRMPKGED.DCU
+     FRMPKGED.PAS
+     FRMPKGED.DFM
+     ISGMAPI.DCR
+     ISGMAPI.DCU	ISGMapi Component Main File
+     ISGMAPI.PAS
+     ISGCLIST.DCU
+     ISGCLIST.PAS
+
+  \CompD2
+     EFLIB.DCU
+     EFLIB.PAS
+     FRMPKG.DCR
+     FRMPKG.DCU 	FormPackager Component Main File
+     FRMPKG.PAS
+     FRMPKG.RES
+     FRMPKGED.DCU
+     FRMPKGED.PAS
+     FRMPKGED.DFM
+     ISGMAPI.DCR
+     ISGMAPI.DCU	ISGMapi Component Main File
+     ISGMAPI.PAS
+     ISGCLIST.DCU
+     ISGCLIST.PAS
+
+  \CompD3
+     EFLIB.DCU
+     EFLIB.PAS
+     FRMPKG.DCR
+     FRMPKG.DCU
+     FRMPKG.PAS 	FormPackager Component Main File
+     FRMPKG.RES
+     FRMPKGED.DCU
+     FRMPKGED.PAS
+     FRMPKGED.DFM
+     ISGMAPI.DCR
+     ISGMAPI.DCU
+     ISGMAPI.PAS	ISGMapi Component Main File
+     ISGCLIST.DCU
+     ISGCLIST.DCR
+     ISGCLIST.PAS
+     ISGMAPI24.RES
+     ISGMAPI24.DPL
+     ISGMAPI24.DPK
+     ISGMAPI24.DCU
+     ISGMAPI24.DCP     
+
+  \CompD4
+     EFLIB.DCU
+     EFLIB.PAS
+     FRMPKG.DCR
+     FRMPKG.DCU
+     FRMPKG.PAS		FormPackager Component Main File
+     FRMPKG.RES
+     FRMPKGED.DCU
+     FRMPKGED.PAS
+     FRMPKGED.DFM
+     ISGMAPI.DCR
+     ISGMAPI.DCU
+     ISGMAPI.PAS	ISGMapi Component Main File
+     ISGCLIST.DCU
+     ISGCLIST.DCR
+     ISGCLIST.PAS
+     ISGMAPI24.RES
+     ISGMAPI24.BPL
+     ISGMAPI24.DPK
+     ISGMAPI24.DCU
+     ISGMAPI24.DCP     
+
+  \CompD5
+     EFLIB.PAS
+     FRMPKG.DCR
+     FRMPKG.PAS		FormPackager Component Main File
+     FRMPKG.RES
+     FRMPKGED.PAS
+     FRMPKGED.DFM
+     ISGMAPI.DCR
+     ISGMAPI.PAS	ISGMapi Component Main File
+     ISGCLIST.DCR
+     ISGCLIST.PAS
+     ISGMAPI25.RES
+     ISGMAPI25.DPK
+     ISGMAPI25.DOF
+     ISGMAPI25.CFG     
+
+
+  \CompCPPB
+     EFLIB.DCU
+     EFLIB.PAS
+     FRMPKG.DCR
+     FRMPKG.DCU
+     FRMPKG.PAS 	FormPackager Component Main File
+     FRMPKG.RES
+     FRMPKGED.DCU
+     FRMPKGED.DFM
+     FRMPKGED.PAS
+     ISGMAPI.DCR
+     ISGMAPI.PAS	ISGMapi Component Main File
+     ISGMAPI.DCU
+     ISGCLIST.DCU
+     ISGCLIST.OBJ
+     ISGCLIST.HPP
+     ISGCLIST.DCR
+     ISGCLIST.PAS
+
+  \Samples\SendDemo
+     MAPIDEMO.DPR	Send Mail Sample Project
+     UNTDEMO.DFM
+     UNTDEMO.PAS
+
+  \Samples\EForm
+     TELENOTE.DPR	EForm Sample Project
+     MAINPCKG.DFM
+     MAINPCKG.PAS
+

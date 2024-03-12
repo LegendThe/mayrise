@@ -1,0 +1,1372 @@
+***  Installation Started 06/26/2019 11:24  ***
+Title: InfoPower Studio 2007 for Delphi 2007/2006
+Source: \\STOSVR40\Development\Third party software\Delphi 2007 Install\InfoPowerStudio2007.exe | 12-01-2010 | 14:41:20 | 20597203
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\UNWISE.EXE | 06-25-1999 | 10:55:30 | | 149504 | 30fdd633
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\InfoPower Studio 2007 for Delphi 2007
+RegDB Val: InfoPower Studio 2007 for Delphi 2007
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\InfoPower Studio 2007 for Delphi 2007
+RegDB Val: C:\PROGRA~2\WOLL2W~1\IPSTUD~1\UNWISE.EXE C:\PROGRA~2\WOLL2W~1\IPSTUD~1\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\InfoPower Studio 2007 for Delphi 2007
+RegDB Val: 
+RegDB Name: RegCompany
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\InfoPower Studio 2007 for Delphi 2007
+RegDB Val: 
+RegDB Name: RegOwner
+RegDB Root: 2
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\cc3270.dll | 08-26-2007 | 11:03:00 | 7.0.0.4 | 587776 | eced7dee
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwrtfprintpreview.dfm | 10-30-2007 | 12:02:14 | | 13910 | a772112a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwrtfprintpreview.dcu | 05-15-2008 | 07:57:46 | | 19709 | 25e4a6e4
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwrtfconverter.dcu | 05-15-2008 | 07:57:46 | | 12212 | f59bf0f3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwrichtb.dfm | 11-27-2000 | 10:38:18 | | 1159 | 636ea086
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwrichtb.dcu | 05-15-2008 | 07:57:46 | | 8600 | bd7c0e78
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\Wwrichsp.res | 11-27-2000 | 10:38:18 | | 492 | 8b68ca74
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwricholecallback.dcu | 05-15-2008 | 07:57:46 | | 7798 | 193c6518
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwrichole.dcu | 05-15-2008 | 07:57:46 | | 4476 | 6ba8dffe
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwrichobjinfo.dcu | 05-15-2008 | 07:57:46 | | 12195 | 5f988541
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwrichedspellxp.dcu | 05-15-2008 | 07:57:50 | | 9987 | d61b6b26
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwrichedspell2000.dcu | 05-15-2008 | 07:57:50 | | 9831 | 62d9423a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwrichedspell.pas | 11-16-2007 | 16:30:56 | | 4586 | 1d91c8b6
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwRichEditBarFrame.dfm | 04-27-2007 | 14:25:36 | | 79700 | 5c6c6a98
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwricheditbar.dfm | 11-15-2007 | 14:10:12 | | 89285 | 9689f540
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwricheditbar.dcu | 05-15-2008 | 07:57:46 | | 31937 | ba5a9c09
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwriched.dcu | 05-15-2008 | 07:57:46 | | 141418 | b7d2b49d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwrich.dfm | 12-04-2007 | 00:52:40 | | 32020 | f67080cf
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwrich.dcu | 05-15-2008 | 07:57:46 | | 44670 | 67e7a0f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwrgxed2.dfm | 04-11-2007 | 16:20:44 | | 1764 | 81f2d90f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwrgxed2.dcu | 05-15-2008 | 07:57:50 | | 9511 | 2cc33e87
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwrchdlg.dfm | 04-23-2001 | 12:03:06 | | 2842 | 97f9a15
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwrchdlg.dcu | 05-15-2008 | 07:57:46 | | 11940 | 2d9fa45c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwrcdvw.dfm | 03-06-2007 | 19:06:18 | | 363 | 19da94cd
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwrcdvw.dcu | 05-15-2008 | 07:57:46 | | 63987 | 7d032dfc
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwrcdpnl.dcu | 05-15-2008 | 07:57:46 | | 43586 | 2db72c11
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwradiogroup.dcu | 05-15-2008 | 07:57:46 | | 47769 | 7ef37ec0
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwradiobutton.dcu | 05-15-2008 | 07:57:46 | | 33573 | ee34f43b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwQuery.dcu | 05-15-2008 | 07:57:46 | | 17445 | c62f726f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwqbe.dcu | 05-15-2008 | 07:57:46 | | 21003 | ce12987b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwprprx.dfm | 04-11-2007 | 16:10:44 | | 13993 | 3ddcbccc
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwprprx.dcu | 05-15-2008 | 07:57:50 | | 11040 | 349bd6e6
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwprppic.dfm | 03-15-2007 | 16:10:38 | | 2128 | e25d7339
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwprppic.dcu | 05-15-2008 | 07:57:50 | | 12474 | 8704ec46
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwprpfld.dfm | 11-27-2000 | 10:38:18 | | 1014 | da2dd410
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwprpfld.dcu | 05-15-2008 | 07:57:50 | | 6657 | a08a2812
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwprpedt.dcu | 05-15-2008 | 07:57:50 | | 37571 | beaa160e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwprpds.dcu | 05-15-2008 | 07:57:50 | | 2706 | 6adbb816
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwprpcom.dfm | 11-27-2000 | 10:38:18 | | 1647 | b8722c8f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwprpcom.dcu | 05-15-2008 | 07:57:50 | | 11368 | d59718b5
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwprovider.dcu | 05-15-2008 | 07:57:48 | | 7558 | 695f62f4
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwpict.dcu | 05-15-2008 | 07:57:46 | | 7988 | e85d2f6
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwpiced2.dfm | 03-24-2007 | 10:05:28 | | 1831 | 6846812d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwpiced2.dcu | 05-15-2008 | 07:57:50 | | 11419 | 26d87c7a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\Wwpicdb.dfm | 04-11-2007 | 16:10:48 | | 1296 | f1629306
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\Wwpicdb.dcu | 05-15-2008 | 07:57:50 | | 5142 | 8a36102d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwpaintoptions.dcu | 05-15-2008 | 07:57:46 | | 9509 | 2e1123d1
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwmonthcalendar.dcu | 05-15-2008 | 07:57:46 | | 54395 | 3afcba38
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwmidas.dcu | 05-15-2008 | 07:57:48 | | 595 | 47e0a911
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwmemo.dfm | 11-06-2007 | 14:56:24 | | 976 | d598e11c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwmemo.dcu | 05-15-2008 | 07:57:46 | | 11185 | a985e184
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwlocate.dfm | 01-04-2006 | 15:58:30 | | 2286 | 840a5fa2
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwlocate.dcu | 05-15-2008 | 07:57:46 | | 26791 | 61b4f4ca
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\Wwkeycb.dcu | 05-15-2008 | 07:57:46 | | 52313 | 11bca17f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwintl.dcu | 05-15-2008 | 07:57:46 | | 66841 | 41872c46
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwInspectorPrpEdt.dcu | 05-15-2008 | 07:57:50 | | 7552 | b31b00d1
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwinspectorprop.dfm | 05-29-2001 | 10:52:16 | | 1114 | 2a1e6c98
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwinspectorprop.dcu | 05-15-2008 | 07:57:50 | | 21569 | a13dcfc3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwimagecombo.dcu | 05-15-2008 | 07:57:46 | | 36199 | 344a1772
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwidlg.dfm | 11-27-2000 | 10:38:18 | | 2091 | 3c8934bf
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwidlg.dcu | 05-15-2008 | 07:57:46 | | 43174 | ebe88f95
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwhistorylist.dcu | 05-15-2008 | 07:57:46 | | 9764 | 5e396526
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\Wwgttbl.dfm | 11-27-2000 | 10:38:18 | | 1171 | 9eab7c51
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\Wwgttbl.dcu | 05-15-2008 | 07:57:50 | | 6809 | 10873e48
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwgridselectfields.dfm | 05-30-2007 | 13:52:42 | | 1827 | eec73c66
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwframe.dcu | 05-15-2008 | 07:57:46 | | 14955 | b9187aa4
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwfltvw.dfm | 09-04-2001 | 15:02:16 | | 967 | 58859042
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwfltvw.dcu | 05-15-2008 | 07:57:46 | | 8405 | e9c425e3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwfltfld.dfm | 06-29-2007 | 15:59:36 | | 1939 | bf6d7d94
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwfltfld.dcu | 05-15-2008 | 07:57:50 | | 14087 | 67c90956
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwfltdum.dcu | 05-15-2008 | 07:57:46 | | 15098 | 96ec31bb
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwfltdlg.dfm | 01-17-2008 | 16:42:48 | | 5770 | ce537532
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwfltdlg.dcu | 05-15-2008 | 07:57:46 | | 92353 | f3e1cace
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwfilter.dcu | 05-15-2008 | 07:57:46 | | 21794 | 7ecb8907
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwexport.dcu | 05-15-2008 | 07:57:46 | | 47996 | 86ddc2e2
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwedtpic.dfm | 11-27-2000 | 10:38:18 | | 1132 | 334cd656
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwedtpic.dcu | 05-15-2008 | 07:57:50 | | 6533 | 6aff7125
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\Wwdotdot.dcu | 05-15-2008 | 07:57:46 | | 33064 | e3c63f91
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwDialog.dcu | 05-15-2008 | 07:57:46 | | 1602 | 76c003cb
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwdbspin.dcu | 05-15-2008 | 07:57:46 | | 26951 | f2c2540b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwdbnavigator.dcu | 05-15-2008 | 07:57:46 | | 51687 | f5798f1
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwdbnavedt.dcu | 05-15-2008 | 07:57:50 | | 8419 | a98fe3d4
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwDBNavEdit.res | 11-27-2000 | 10:38:18 | | 408 | 24636ef1
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwdbnav.res | 11-27-2000 | 10:38:18 | | 14372 | 18ce1dee
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwdblook.dcu | 05-15-2008 | 07:57:46 | | 140122 | 51ce6b1
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\Wwdbigrd.dcu | 05-15-2008 | 07:57:46 | | 210882 | 9ec1ef28
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\Wwdbi32.res | 04-10-2001 | 18:59:58 | | 3000 | 33192b1e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwdbgrid.dcu | 05-15-2008 | 07:57:46 | | 87417 | d6d98c9f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwdbedit.dcu | 05-15-2008 | 07:57:46 | | 77899 | d241bde1
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwdbdlg.dcu | 05-15-2008 | 07:57:46 | | 21960 | 1c23530f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwdbdatetimepicker.dcu | 05-15-2008 | 07:57:46 | | 120378 | 7db787d8
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\Wwdbd32.res | 11-27-2000 | 10:38:18 | | 272 | db270c1e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwDBComb.dcu | 05-15-2008 | 07:57:46 | | 54166 | 26b4bee4
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwdatsrc.dcu | 05-15-2008 | 07:57:46 | | 1616 | cf5776fc
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwDataInspector.dcu | 05-15-2008 | 07:57:46 | | 167125 | cd2cc00f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwdatain.res | 02-06-2001 | 17:50:46 | | 796 | bc04d945
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwcommon.dcu | 05-15-2008 | 07:57:46 | | 83111 | f53f6737
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwcombobutton.dcu | 05-15-2008 | 07:57:46 | | 34724 | 8a6877bf
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwcollectioneditor.dfm | 06-01-2001 | 10:08:54 | | 21654 | f214a07d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwcollectioneditor.dcu | 05-15-2008 | 07:57:50 | | 13295 | cb64459d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwcollection.dcu | 05-15-2008 | 07:57:46 | | 4447 | 5e830f92
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwclient.dcu | 05-15-2008 | 07:57:48 | | 13849 | eb70775a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwclearpanel.dcu | 05-15-2008 | 07:57:46 | | 8244 | f8477d72
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwclearbuttongroup.dcu | 05-15-2008 | 07:57:46 | | 7144 | 9fe0f0fb
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwcheckbox.dcu | 05-15-2008 | 07:57:46 | | 74684 | 60bf6f7a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwchangelink.dcu | 05-15-2008 | 07:57:46 | | 1465 | 8b686547
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwbitmap.dcu | 05-15-2008 | 07:57:46 | | 29080 | 6d2409d7
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwaddlk.dfm | 11-27-2000 | 10:38:18 | | 3093 | 122ac190
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwaddlk.dcu | 05-15-2008 | 07:57:50 | | 15966 | 86df27b0
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwaddfld.dfm | 04-30-2001 | 13:09:26 | | 1092 | f25a2211
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\Wwstacks.dcu | 05-15-2008 | 07:57:46 | | 2787 | f9fa8743
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwstorep.dcu | 05-15-2008 | 07:57:46 | | 16108 | 4589dc4d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwstr.dcu | 05-15-2008 | 07:57:46 | | 6454 | cd6a7dc5
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwSystem.dcu | 05-15-2008 | 07:57:46 | | 10685 | 7b4488e7
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwtable.dcu | 05-15-2008 | 07:57:46 | | 38462 | 39dd780b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\ipstudiowinwordxp.dcu | 05-15-2008 | 07:57:50 | | 3619 | f5476460
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwselfld.dfm | 08-28-2007 | 21:05:14 | | 9028 | ef7b7eff
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\ipstudiowinword2000.dcu | 05-15-2008 | 07:57:50 | | 3633 | 64395dd9
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwselfld.dcu | 05-15-2008 | 07:57:50 | | 42066 | a0f0a58
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\ipstudiowinclient.dcu | 05-15-2008 | 07:57:48 | | 3750 | 1103f361
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwspeedbutton.dcu | 05-15-2008 | 07:57:46 | | 14146 | 32de75be
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\Wwspin32.res | 11-27-2000 | 10:38:18 | | 420 | 63292224
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\ipstudiowin.dcu | 05-15-2008 | 07:57:46 | | 5534 | adf8c8db
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\Wwruler.res | 11-27-2000 | 10:38:18 | | 516 | ae38022f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\ipdsgn.dcu | 05-15-2008 | 07:57:50 | | 2485 | 90bb5ed1
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\ipabout.dfm | 05-30-2007 | 11:35:04 | | 1216 | 15aa9582
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\ipabout.dcu | 05-15-2008 | 07:57:50 | | 4240 | e3e1eb5b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwspin.dcu | 05-15-2008 | 07:57:46 | | 13529 | ee76e5c3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\infopowr.dcu | 05-15-2008 | 07:57:50 | | 11474 | eed23b6
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\info32bak.res | 11-14-2004 | 18:50:10 | | 14888 | a002e90c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\Info32.res | 06-29-2007 | 11:14:36 | | 10188 | 14c89973
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwtrackicon.dcu | 05-15-2008 | 07:57:46 | | 6194 | 27a5cea
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\2006\wwtypes.dcu | 05-15-2008 | 07:57:46 | | 7390 | 5f4f73ca
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowinword2000.dcp | 05-15-2008 | 07:57:50 | | 10263 | 7785d249
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowinword2000.cfg | 05-15-2008 | 07:49:40 | | 471 | edd50864
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowinword2000.bdsproj.local | 05-15-2008 | 07:49:38 | | 62 | 35343d43
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowinword2000.bdsproj | 05-15-2008 | 07:49:38 | | 10273 | 92e7d31f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowinclient105.bpl | 05-15-2008 | 07:57:48 | 5.0.3.4 | 46080 | c9770c7e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowinclient.res | 05-15-2008 | 07:49:06 | | 1592 | 45a03d09
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowinclient.lib | 05-15-2008 | 07:57:48 | | 34816 | 3c95900e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowinwordxp.lib | 05-15-2008 | 07:57:50 | | 18432 | 432bdf09
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowinword2000.dof | 09-24-2004 | 10:51:30 | | 3098 | 4902fccd
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowinword2000.dpk | 05-15-2008 | 07:49:38 | | 660 | 1ae0d14e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowinclient.dpk | 05-15-2008 | 07:49:08 | | 651 | 7a70ed0c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowinclient.dof | 09-24-2004 | 10:48:48 | | 3013 | 5a19f5a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowinclient.dcp | 05-15-2008 | 07:57:48 | | 21113 | 801bbdb
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowinclient.cfg | 05-15-2008 | 07:49:10 | | 509 | 91952a6c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowinclient.bpi | 05-15-2008 | 07:57:48 | | 3332 | c7ebe3f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowinclient.bdsproj.local | 05-15-2008 | 07:49:08 | | 62 | 35343d43
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowinclient.bdsproj | 05-15-2008 | 07:49:08 | | 10254 | 8d26061c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowin105.bpl | 05-15-2008 | 07:57:48 | 5.0.3.4 | 1536512 | 79d1db36
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowinwordxp.res | 05-15-2008 | 07:50:06 | | 1592 | 45a03d09
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowinwordxp.dpk | 05-15-2008 | 07:50:08 | | 656 | 84b3a130
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowin.res | 05-15-2008 | 07:48:02 | | 1632 | 99d34630
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowinwordxp.dof | 09-24-2004 | 10:47:58 | | 3098 | e5ed7f42
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowin.lib | 05-15-2008 | 07:57:48 | | 2535424 | c7884f00
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowin.dcp | 05-15-2008 | 07:57:48 | | 1711167 | 349281e2
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\dipstudiowin105.bpl | 05-15-2008 | 07:57:50 | 5.0.3.4 | 263168 | eae47d51
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\dipstudiowin.res | 05-15-2008 | 07:48:34 | | 1632 | 99d34630
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowinwordxp.bdsproj.local | 05-15-2008 | 07:50:08 | | 62 | 35343d43
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowinwordxp.bpi | 05-15-2008 | 07:57:50 | | 1108 | 39c8a7b2
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowin.dof | 09-24-2004 | 10:45:30 | | 3333 | 90930119
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowinwordxp.dcp | 05-15-2008 | 07:57:50 | | 10272 | a3a32718
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowinwordxp.cfg | 05-15-2008 | 07:50:10 | | 471 | edd50864
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\dipstudiowin.dpk | 05-15-2008 | 07:48:36 | | 963 | 7e47f6d2
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\dipstudiowin.dof | 09-24-2004 | 10:52:06 | | 3039 | bf5d2b97
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\dipstudiowin.dcp | 05-15-2008 | 07:57:50 | | 213672 | cec5d002
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\dipstudiowin.cfg | 05-15-2008 | 07:48:38 | | 455 | 1aef2da
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowin.dpk | 05-15-2008 | 07:48:04 | | 1541 | ad6adca2
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\dipstudiowin.bdsproj.local | 05-15-2008 | 07:48:36 | | 62 | 35343d43
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\dipstudiowin.bdsproj | 05-15-2008 | 07:48:36 | | 10356 | 45d94671
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowin.cfg | 05-15-2008 | 07:48:08 | | 492 | d85e4219
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowin.bpi | 05-15-2008 | 07:57:48 | | 358404 | d0fa93e2
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowin.bdsproj.local | 05-15-2008 | 07:48:04 | | 62 | 35343d43
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowin.bdsproj | 05-15-2008 | 07:48:04 | | 11290 | 5465bc2d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowinwordxp.bdsproj | 05-15-2008 | 07:50:08 | | 10271 | 5c1e2d31
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowinWord2000105.bpl | 05-15-2008 | 07:57:50 | 5.0.3.4 | 30208 | b551ec7c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowinword2000.res | 05-15-2008 | 07:49:36 | | 1592 | 45a03d09
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\build.bat | 11-13-2007 | 18:38:24 | | 2890 | 87c05a9e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\2006\ipstudiowinWordxp105.bpl | 05-15-2008 | 07:57:50 | 5.0.3.4 | 30208 | 305918ac
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\help
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\help\h2reg2006.ini | 09-05-2007 | 17:53:44 | | 3160 | e3bf1d23
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\help\infopower_NamedURL.HxK | 03-13-2008 | 12:24:52 | | 192 | 7ef27368
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\help\infopower_K.HxK | 03-13-2008 | 12:31:42 | | 704324 | 7ff2868d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\help\infopower_F.HxK | 03-13-2008 | 12:31:32 | | 942816 | ed37586e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\help\infopower_COL_MASTER_NamedURL.HxK | 09-06-2007 | 16:33:10 | | 146 | c3a57b67
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\help\infopower_COL_MASTER_K.HxK | 09-06-2007 | 16:33:10 | | 152 | eb3c45fb
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\help\infopower_COL_MASTER_F.HxK | 09-06-2007 | 16:33:10 | | 134 | bb87fc9d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\help\infopower_COL_MASTER_A.HxK | 09-06-2007 | 16:33:10 | | 134 | 9d6ab981
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\help\infopower_A.HxK | 03-13-2008 | 12:31:54 | | 704306 | 1660d013
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\help\infopower.HxT | 03-13-2008 | 12:32:28 | | 422817 | 5ed75a18
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\help\infopower.HxS.compiler.log | 03-13-2008 | 12:26:22 | | 770648 | e1c35181
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\help\infopower.HxS | 03-13-2008 | 12:26:22 | 1.0.0.0 | 3259590 | ddc82f18
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\help\infopower.HxI | 03-13-2008 | 12:26:22 | 1.0.0.0 | 335864 | 4c4ce910
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\help\infopower.HxF | 03-13-2008 | 12:32:18 | | 346877 | b2dcd11d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\help\infopower.HxC | 03-13-2008 | 12:32:10 | | 1178 | f631b66
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\help\H2Reg_Log.txt | 03-13-2008 | 12:34:54 | | 4653 | e5ea0f7b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\help\H2Reg.ini | 03-23-2007 | 09:52:42 | | 3171 | 71e44ae0
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\help\H2Reg.exe | 03-09-2007 | 11:00:00 | 1.4.3.0 | 189952 | 11cac9d6
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Combos.cpp | 03-03-1998 | 14:59:24 | | 4875 | 62a964c8
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Combos.dfm | 10-20-1999 | 17:17:30 | | 6044 | f496bb22
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Combos.h | 03-03-1998 | 14:58:22 | | 2604 | a9ecc55d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\DataInspectorU.cpp | 12-14-2005 | 02:36:20 | | 5516 | 798e40ae
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\DataInspectorU.dfm | 12-14-2005 | 02:36:18 | | 83225 | 2a61e531
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\DataInspectorU.h | 12-14-2005 | 02:36:46 | | 4766 | bab9029
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\dbchecku.cpp | 12-14-2005 | 02:36:26 | | 1099 | d7d30a15
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\dbchecku.dfm | 12-14-2005 | 02:36:22 | | 90944 | 35083b84
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\dbchecku.h | 12-14-2005 | 02:36:46 | | 2134 | 8c77b0c1
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Demo.cpp | 06-06-2001 | 14:44:26 | | 11784 | b03b2a77
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Demo.dfm | 01-09-2006 | 15:31:34 | | 1467043 | b22a4862
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Demo.h | 06-06-2001 | 14:44:26 | | 5808 | e85d9077
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\DemoLoc.cpp | 12-14-2005 | 02:22:56 | | 1915 | 755f52ab
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\DemoLoc.dfm | 12-14-2005 | 02:22:10 | | 7614 | d4023fc7
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\DemoLoc.h | 07-21-1998 | 15:46:54 | | 1981 | 1646409f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\dtpicker.cpp | 12-14-2005 | 02:28:06 | | 6022 | 7c73538
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\dtpicker.dfm | 12-14-2005 | 02:27:14 | | 13639 | b55433af
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\dtpicker.h | 12-14-2005 | 02:28:12 | | 2783 | 7989812e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Filtdlg.cpp | 07-21-1998 | 15:48:32 | | 6935 | 9ad813e0
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Filtdlg.dfm | 11-12-1999 | 15:08:10 | | 17188 | 851e2627
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Filtdlg.h | 07-21-1998 | 15:49:12 | | 3793 | 92f2d0d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Grdbitmp.cpp | 10-20-1999 | 17:20:00 | | 5620 | e41991ab
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Grdbitmp.dfm | 01-18-2000 | 14:52:54 | | 43619 | b52cc851
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Grdbitmp.h | 10-28-1999 | 10:54:12 | | 3894 | 887c963f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Grdbttn.cpp | 01-18-1999 | 14:49:32 | | 1521 | 60019346
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Grdbttn.dfm | 10-28-1999 | 10:44:22 | | 17449 | cb8d6ace
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Grdbttn.h | 01-18-1999 | 14:49:32 | | 1627 | 77d3fd6e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Grdlook.cpp | 07-21-1998 | 16:19:04 | | 2811 | 66d07b0c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Grdlook.dfm | 10-20-1999 | 17:20:46 | | 9421 | 55a153c0
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Grdlook.h | 07-21-1998 | 16:19:04 | | 2666 | e23c9e5e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Grdmemo.cpp | 10-28-1999 | 10:49:16 | | 1023 | be0ce542
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Grdmemo.dfm | 10-28-1999 | 10:49:12 | | 4541 | 15ba47c2
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Grdmemo.h | 10-28-1999 | 10:49:16 | | 1341 | 1f0ca5c8
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\gridctrl.cpp | 12-14-2005 | 02:36:30 | | 744 | 87ce6434
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\gridctrl.dfm | 12-14-2005 | 02:36:28 | | 51437 | cfd3bbc4
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\gridctrl.h | 12-14-2005 | 02:36:46 | | 2478 | 32fc89e2
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\GridExpand.cpp | 12-14-2005 | 02:36:40 | | 1276 | 2d1c5182
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\GridExpand.dfm | 12-14-2005 | 02:36:38 | | 13273 | e4efd3c1
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\GridExpand.h | 12-14-2005 | 02:36:46 | | 2459 | 1e3512de
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\GridMasterDetail.cpp | 12-14-2005 | 02:36:36 | | 2155 | 10d54d2c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\GridMasterDetail.dfm | 12-14-2005 | 02:36:32 | | 46367 | f6514bcd
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\GridMasterDetail.h | 12-14-2005 | 02:36:46 | | 3580 | b83284ab
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\isearch.cpp | 07-21-1998 | 16:06:08 | | 2216 | 2f75fcb1
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\isearch.dfm | 10-20-1999 | 17:21:38 | | 10307 | c58f61e6
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\isearch.h | 07-21-1998 | 16:06:08 | | 2153 | 19aec041
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Lkdtl.cpp | 07-25-1998 | 17:53:42 | | 1184 | 1661d404
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Lkdtl.dfm | 01-18-2000 | 18:48:28 | | 4499 | 1ac67a5a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Lkdtl.h | 07-25-1998 | 17:53:42 | | 1432 | e28b6731
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Lkquery.cpp | 09-11-1997 | 15:36:58 | | 1075 | c03ac47c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Lkquery.dfm | 10-20-1999 | 17:22:24 | | 7226 | 219b3ee7
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Lkquery.h | 07-25-1998 | 17:54:34 | | 2226 | 7ec1244
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\mnthyear.cpp | 12-14-2005 | 02:30:06 | | 583 | 66192f8a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\mnthyear.dfm | 12-14-2005 | 02:30:00 | | 829 | 19269672
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\mnthyear.h | 07-29-1998 | 08:43:20 | | 947 | 601ee679
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\monthcalu.cpp | 12-14-2005 | 02:29:14 | | 9540 | 1ce8bae
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\monthcalu.dfm | 12-14-2005 | 02:29:08 | | 6067 | 22d80166
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\monthcalu.h | 07-25-1998 | 11:33:16 | | 3064 | 8605609a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\multi.cpp | 10-20-1999 | 17:23:06 | | 4895 | b35c7e87
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\multi.dfm | 01-18-2000 | 14:53:42 | | 4538 | 8459cc8b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\multi.h | 07-21-1998 | 16:09:44 | | 2059 | 98f1ee70
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\navigatorcomb.cpp | 12-14-2005 | 02:30:22 | | 1942 | 79831cb8
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\navigatorcomb.dfm | 12-14-2005 | 02:30:18 | | 19501 | c9c59951
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\navigatorcomb.h | 12-14-2005 | 02:31:22 | | 2455 | ffba04d1
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\navmany.cpp | 12-14-2005 | 02:30:14 | | 771 | 29ee9a50
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\navmany.dfm | 12-14-2005 | 02:30:10 | | 46221 | 718a4180
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\navmany.h | 12-14-2005 | 02:31:22 | | 4864 | 720a3987
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Packdlgs.cpp | 03-03-1998 | 15:05:44 | | 6506 | 67b73e77
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Packdlgs.dfm | 01-18-2000 | 15:00:44 | | 2224 | bb40048a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Packdlgs.h | 11-22-1996 | 15:38:40 | | 1880 | 180e8e30
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\packrslt.db | 08-06-1998 | 11:17:54 | | 2048 | e8cd2a10
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Packtest.cpp | 02-05-1997 | 19:50:56 | | 2836 | d6417350
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Packtest.dfm | 10-20-1999 | 17:23:56 | | 2579 | acda13a0
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Packtest.h | 07-21-1998 | 16:11:04 | | 1561 | 5fa7102
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Pdemo.bdsproj | 12-14-2005 | 02:30:42 | | 23272 | e9d4020b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Pdemo.bdsproj.local | 12-14-2005 | 02:30:42 | | 62 | 35343d43
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Pdemo.bpr | 12-14-2005 | 02:27:46 | | 8580 | 17482b3e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Pdemo.cpp | 06-06-2001 | 15:50:08 | | 2010 | d9069581
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Pdemo.res | 12-14-2005 | 02:20:48 | | 876 | 40fef06c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Pictures.cpp | 07-25-1998 | 22:32:20 | | 3009 | bec2f589
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Pictures.dfm | 10-20-1999 | 17:24:32 | | 9982 | 8db3e131
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Pictures.h | 07-21-1998 | 16:11:32 | | 2864 | 3b3c12a4
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Qbe.cpp | 02-05-1997 | 19:53:38 | | 757 | 6e77345f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Qbe.dfm | 10-20-1999 | 17:24:42 | | 4249 | e5878e20
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Qbe.h | 07-21-1998 | 16:12:22 | | 1768 | 5531e453
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Rcdpnldemo.cpp | 12-14-2005 | 02:30:30 | | 3409 | ffc93c14
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Rcdpnldemo.dfm | 12-14-2005 | 02:30:24 | | 7915 | 3e13bc99
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Rcdpnldemo.h | 12-14-2005 | 02:31:22 | | 2717 | 1490e72b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\rcdpnldemo2.cpp | 12-14-2005 | 02:36:14 | | 6018 | b25cfee2
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\rcdpnldemo2.dfm | 12-14-2005 | 02:30:34 | | 7406 | 8216b2fe
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\rcdpnldemo2.h | 12-14-2005 | 02:31:22 | | 2559 | 97291b46
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\rcdvw.cpp | 07-21-1998 | 16:12:06 | | 4721 | ee036fc5
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\rcdvw.dfm | 10-20-1999 | 17:25:44 | | 7077 | def0a404
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\rcdvw.h | 07-21-1998 | 16:12:06 | | 2540 | 72d47877
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\savefilt.cpp | 07-21-1998 | 16:13:00 | | 3203 | b761d0ad
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\savefilt.dfm | 10-20-1999 | 17:26:16 | | 3349 | e63dc646
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Wwsavflt.h | 09-12-1997 | 10:57:34 | | 1830 | 16e98fc0
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Wwsavflt.cpp | 01-08-1998 | 11:16:52 | | 7410 | 41340320
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Selfilt.h | 09-12-1997 | 10:21:54 | | 1001 | 96fec68b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Selfilt.dfm | 09-12-1997 | 10:21:00 | | 639 | dd911404
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Selfilt.cpp | 09-12-1997 | 11:11:34 | | 1020 | 7c05cd22
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Search.h | 10-20-1999 | 17:26:32 | | 1478 | 313c2f81
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Search.dfm | 10-20-1999 | 17:26:30 | | 4053 | 49a8fa1
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\Search.cpp | 10-20-1999 | 17:26:32 | | 854 | 4ba458ca
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\SaveFlt.txt | 02-06-1997 | 23:13:56 | | 80 | a5cd83eb
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\SaveFilt.txt | 09-12-1997 | 13:51:28 | | 192 | cf17eabf
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\builder\savefilt.h | 07-21-1998 | 16:13:00 | | 1766 | 3a85cb28
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\Wwstacks.hpp | 05-15-2008 | 07:55:00 | | 1720 | fe384d3c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwspin.hpp | 05-15-2008 | 07:55:00 | | 4824 | ded6934
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwspeedbutton.hpp | 05-15-2008 | 07:55:00 | | 5086 | e74330c8
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwselfld.hpp | 05-15-2008 | 07:55:04 | | 9504 | bfbf3a2a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwrtfprintpreview.hpp | 05-15-2008 | 07:55:00 | | 4828 | 9d7d2b52
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwrtfconverter.hpp | 05-15-2008 | 07:55:00 | | 4974 | 4e6a59
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwrichtb.hpp | 05-15-2008 | 07:55:00 | | 3256 | 993f547
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwricholecallback.hpp | 05-15-2008 | 07:55:00 | | 2967 | 82d588bd
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwrichole.hpp | 05-15-2008 | 07:55:00 | | 5827 | b587ea26
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwrichobjinfo.hpp | 05-15-2008 | 07:55:00 | | 4341 | ca4adefe
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwrichedspellxp.hpp | 05-15-2008 | 07:55:02 | | 2125 | 9ae5127e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwricheditbar.hpp | 05-15-2008 | 07:55:00 | | 9642 | 2b6f4ede
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwriched.hpp | 05-15-2008 | 07:55:00 | | 34049 | c686b6b3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwrich.hpp | 05-15-2008 | 07:55:00 | | 11311 | 5b76d65e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwrgxed2.hpp | 05-15-2008 | 07:55:04 | | 4018 | 4795bf35
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwrchdlg.hpp | 05-15-2008 | 07:55:00 | | 4062 | d7cedf45
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwrcdvw.hpp | 05-15-2008 | 07:55:00 | | 21080 | 43a0bd71
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwrcdpnl.hpp | 05-15-2008 | 07:55:00 | | 8843 | 729b2ffc
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwradiogroup.hpp | 05-15-2008 | 07:55:00 | | 14726 | a1d3729
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwradiobutton.hpp | 05-15-2008 | 07:55:00 | | 10756 | 4f727747
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwQuery.hpp | 05-15-2008 | 07:55:00 | | 4908 | 85b4e20d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwqbe.hpp | 05-15-2008 | 07:55:00 | | 5599 | 706306c8
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwprprx.hpp | 05-15-2008 | 07:55:04 | | 4532 | 9aacf46d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwprppic.hpp | 05-15-2008 | 07:55:04 | | 4809 | a6cb39f7
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwprpfld.hpp | 05-15-2008 | 07:55:04 | | 3110 | a31a80db
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwprpedt.hpp | 05-15-2008 | 07:55:04 | | 21265 | 70adef70
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwprpds.hpp | 05-15-2008 | 07:55:04 | | 2263 | 44d6192d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwprpcom.hpp | 05-15-2008 | 07:55:04 | | 3517 | f341d556
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwprovider.hpp | 05-15-2008 | 07:55:02 | | 2046 | 94768c43
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwpict.hpp | 05-15-2008 | 07:55:00 | | 1690 | d7bdd18b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwpiced2.hpp | 05-15-2008 | 07:55:04 | | 4365 | 4cf2a4dc
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwpicdb.hpp | 05-15-2008 | 07:55:04 | | 2922 | ae1b9cb4
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwpaintoptions.hpp | 05-15-2008 | 07:55:00 | | 4728 | 11a8595a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwmonthcalendar.hpp | 05-15-2008 | 07:55:00 | | 14721 | 9830e988
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwmidas.hpp | 05-15-2008 | 07:55:02 | | 1123 | 43c8376f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwmemo.hpp | 05-15-2008 | 07:55:00 | | 3686 | 2ba45a55
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwlocate.hpp | 05-15-2008 | 07:55:00 | | 7203 | 2d540b71
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\Wwkeycb.hpp | 05-15-2008 | 07:55:00 | | 11446 | c6fbc89c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwintl.hpp | 05-15-2008 | 07:55:00 | | 42453 | deb6f86d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwInspectorPrpEdt.hpp | 05-15-2008 | 07:55:04 | | 5191 | 21cb54b4
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwInspectorProp.hpp | 05-15-2008 | 07:55:04 | | 4747 | ce7f7120
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwimagecombo.hpp | 05-15-2008 | 07:55:00 | | 14460 | ade14c4a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwidlg.hpp | 05-15-2008 | 07:55:00 | | 13872 | a769969e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwhistorylist.hpp | 05-15-2008 | 07:55:00 | | 3572 | f17f68f8
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwGtTbl.hpp | 05-15-2008 | 07:55:04 | | 2914 | 3e6831f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwframe.hpp | 05-15-2008 | 07:55:00 | | 7078 | c41af26b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwfltvw.hpp | 05-15-2008 | 07:55:00 | | 2805 | ab48d13c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwfltfld.hpp | 05-15-2008 | 07:55:04 | | 4536 | 3802f06e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwfltdum.hpp | 05-15-2008 | 07:55:00 | | 2826 | c236422b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwfltdlg.hpp | 05-15-2008 | 07:55:00 | | 23179 | 17932f18
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwfilter.hpp | 05-15-2008 | 07:55:00 | | 1948 | 2705f88c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwexport.hpp | 05-15-2008 | 07:55:00 | | 3702 | adf8a8e6
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwedtpic.hpp | 05-15-2008 | 07:55:04 | | 2913 | 8bfdde8b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\Wwdotdot.hpp | 05-15-2008 | 07:55:00 | | 9999 | 50d2b6c0
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwDialog.hpp | 05-15-2008 | 07:55:00 | | 1687 | 7b1edf4f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwdbspin.hpp | 05-15-2008 | 07:55:00 | | 6556 | f53eb4c5
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwdbnavigator.hpp | 05-15-2008 | 07:55:00 | | 16924 | f87c55a9
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwDBNavEdt.hpp | 05-15-2008 | 07:55:04 | | 4452 | acb14592
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwdblook.hpp | 05-15-2008 | 07:55:00 | | 29850 | d6acf520
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\Wwdbigrd.hpp | 05-15-2008 | 07:55:00 | | 45159 | 1275ece
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwdbgrid.hpp | 05-15-2008 | 07:55:00 | | 19398 | cd5da5cc
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwdbedit.hpp | 05-15-2008 | 07:55:00 | | 18413 | 99b4dec7
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwdbdlg.hpp | 05-15-2008 | 07:55:00 | | 7331 | 18d8f77f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwdbdatetimepicker.hpp | 05-15-2008 | 07:55:00 | | 21885 | 84eb6d13
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwDBComb.hpp | 05-15-2008 | 07:55:00 | | 13061 | 46a0d17
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwdatsrc.hpp | 05-15-2008 | 07:55:00 | | 1827 | 2435a766
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwDataInspector.hpp | 05-15-2008 | 07:55:00 | | 43078 | ceb5fec5
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwcommon.hpp | 05-15-2008 | 07:55:00 | | 17647 | 44b68ce3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwcombobutton.hpp | 05-15-2008 | 07:55:00 | | 10153 | d1421636
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwCollectionEditor.hpp | 05-15-2008 | 07:55:04 | | 4896 | 5556a4ea
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwcollection.hpp | 05-15-2008 | 07:55:00 | | 4604 | 3db82f4f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwclient.hpp | 05-15-2008 | 07:55:02 | | 3445 | 39693b67
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwclearpanel.hpp | 05-15-2008 | 07:55:00 | | 3981 | 6c443565
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwclearbuttongroup.hpp | 05-15-2008 | 07:55:00 | | 3042 | e99a2a7
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwcheckbox.hpp | 05-15-2008 | 07:55:00 | | 21612 | 923c24ed
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwchangelink.hpp | 05-15-2008 | 07:55:00 | | 2051 | 84e21d7e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwbitmap.hpp | 05-15-2008 | 07:55:00 | | 7419 | 296309e6
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwaddlk.hpp | 05-15-2008 | 07:55:04 | | 4099 | 7b5bcc3d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwSystem.hpp | 05-15-2008 | 07:55:00 | | 2992 | c337c42f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwtable.hpp | 05-15-2008 | 07:55:00 | | 8631 | 21e3774e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwtrackicon.hpp | 05-15-2008 | 07:55:00 | | 2358 | 31559e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwstr.hpp | 05-15-2008 | 07:55:00 | | 2560 | e6399147
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\ipstudiowinwordxp.hpp | 05-15-2008 | 07:55:02 | | 2972 | d646bac
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\ipstudiowinclient.hpp | 05-15-2008 | 07:55:02 | | 3123 | f5b7a56a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\ipstudiowin.hpp | 05-15-2008 | 07:55:00 | | 5254 | fc1a9f42
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\ipdsgn.hpp | 05-15-2008 | 07:55:04 | | 1498 | 4f14c3f0
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\ipabout.hpp | 05-15-2008 | 07:55:04 | | 2556 | c4287cfb
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwstorep.hpp | 05-15-2008 | 07:55:00 | | 4609 | 4559c528
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\infopowr.hpp | 05-15-2008 | 07:55:04 | | 2922 | 6a6b6ce9
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\wwtypes.hpp | 05-15-2008 | 07:55:00 | | 4813 | f351ba55
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\include\dipstudiowin.hpp | 05-15-2008 | 07:55:04 | | 4462 | ef5af049
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\RegisterW2W2.exe | 05-02-2008 | 11:11:52 | 1.0.3044.18355 | 69632 | 2e8bfd78
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwimagecombo.dcu | 05-15-2008 | 07:55:00 | | 36199 | 344a1772
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwimagecombo.pas | 08-28-2007 | 18:24:24 | | 33329 | 3641d320
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\richedit
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\richedit\rtfbardemo.pas | 05-14-2007 | 08:36:50 | | 392 | c0c68d71
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\richedit\rtfbardemo.dfm | 05-24-2007 | 14:48:06 | | 3895 | 39facf8b
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\maindemo
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\maindemo\Prjdemo.dproj | 05-25-2007 | 15:41:28 | | 9598 | 437d15e3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwrtfprintpreview.pas | 10-30-2007 | 14:41:36 | | 20744 | 1edb7cfa
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwrtfprintpreview.dfm | 10-30-2007 | 12:02:14 | | 13910 | a772112a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwrtfprintpreview.dfm | 10-30-2007 | 12:02:14 | | 13910 | a772112a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwrtfprintpreview.dcu | 05-15-2008 | 07:54:58 | | 19709 | 25e4a6e4
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwricheditbar.dfm | 11-15-2007 | 14:10:12 | | 89285 | 9689f540
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwricheditbar.dcu | 05-15-2008 | 07:55:00 | | 31937 | ba5a9c09
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\wwregex.dll | 03-20-2007 | 15:37:14 | | 312320 | ca55f783
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwricheditbar.pas | 11-15-2007 | 14:10:12 | | 38593 | 7e1e4b3e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwricheditbar.dfm | 11-15-2007 | 14:10:12 | | 89285 | 9689f540
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowinwordxp.bpi | 05-15-2008 | 07:55:02 | | 1108 | 5afc6056
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowinwordxp.lib | 05-15-2008 | 07:55:02 | | 18432 | e3a9f9af
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowinwordxp.dcp | 05-15-2008 | 07:55:02 | | 10296 | c87526d6
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowinword2000.dcp | 05-15-2008 | 07:55:02 | | 10287 | e8bc876f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowinclient.dcp | 05-15-2008 | 07:55:02 | | 21137 | 76c893bd
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowin.dcp | 05-15-2008 | 07:55:02 | | 1711221 | dd91135a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\dipstudiowin.dcp | 05-15-2008 | 07:55:04 | | 213696 | d68e8c51
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowin.bpi | 05-15-2008 | 07:55:00 | | 358404 | de49eb23
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowin.lib | 05-15-2008 | 07:55:00 | | 2535424 | cf5683ff
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowinclient.bpi | 05-15-2008 | 07:55:02 | | 3332 | 1707da72
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowinclient.lib | 05-15-2008 | 07:55:02 | | 34816 | d2bd73ae
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowinwordxp.res | 05-15-2008 | 07:41:52 | | 1592 | 45a03d09
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowinwordxp.dpk | 05-15-2008 | 07:41:54 | | 656 | 149d09da
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowinwordxp.dof | 09-24-2004 | 10:47:58 | | 3098 | e5ed7f42
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowinwordxp.cfg | 12-13-2005 | 17:53:20 | | 471 | 3e5235ec
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowinWordxp110.bpl | 05-15-2008 | 07:55:02 | 5.0.3.4 | 30208 | f106d156
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowinwordxp.bdsproj.local | 12-13-2005 | 18:05:02 | | 62 | 35343d43
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowinwordxp.bdsproj | 01-05-2006 | 15:00:54 | | 10266 | 7c00e405
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowinword2000.res | 05-15-2008 | 07:42:14 | | 1592 | 45a03d09
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowinword2000.dpk | 05-15-2008 | 07:42:16 | | 660 | 667c71dc
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowinword2000.dof | 09-24-2004 | 10:51:30 | | 3098 | 4902fccd
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowinword2000.cfg | 12-13-2005 | 17:52:42 | | 471 | 3e5235ec
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowinWord2000110.bpl | 05-15-2008 | 07:55:02 | 5.0.3.4 | 30208 | 8b33a956
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowinword2000.bdsproj.local | 12-13-2005 | 18:04:32 | | 62 | 35343d43
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowinword2000.bdsproj | 01-05-2006 | 15:00:46 | | 10268 | ea4efa55
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowinclient.res | 05-15-2008 | 07:40:34 | | 1592 | 45a03d09
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowinclient.dpk | 05-15-2008 | 07:40:36 | | 651 | c6e91361
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowinclient.dof | 09-24-2004 | 10:48:48 | | 3013 | 5a19f5a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowinclient.cfg | 12-13-2005 | 17:49:46 | | 509 | 16fa3c65
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowinclient.bdsproj.local | 01-05-2006 | 15:00:32 | | 62 | 35343d43
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowinclient.bdsproj | 01-05-2006 | 15:00:32 | | 10249 | e5f2d157
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowin.res | 05-15-2008 | 07:39:30 | | 1632 | 99d34630
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowin.dpk | 05-15-2008 | 07:39:32 | | 1541 | 5846f91d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowin.dof | 09-24-2004 | 10:45:30 | | 3333 | 90930119
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowin.cfg | 07-05-2006 | 12:30:26 | | 492 | d85e4219
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowin110.bpl | 05-15-2008 | 07:55:02 | 5.0.3.4 | 1536512 | c7721983
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowin.bdsproj.local | 10-04-2006 | 15:28:54 | | 62 | 35343d43
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowin.bdsproj | 10-04-2006 | 15:28:54 | | 10365 | d034904f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\dipstudiowin.res | 05-15-2008 | 07:40:10 | | 1592 | 45a03d09
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\dipstudiowin.dpk | 05-15-2008 | 07:40:12 | | 963 | a07a7343
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\dipstudiowin.dof | 09-24-2004 | 10:52:06 | | 3039 | bf5d2b97
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\dipstudiowin.cfg | 09-06-2007 | 10:03:20 | | 455 | 1aef2da
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\dipstudiowin110.bpl | 05-15-2008 | 07:55:04 | 5.0.3.4 | 263680 | 1675409e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\dipstudiowin.bdsproj.local | 01-05-2006 | 15:00:18 | | 62 | 35343d43
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\dipstudiowin.bdsproj | 01-05-2006 | 15:00:18 | | 10345 | d49df82d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\build.bat | 03-24-2007 | 16:48:54 | | 2693 | 50ff0c08
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowinclient110.bpl | 05-15-2008 | 07:55:02 | 5.0.3.4 | 46080 | 2d2df474
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwpiced2.ddp | 09-24-2004 | 13:40:16 | | 51 | c75d6e7d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwspeedbutton.pas | 03-24-2003 | 16:55:10 | | 13429 | 36afd2cf
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwselfld.pas | 08-28-2007 | 21:07:38 | | 49760 | 460448ae
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\Wwspin32.res | 11-27-2000 | 10:38:18 | | 420 | 63292224
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\Wwstacks.pas | 11-14-2004 | 23:01:24 | | 1731 | 51e09a82
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwspin.pas | 09-24-2004 | 13:42:18 | | 12879 | 5e6cd2d4
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwtypes.pas | 08-21-2002 | 11:26:48 | | 2505 | e9f2664d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwtrackicon.pas | 04-26-2001 | 16:53:20 | | 4386 | 194e771f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwtable.pas | 11-13-2007 | 16:25:34 | | 45595 | 8e012c58
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwSystem.pas | 08-29-2006 | 10:43:56 | | 18896 | 9fc580aa
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwstr.pas | 02-21-2006 | 18:05:18 | | 10875 | c194ae02
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwstorep.pas | 09-24-2004 | 13:42:28 | | 12375 | 29678d45
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\checkbox
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\checkbox\checkboxu.dfm | 05-31-2001 | 17:25:54 | | 212258 | 5e2ac3e5
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\checkbox\checkboxu.pas | 05-06-2001 | 22:32:58 | | 3316 | 65e1af9e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\checkbox\pcheckbox.cfg | 06-04-2001 | 14:19:26 | | 574 | b85a28b4
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\checkbox\pcheckbox.dof | 06-04-2001 | 14:56:08 | | 1937 | 607d7145
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\checkbox\pcheckbox.dpr | 05-06-2001 | 22:32:58 | | 218 | fc7999bd
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\checkbox\pcheckbox.res | 06-04-2001 | 14:56:04 | | 876 | c901118b
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Combos
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Combos\combodemou.ddp | 07-31-2001 | 11:24:22 | | 51 | 4fc2fcbe
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Combos\combodemou.dfm | 07-31-2001 | 11:57:26 | | 2056970 | 38edfc7d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Combos\combodemou.pas | 07-31-2001 | 11:56:34 | | 2120 | 74f970ab
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Combos\combos.dfm | 08-31-1999 | 09:54:34 | | 5250 | f84483e7
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Combos\combos.pas | 04-30-2001 | 15:41:52 | | 5575 | 62f73b3c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Combos\lkcustom.dfm | 05-29-2001 | 14:19:14 | | 9457 | 5ed4a187
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Combos\lkcustom.pas | 05-29-2001 | 14:00:44 | | 3217 | 71d16db8
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Combos\lkdtl.dfm | 08-31-1999 | 09:57:52 | | 2903 | 6b1f6958
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Combos\lkdtl.pas | 07-08-1998 | 16:42:24 | | 1376 | 7aa2c015
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Combos\lkquery.dfm | 08-31-1999 | 09:58:40 | | 7327 | d67aaf12
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Combos\lkquery.pas | 05-27-1997 | 15:29:08 | | 1985 | 22c3172c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Combos\Plkdtl.cfg | 06-04-2001 | 14:19:52 | | 391 | c11b79a3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Combos\Plkdtl.dof | 06-04-2001 | 14:56:32 | | 1991 | ee873a9f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Combos\Plkdtl.dpr | 06-30-1996 | 23:10:16 | | 189 | c0260288
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Combos\Plkdtl.opt | 07-01-1996 | 02:09:18 | | 279 | 37e808b9
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Combos\Plkdtl.res | 06-04-2001 | 14:56:24 | | 1580 | 5de89442
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Combos\Plkquery.cfg | 06-04-2001 | 14:20:10 | | 391 | c11b79a3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Combos\Plkquery.dof | 06-04-2001 | 14:56:50 | | 1991 | ee873a9f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Combos\Plkquery.dpr | 07-11-1996 | 22:46:28 | | 192 | 3942a084
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Combos\Plkquery.opt | 07-11-1996 | 22:46:38 | | 279 | 37e808b9
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Combos\Plkquery.res | 06-04-2001 | 14:56:46 | | 1580 | 5de89442
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Combos\pmruhistory.cfg | 07-31-2001 | 11:36:10 | | 391 | 8843c61d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Combos\pmruhistory.dof | 07-31-2001 | 11:36:10 | | 1123 | b933e9cd
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Combos\pmruhistory.dpr | 06-07-2001 | 13:55:54 | | 225 | c26337eb
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Combos\pmruhistory.res | 07-31-2001 | 11:57:38 | | 876 | c901118b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Combos\prjcombo.cfg | 06-04-2001 | 14:20:52 | | 391 | c11b79a3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Combos\prjcombo.dof | 06-04-2001 | 14:57:34 | | 1991 | ee873a9f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Combos\prjcombo.dpr | 04-30-2001 | 15:13:28 | | 205 | 706ef1f8
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Combos\Prjcombo.opt | 02-26-1996 | 11:29:42 | | 279 | 37e808b9
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Combos\Prjcombo.res | 06-04-2001 | 14:57:30 | | 1580 | ec18526b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Combos\prjcustom.cfg | 06-04-2001 | 14:21:06 | | 391 | c11b79a3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Combos\prjcustom.dof | 06-04-2001 | 14:57:48 | | 2070 | 7b2b435e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Combos\prjcustom.dpr | 05-29-2001 | 13:46:46 | | 225 | b81f1842
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Combos\prjcustom.res | 06-04-2001 | 14:57:42 | | 1580 | ec18526b
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Controller
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Controller\controller.ddp | 01-07-2003 | 09:28:46 | | 51 | 4fc2fcbe
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Controller\controller.dfm | 01-06-2003 | 23:21:54 | | 10991 | 8faaf1ba
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Controller\controller.pas | 01-06-2003 | 23:23:00 | | 3932 | c662620b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Controller\PController.cfg | 01-07-2003 | 08:27:26 | | 386 | ac143ce2
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Controller\PController.dof | 01-07-2003 | 08:27:26 | | 1097 | 325ec7a2
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Controller\PController.dpr | 12-20-2002 | 16:36:02 | | 201 | f4970ffe
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Controller\PController.res | 12-20-2002 | 15:32:14 | | 876 | 483416c3
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\DtPicker
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\DtPicker\dtpick.dfm | 10-19-1999 | 15:08:14 | | 12000 | eaf1e2a3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\DtPicker\dtpick.pas | 08-31-1999 | 09:58:54 | | 8209 | fcba3da8
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\DtPicker\mnthyear.dfm | 07-29-1998 | 08:35:44 | | 836 | bdbbdb8e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\DtPicker\mnthyear.pas | 07-03-1998 | 17:02:30 | | 459 | 8c3a2f01
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\DtPicker\monthcalu.dfm | 07-29-1998 | 08:17:00 | | 6061 | b0258622
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\DtPicker\monthcalu.pas | 07-25-1998 | 10:38:40 | | 10768 | 6084a05f
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\export
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\export\exportdemou.ddp | 06-15-2001 | 16:38:14 | | 51 | 4fc2fcbe
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\export\exportdemou.dfm | 06-15-2001 | 16:38:00 | | 30047 | 7cb53f83
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\export\exportdemou.pas | 06-05-2001 | 15:10:52 | | 8048 | 51ab5a83
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\export\pexportdemo.cfg | 06-04-2001 | 14:21:34 | | 414 | 52b5c4be
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\export\pexportdemo.CWS | 04-24-2001 | 15:55:00 | | 726 | 36677f1d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\export\pexportdemo.dof | 06-04-2001 | 14:58:16 | | 2156 | 5cdf4f0a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\export\pexportdemo.dpr | 04-30-2001 | 10:01:30 | | 218 | bbcd8a9a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\export\pexportdemo.res | 06-04-2001 | 14:58:08 | | 876 | c901118b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\export\wwexporttest.html | 06-05-2001 | 14:48:56 | | 177259 | afa0f5ad
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Filters
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Filters\FLTEVENT.dfm | 08-31-1999 | 09:56:14 | | 5152 | 204f4f2
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Filters\Fltevent.pas | 05-05-1997 | 01:41:24 | | 2367 | 55a39b30
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Filters\Prjfltev.cfg | 06-04-2001 | 14:22:12 | | 391 | c11b79a3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Filters\Prjfltev.dof | 06-04-2001 | 14:58:48 | | 2078 | b4512c92
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Filters\Prjfltev.dpr | 07-01-1996 | 13:38:38 | | 197 | e56efe31
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Filters\Prjfltev.opt | 07-01-1996 | 13:39:24 | | 279 | 37e808b9
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Filters\Prjfltev.res | 06-04-2001 | 14:58:44 | | 1580 | 5de89442
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Fltdlg
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Fltdlg\FILTDLG.dfm | 07-30-2001 | 17:18:38 | | 17792 | 56adef63
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Fltdlg\Filtdlg.pas | 07-30-2001 | 17:13:50 | | 8048 | 72b02293
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Fltdlg\Pfltdlg.cfg | 07-31-2001 | 11:36:38 | | 391 | e2a0a825
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Fltdlg\Pfltdlg.dof | 07-31-2001 | 11:36:38 | | 1195 | 462fe9cc
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Fltdlg\Pfltdlg.dpr | 07-01-1996 | 12:39:52 | | 197 | 127e2e88
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Fltdlg\Pfltdlg.opt | 07-01-1996 | 12:40:16 | | 279 | 37e808b9
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Fltdlg\Pfltdlg.res | 07-31-2001 | 11:58:14 | | 1580 | 5de89442
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\framing
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\framing\background.bmp | 09-20-1999 | 12:03:30 | | 83030 | d90b288c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\framing\background2.bmp | 10-18-1999 | 16:20:40 | | 91766 | 9f9b9d39
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\framing\dbchecks.cfg | 06-04-2001 | 14:23:08 | | 566 | 57fdd97a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\framing\dbchecks.dof | 06-04-2001 | 14:59:50 | | 2176 | 7ecba77f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\framing\dbchecks.dpr | 10-18-1999 | 15:59:10 | | 210 | 20fea2c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\framing\dbchecks.res | 06-04-2001 | 14:59:36 | | 876 | 5d70f2a3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\framing\dbchecku.dfm | 10-18-1999 | 12:18:36 | | 90595 | defc0f43
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\framing\dbchecku.pas | 10-18-1999 | 12:18:54 | | 1643 | 1e708ca0
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwrtfextra.cfg | 04-04-2004 | 15:35:38 | | 402 | f5a74d6f
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\DittoDemo.dpr | 04-25-2003 | 00:16:00 | | 203 | cee3a5d7
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\dittou.dfm | 04-25-2003 | 00:16:00 | | 50326 | c587cd28
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\dittou.pas | 04-25-2003 | 00:16:00 | | 3754 | 6b9920c5
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\GRDBITMP.dfm | 05-07-2001 | 03:45:10 | | 42610 | 3fb4275f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\Grdbitmp.opt | 06-21-1996 | 02:03:12 | | 279 | 37e808b9
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\Grdbitmp.pas | 08-31-1999 | 09:58:54 | | 6507 | 3a4ac6d8
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\Grdbitmp.res | 06-21-1996 | 02:03:12 | | 794 | c5a8372c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\Grdbtn.cfg | 06-04-2001 | 14:23:20 | | 391 | c11b79a3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\Grdbtn.dof | 06-04-2001 | 15:00:02 | | 1991 | ee873a9f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\Grdbtn.dpr | 07-20-1996 | 21:07:44 | | 181 | f00622c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\Grdbtn.opt | 07-20-1996 | 21:09:00 | | 279 | 37e808b9
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\Grdbtn.res | 06-04-2001 | 14:59:56 | | 1776 | dab56813
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\GRDBTTN.dfm | 05-31-2001 | 11:55:02 | | 17168 | e553b999
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\Grdbttn.pas | 08-31-1999 | 09:58:54 | | 1558 | b378b966
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\GrdIniHint.dfm | 10-19-1999 | 17:50:30 | | 7897 | 97f3e4ae
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\GrdIniHint.pas | 10-19-1999 | 13:38:44 | | 2143 | 39e2cca2
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\GRDLOOK.dfm | 07-30-2001 | 16:56:32 | | 10268 | 3aed39d5
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\Grdlook.pas | 07-02-1998 | 15:03:16 | | 5436 | d0e63a64
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\Gridbtmp.cfg | 06-04-2001 | 14:23:36 | | 391 | c11b79a3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\Gridbtmp.dof | 06-04-2001 | 15:00:18 | | 1991 | ee873a9f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\Gridbtmp.dpr | 07-28-1996 | 02:34:40 | | 177 | c1c0e73d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\GRIDBTMP.opt | 07-28-1996 | 02:34:58 | | 279 | 37e808b9
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\Gridbtmp.res | 06-04-2001 | 15:00:12 | | 1580 | 5de89442
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\gridcontrols.ddp | 09-10-2002 | 11:20:36 | | 51 | c75d6e7d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\gridcontrols.dfm | 09-10-2002 | 11:20:38 | | 51034 | 577901e8
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\gridcontrols.pas | 09-10-2002 | 11:20:38 | | 2448 | f0659525
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\griddatagroup.ddp | 01-20-2003 | 13:11:52 | | 51 | 4fc2fcbe
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\griddatagroup.dfm | 01-20-2003 | 13:11:26 | | 157180 | 5524dd2a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\griddatagroup.pas | 01-20-2003 | 13:11:48 | | 10658 | 31021d4a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\gridexpand.ddp | 09-05-2002 | 16:58:16 | | 51 | c75d6e7d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\gridexpand.dfm | 09-05-2002 | 16:57:50 | | 12228 | 59d26999
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\gridexpand.pas | 09-05-2002 | 16:58:18 | | 2377 | 4f3e197c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\gridexpandpanel.ddp | 09-09-2002 | 17:52:50 | | 51 | c75d6e7d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\gridexpandpanel.dfm | 09-06-2002 | 14:49:50 | | 13713 | 15b96c84
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\gridexpandpanel.pas | 01-13-2003 | 13:33:06 | | 3232 | f862eeae
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\GridIniHint.cfg | 06-04-2001 | 14:23:46 | | 437 | f8c58bb
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\GridIniHint.dof | 06-04-2001 | 15:00:30 | | 1749 | 6c79c124
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\GridIniHint.dpr | 10-19-1999 | 13:01:56 | | 231 | 3f0aa7ad
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\GridIniHint.res | 06-04-2001 | 15:00:24 | | 876 | c901118b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\gridlargeedit.dfm | 01-13-2003 | 13:33:18 | | 5427 | 220327b8
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\gridlargeedit.pas | 01-13-2003 | 13:33:20 | | 1180 | 6d4ecc17
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\Gridlook.cfg | 06-04-2001 | 14:24:00 | | 391 | c11b79a3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\Gridlook.dof | 06-04-2001 | 15:00:42 | | 1991 | ee873a9f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\Gridlook.dpr | 04-20-1995 | 17:42:26 | | 174 | 4942cd62
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\Gridlook.opt | 07-24-1995 | 23:17:54 | | 279 | 37e808b9
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\Gridlook.res | 06-04-2001 | 15:00:36 | | 1580 | 5de89442
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\gridmasterdetailpanel.ddp | 09-10-2002 | 15:28:58 | | 51 | c75d6e7d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\gridmasterdetailpanel.dfm | 09-10-2002 | 15:28:24 | | 51003 | d9eba74b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\gridmasterdetailpanel.pas | 09-10-2002 | 15:29:00 | | 4976 | ef4299c6
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\Pdatagroup.cfg | 08-30-2002 | 19:26:32 | | 386 | feb78bdd
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\Pdatagroup.dof | 08-30-2002 | 19:26:38 | | 2641 | 3037e6bb
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\Pdatagroup.dpr | 08-29-2002 | 15:35:54 | | 206 | 869a1b74
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\Pdatagroup.res | 08-29-2002 | 15:01:10 | | 876 | dd75daa5
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\PGridControls.cfg | 07-18-2001 | 09:36:42 | | 386 | 5f5a970f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\PGridControls.dof | 07-18-2001 | 10:18:24 | | 1846 | ab2eb2ca
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\PGridControls.dpr | 04-27-2001 | 16:12:14 | | 240 | 3b4e3ca9
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\PGridControls.res | 06-04-2001 | 15:00:48 | | 876 | 483416c3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\PGridExpand.cfg | 06-04-2001 | 14:24:28 | | 386 | 5f5a970f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\PGridExpand.dof | 06-04-2001 | 15:01:10 | | 1769 | df0967e3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\PGridExpand.dpr | 05-29-2001 | 12:53:22 | | 228 | 6b20560b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Grid\PGridExpand.res | 06-04-2001 | 15:01:00 | | 876 | 483416c3
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\gridmast
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\gridmast\gridmasterdetail.ddp | 11-30-2004 | 19:57:26 | | 51 | c75d6e7d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\gridmast\gridmasterdetail.dfm | 11-30-2004 | 19:57:10 | | 46641 | b000c52d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\gridmast\gridmasterdetail.pas | 04-30-2001 | 17:42:34 | | 5577 | 19688275
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\gridmast\gridmasterdetailpanel.ddp | 09-10-2002 | 15:50:06 | | 51 | c75d6e7d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\gridmast\gridmasterdetailpanel.dfm | 12-03-2004 | 16:20:26 | | 49446 | 6c869438
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\gridmast\gridmasterdetailpanel.pas | 09-10-2002 | 15:50:02 | | 4760 | 8b6191bd
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\gridmast\pgridmaster.cfg | 06-04-2001 | 14:24:44 | | 391 | c11b79a3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\gridmast\pgridmaster.dof | 06-04-2001 | 15:01:26 | | 1991 | ee873a9f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\gridmast\pgridmaster.dpr | 04-27-2001 | 14:10:06 | | 258 | 98b76d09
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\gridmast\pgridmaster.res | 06-04-2001 | 15:01:16 | | 1580 | ec18526b
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\gridmemo
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\gridmemo\GRDMEMO.dfm | 05-07-2001 | 03:49:18 | | 3799 | d13ea15d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\gridmemo\Grdmemo.pas | 10-28-1999 | 10:49:54 | | 1582 | 7a144d92
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\gridmemo\Gridmemo.cfg | 06-04-2001 | 14:25:08 | | 391 | c11b79a3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\gridmemo\Gridmemo.dof | 06-04-2001 | 15:01:50 | | 1991 | ee873a9f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\gridmemo\Gridmemo.dpr | 04-20-1995 | 17:11:24 | | 183 | be6daed0
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\gridmemo\Gridmemo.opt | 04-20-1995 | 17:11:54 | | 279 | 37e808b9
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\gridmemo\Gridmemo.res | 06-04-2001 | 15:01:44 | | 1580 | 5de89442
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\inspector
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\inspector\DataInspectorU.ddp | 10-31-2001 | 17:43:20 | | 51 | 4fc2fcbe
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\inspector\DataInspectorU.dfm | 10-18-1999 | 15:38:06 | | 83158 | 27c774e0
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\inspector\DataInspectorU.pas | 10-31-2001 | 17:43:14 | | 13024 | 3892ebac
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\inspector\inspectormulti.dfm | 05-29-2001 | 17:36:42 | | 158350 | e85648d6
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\inspector\inspectormulti.pas | 04-30-2001 | 15:03:30 | | 3767 | c7fa9e1f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\inspector\pinspectormulti.cfg | 06-13-2001 | 15:21:04 | | 386 | 5f5a970f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\inspector\pinspectormulti.dof | 06-13-2001 | 15:58:48 | | 1846 | ab2eb2ca
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\inspector\pinspectormulti.dpr | 06-13-2001 | 15:58:38 | | 239 | 3f598d36
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\inspector\pinspectormulti.res | 06-04-2001 | 15:01:58 | | 876 | 483416c3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\inspector\prjDataInspector.cfg | 06-04-2001 | 14:25:38 | | 386 | 5f5a970f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\inspector\prjDataInspector.dof | 06-04-2001 | 15:02:20 | | 2003 | 24d11555
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\inspector\prjDataInspector.dpr | 11-08-1999 | 16:09:30 | | 238 | 8a9cfa1f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\inspector\prjDataInspector.res | 06-04-2001 | 15:02:10 | | 876 | cb4d809
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\inspector\w2wtext6.BMP | 08-20-1999 | 13:46:56 | | 36566 | 98b98ea4
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Isrchdlg
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Isrchdlg\ISEARCH.dfm | 08-31-1999 | 13:49:42 | | 8007 | b1fec47
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Isrchdlg\Isearch.pas | 07-03-1998 | 11:16:14 | | 3072 | 433ddee2
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Isrchdlg\Srchdlg.cfg | 06-04-2001 | 14:25:50 | | 391 | c11b79a3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Isrchdlg\Srchdlg.dof | 06-04-2001 | 15:02:34 | | 1991 | ee873a9f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Isrchdlg\Srchdlg.dpr | 04-24-1995 | 21:39:40 | | 179 | 3e697a72
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Isrchdlg\Srchdlg.opt | 04-28-1995 | 01:50:10 | | 279 | 37e808b9
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Isrchdlg\Srchdlg.res | 06-04-2001 | 15:02:26 | | 1580 | 5de89442
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Locate
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Locate\DEMOLOC.dfm | 04-30-2001 | 15:33:08 | | 6459 | 6a947e91
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Locate\Demoloc.pas | 04-30-2001 | 15:33:08 | | 2530 | 5d9a5ea4
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Locate\Prjlocat.cfg | 06-04-2001 | 14:26:10 | | 391 | c11b79a3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Locate\Prjlocat.dof | 06-04-2001 | 15:02:52 | | 1991 | ee873a9f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Locate\Prjlocat.dpr | 04-20-1995 | 17:14:34 | | 168 | cfd5bf3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Locate\Prjlocat.opt | 04-20-1995 | 17:15:12 | | 279 | 37e808b9
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Locate\Prjlocat.res | 06-04-2001 | 15:02:40 | | 1580 | 5de89442
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\maindemo\demo.ddp | 01-13-2003 | 13:21:40 | | 51 | 4fc2fcbe
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\maindemo\demo.dfm | 11-06-2007 | 15:31:34 | | 1609351 | fa19395
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\maindemo\demo.pas | 05-30-2007 | 10:34:30 | | 19647 | 44ac038b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\maindemo\Prjdemo.bdsproj | 09-25-2004 | 13:47:44 | | 9533 | 53ff8023
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\maindemo\Prjdemo.bdsproj.local | 09-25-2004 | 13:47:44 | | 62 | 35343d43
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\maindemo\Prjdemo.cfg | 03-19-2007 | 17:39:04 | | 554 | a5a34d4a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\maindemo\Prjdemo.dof | 04-30-2003 | 09:05:56 | | 1540 | 766469d6
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\maindemo\Prjdemo.dpr | 05-24-2007 | 15:26:42 | | 3211 | c62bcbbd
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\maindemo\Prjdemo.identcache | 12-20-2007 | 09:48:02 | | 3268 | 6c94502f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\maindemo\PRJDEMO.opt | 08-04-1998 | 00:29:28 | | 280 | c0ffaa42
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\maindemo\Prjdemo.res | 05-14-2007 | 08:36:10 | | 876 | 8c341621
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\maindemo\Prjdemo.str | 02-15-1997 | 15:21:56 | | 32 | 245d8dcd
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\maindemo\SaveFilt.txt | 06-14-1997 | 00:19:58 | | 114 | 22f2c028
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\maindemo\wwexporttest.txt | 11-27-2007 | 15:20:38 | | 27387 | 25838ec2
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Multidel
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Multidel\MULTI.dfm | 08-31-1999 | 09:59:28 | | 4620 | 38a43ef9
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Multidel\Multi.pas | 08-31-1999 | 11:04:54 | | 5024 | 64874e6f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Multidel\Prjmulti.cfg | 06-04-2001 | 14:26:24 | | 406 | d2082ea6
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Multidel\Prjmulti.dof | 06-04-2001 | 14:26:24 | | 1737 | d2882462
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Multidel\Prjmulti.dpr | 05-27-1997 | 12:24:34 | | 181 | dd0262b8
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Multidel\Prjmulti.opt | 06-16-1996 | 20:30:22 | | 279 | b86b9d31
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Multidel\Prjmulti.res | 06-04-2001 | 15:02:58 | | 876 | 9f1269
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Navigator
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Navigator\NavigatorComb.dfm | 08-31-1999 | 09:59:40 | | 12195 | 343be6c3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Navigator\NavigatorComb.pas | 08-31-1999 | 10:03:14 | | 3147 | 91c40db4
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Navigator\NavMany.dfm | 08-31-1999 | 09:59:54 | | 30073 | 401cacd2
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Navigator\NavMany.pas | 08-31-1999 | 10:03:12 | | 4211 | e777e3c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Navigator\NavManyProj.cfg | 06-04-2001 | 14:26:36 | | 391 | 62c039e2
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Navigator\NavManyProj.dof | 06-04-2001 | 15:03:20 | | 1919 | fb5c94d4
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Navigator\NavManyProj.dpr | 07-08-1998 | 02:15:50 | | 213 | d8d03528
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Navigator\NavManyProj.res | 06-04-2001 | 15:03:12 | | 876 | cb4d809
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\numerics
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\numerics\formatu.dfm | 04-30-2001 | 15:55:22 | | 218391 | 7a2954c2
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\numerics\formatu.pas | 04-30-2001 | 15:55:30 | | 1298 | 98a363fe
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\numerics\pformat.cfg | 06-04-2001 | 14:39:08 | | 386 | ae92af2a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\numerics\pformat.dof | 06-04-2001 | 14:39:08 | | 1727 | 1201b52
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\numerics\pformat.dpr | 04-30-2001 | 15:55:22 | | 206 | f680e5a8
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\numerics\pformat.res | 06-04-2001 | 15:15:34 | | 876 | c901118b
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Picmask
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Picmask\Picmask.cfg | 06-04-2001 | 14:39:30 | | 391 | c11b79a3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Picmask\Picmask.dof | 06-04-2001 | 15:16:12 | | 1991 | ee873a9f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Picmask\Picmask.dpr | 06-21-1996 | 12:14:58 | | 184 | 88558ec4
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Picmask\Picmask.opt | 06-26-1996 | 15:28:16 | | 279 | 37e808b9
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Picmask\Picmask.res | 06-04-2001 | 15:16:04 | | 1580 | 5de89442
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Picmask\PICTURES.dfm | 11-05-2007 | 15:41:24 | | 9022 | aebc8288
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Picmask\Pictures.pas | 09-06-2007 | 11:17:22 | | 5117 | 6d1022c2
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Qbe
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Qbe\Prjqbe.cfg | 06-04-2001 | 14:39:44 | | 391 | c11b79a3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Qbe\Prjqbe.dof | 06-04-2001 | 15:16:28 | | 1991 | ee873a9f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Qbe\Prjqbe.dpr | 04-25-1995 | 11:52:46 | | 161 | c10bf018
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Qbe\Prjqbe.opt | 05-01-1995 | 20:54:42 | | 279 | 37e808b9
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Qbe\Prjqbe.res | 06-04-2001 | 15:16:20 | | 1580 | 5de89442
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Qbe\QBE.dfm | 08-31-1999 | 10:01:54 | | 4323 | 90bf92d3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Qbe\Qbe.pas | 05-01-1995 | 20:53:12 | | 1265 | 6f051e57
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\radio
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\radio\pradio.cfg | 06-04-2001 | 14:40:00 | | 386 | ae92af2a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\radio\pradio.CWS | 04-23-2001 | 16:20:54 | | 726 | 30efc10b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\radio\pradio.dof | 06-04-2001 | 14:40:00 | | 1919 | aa68be19
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\radio\pradio.dpr | 05-24-2001 | 12:35:42 | | 204 | 81f3556c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\radio\pradio.res | 06-04-2001 | 15:16:34 | | 876 | c901118b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\radio\radiou.dfm | 05-29-2001 | 03:36:30 | | 308594 | 57b08672
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\radio\radiou.pas | 05-29-2001 | 03:36:30 | | 2364 | bf92db42
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\rcdpanel
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\rcdpanel\prcdpnldemo.cfg | 06-04-2001 | 14:40:12 | | 386 | ab7763cf
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\rcdpanel\prcdpnldemo.dof | 06-04-2001 | 15:16:54 | | 1938 | 3a656aa
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\rcdpanel\prcdpnldemo.dpr | 06-12-1998 | 10:53:04 | | 231 | f014623d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\rcdpanel\prcdpnldemo.res | 06-04-2001 | 15:16:48 | | 876 | 5d70f2a3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\rcdpanel\prcdpnldemo2.cfg | 06-04-2001 | 14:40:52 | | 566 | 57fdd97a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\rcdpanel\prcdpnldemo2.dof | 06-04-2001 | 15:17:36 | | 2000 | 3e9d941
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\rcdpanel\prcdpnldemo2.dpr | 06-07-2001 | 09:09:34 | | 249 | 438976ff
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\rcdpanel\prcdpnldemo2.res | 06-04-2001 | 15:17:12 | | 876 | 483416c3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\rcdpanel\rcdpnldemo.dfm | 04-30-2001 | 16:17:40 | | 7915 | 2866dbb6
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\rcdpanel\rcdpnldemo.pas | 08-31-1999 | 13:40:10 | | 4408 | 65a23e9c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\rcdpanel\rcdpnldemo2.dfm | 03-16-2000 | 14:57:24 | | 6608 | 2d00b4c3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\rcdpanel\rcdpnldemo2.pas | 03-16-2001 | 11:07:38 | | 6155 | 9e7d8598
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\rcdvw
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\rcdvw\prcdvw.cfg | 06-04-2001 | 14:41:06 | | 393 | 17161cc
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\rcdvw\prcdvw.dof | 06-04-2001 | 14:41:06 | | 1728 | ba5af8d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\rcdvw\prcdvw.dpr | 06-16-1997 | 09:48:28 | | 225 | d50ddb81
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\rcdvw\prcdvw.res | 06-04-2001 | 15:17:42 | | 876 | 5d70f2a3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\rcdvw\prcdvw2.cfg | 06-04-2001 | 14:41:24 | | 386 | 5f5a970f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\rcdvw\prcdvw2.dof | 06-04-2001 | 14:41:24 | | 1846 | ab2eb2ca
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\rcdvw\prcdvw2.dpr | 04-30-2001 | 11:28:56 | | 234 | 41ffb546
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\rcdvw\prcdvw2.res | 06-04-2001 | 15:17:54 | | 876 | 483416c3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\rcdvw\rcdvw.dfm | 08-31-1999 | 10:02:16 | | 6398 | 73e873aa
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\rcdvw\rcdvw.pas | 06-29-1998 | 22:06:54 | | 4903 | 8588e5cb
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\rcdvw\rcdvw2.dfm | 04-30-2001 | 15:22:00 | | 29554 | b0e6e5ab
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\rcdvw\rcdvw2.pas | 04-30-2001 | 11:28:56 | | 2402 | 98bef236
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\richedit\converter.ddp | 01-07-2003 | 09:40:14 | | 51 | 4fc2fcbe
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\richedit\converter.dfm | 10-11-2007 | 15:18:02 | | 3498 | 1fd2e4df
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\richedit\converter.pas | 01-13-2003 | 13:33:48 | | 3293 | 10cf6ca5
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\richedit\mailmerge.ddp | 01-06-2003 | 14:57:50 | | 51 | 4fc2fcbe
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\richedit\mailmerge.dfm | 01-06-2003 | 14:48:04 | | 19687 | 19e280b3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\richedit\mailmerge.pas | 01-06-2003 | 14:48:28 | | 4063 | eb3e10c0
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\richedit\printheader.ddp | 12-19-2002 | 15:30:10 | | 51 | 4fc2fcbe
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\richedit\printheader.dfm | 05-23-2007 | 18:06:40 | | 302354 | 9a37269b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\richedit\printheader.pas | 05-15-2007 | 13:46:14 | | 1443 | 9dc5eebe
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\richedit\prjimport.cfg | 08-15-2002 | 23:06:08 | | 386 | eb5a98a2
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\richedit\prjimport.dof | 08-15-2002 | 23:06:08 | | 2434 | aebfe467
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\richedit\prjimport.dpr | 08-15-2002 | 13:26:18 | | 197 | 8a682c5e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\richedit\prjimport.res | 08-15-2002 | 11:10:16 | | 876 | dd75daa5
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\richedit\PrjPrintHeader.cfg | 12-16-2002 | 09:54:54 | | 386 | ac143ce2
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\richedit\PrjPrintHeader.dof | 12-16-2002 | 09:54:54 | | 1097 | 325ec7a2
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\richedit\PrjPrintHeader.dpr | 12-16-2002 | 10:29:24 | | 206 | 782701f8
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\richedit\PrjPrintHeader.res | 12-16-2002 | 10:23:18 | | 876 | 483416c3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\richedit\richlabelu.dfm | 05-07-2001 | 03:27:28 | | 28988 | b58a1704
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\richedit\richlabelu.pas | 05-07-2001 | 03:15:56 | | 429 | 8347d06f
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\savefilt
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\savefilt\psaveflt.cfg | 06-04-2001 | 14:41:46 | | 393 | bab9bd39
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\savefilt\psaveflt.dof | 06-04-2001 | 14:41:46 | | 1728 | d391eb0b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\savefilt\psaveflt.dpr | 12-22-1997 | 12:52:44 | | 355 | 116bfd62
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\savefilt\psaveflt.res | 06-04-2001 | 15:18:24 | | 876 | f81c4ea
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\savefilt\savefilt.dfm | 08-31-1999 | 10:02:28 | | 2681 | 4a0dab66
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\savefilt\savefilt.pas | 07-03-1998 | 15:11:14 | | 3695 | a666676a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\savefilt\savefilt.txt | 12-22-1997 | 12:58:06 | | 293 | ff032159
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\savefilt\selfilt.dfm | 06-13-1997 | 12:47:48 | | 609 | 2e9881d0
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\savefilt\selfilt.pas | 06-13-1997 | 12:47:16 | | 905 | 4e805365
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\savefilt\wwsavflt.pas | 12-22-1997 | 13:04:50 | | 8836 | 1cba7a89
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Search
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Search\Demosrch.cfg | 06-04-2001 | 14:42:02 | | 391 | c11b79a3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Search\Demosrch.dof | 06-04-2001 | 15:18:46 | | 1991 | ee873a9f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Search\Demosrch.dpr | 04-18-1995 | 00:49:06 | | 178 | d1afbea1
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Search\Demosrch.opt | 04-20-1995 | 17:16:34 | | 279 | 37e808b9
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Search\Demosrch.res | 06-04-2001 | 15:18:38 | | 1580 | 5de89442
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Search\SEARCH.dfm | 08-31-1999 | 10:02:36 | | 3773 | 208a16c9
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Search\Search.pas | 04-30-2001 | 16:20:02 | | 1038 | 94c903a4
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Tblpack
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Tblpack\Packdlgs.dfm | 04-03-1995 | 09:37:26 | | 2164 | 353c7535
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Tblpack\Packdlgs.pas | 01-13-1997 | 01:49:36 | | 6494 | 97c59ea3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Tblpack\Packprj.cfg | 06-04-2001 | 14:42:44 | | 391 | c11b79a3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Tblpack\Packprj.dof | 06-04-2001 | 15:19:08 | | 1991 | ee873a9f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Tblpack\Packprj.dpr | 03-30-1995 | 03:23:34 | | 222 | caf600fb
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Tblpack\Packprj.opt | 04-28-1995 | 01:50:52 | | 279 | 37e808b9
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Tblpack\Packprj.res | 06-04-2001 | 15:19:04 | | 1580 | 5de89442
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Tblpack\PACKTEST.dfm | 04-30-2001 | 16:20:12 | | 2623 | 6981c0f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\demos\windows\Tblpack\Packtest.pas | 01-13-1997 | 01:50:10 | | 2892 | f898a956
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwrichtb.pas | 04-26-2001 | 16:51:14 | | 5865 | a5d26868
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwrichtb.dfm | 11-27-2000 | 10:38:18 | | 1159 | 636ea086
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwrtfconverter.pas | 09-27-2006 | 15:22:36 | | 17841 | be392ab
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwrichspell.pas | 11-27-2000 | 10:38:18 | | 3403 | 3ac2edd
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwricholecallback.pas | 04-26-2001 | 16:50:50 | | 5366 | 7ea4d82d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\dipstudiowin.dcu | 05-15-2008 | 07:55:04 | | 5500 | 2ca31db3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwrichole.pas | 11-27-2000 | 10:38:18 | | 6195 | 42a6d1f6
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\Info32.res | 06-29-2007 | 11:14:36 | | 10188 | 14c89973
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\infopowr.dcu | 05-15-2008 | 07:55:04 | | 11474 | eed23b6
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwrichobjinfo.pas | 04-26-2001 | 16:50:04 | | 14421 | e5a8c56
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwrichedspellxp.pas | 11-09-2007 | 17:01:38 | | 4995 | 6ee2d43c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwrichedspell2000.pas | 08-30-2007 | 16:04:52 | | 4771 | d3ae43a0
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwrichedspell.pas | 11-16-2007 | 16:30:56 | | 4586 | 1d91c8b6
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwriched.pas | 11-28-2007 | 10:41:42 | | 209212 | df25f40e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwrich.pas | 12-04-2007 | 00:58:12 | | 53818 | f2351545
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwrich.dfm | 12-04-2007 | 00:52:40 | | 32020 | f67080cf
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwrchdlg.pas | 04-26-2001 | 16:48:26 | | 11337 | 84244ca5
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwrchdlg.dfm | 04-23-2001 | 12:03:06 | | 2842 | 97f9a15
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwrcdvw.pas | 04-10-2008 | 09:47:04 | | 90722 | dce71fca
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwrcdvw.dfm | 03-06-2007 | 19:06:18 | | 363 | 19da94cd
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwrcdvw.ddp | 05-14-2005 | 10:44:28 | | 51 | c75d6e7d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwrcdpnl.pas | 04-10-2008 | 09:47:18 | | 80821 | 62d0c309
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\ipabout.dcu | 05-15-2008 | 07:55:04 | | 4240 | e3e1eb5b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\ipabout.dfm | 05-30-2007 | 11:35:04 | | 1216 | 15aa9582
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\ipdsgn.dcu | 05-15-2008 | 07:55:04 | | 2485 | 90bb5ed1
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\ipstudiowin.dcu | 05-15-2008 | 07:55:00 | | 5574 | 61ee5d01
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\ipstudiowinclient.dcu | 05-15-2008 | 07:55:02 | | 3788 | 63278174
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\ipstudiowinword2000.dcu | 05-15-2008 | 07:55:02 | | 3671 | 1bb80be3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\ipstudiowinwordxp.dcu | 05-15-2008 | 07:55:02 | | 3657 | beb42007
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwradiogroup.pas | 01-07-2006 | 02:29:48 | | 39361 | 728f2bbe
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwradiobutton.pas | 01-07-2006 | 02:42:02 | | 34948 | f2331d5e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwQuery.pas | 09-24-2004 | 13:41:24 | | 14695 | fe6a4225
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwqbe.pas | 09-24-2004 | 13:41:14 | | 20482 | b2aece0a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwprppic.pas | 03-15-2007 | 16:21:30 | | 9518 | bb6ee404
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwprppic.dfm | 03-15-2007 | 16:10:38 | | 2128 | e25d7339
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwprppic.ddp | 09-24-2004 | 13:41:04 | | 51 | c75d6e7d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwaddfld.dfm | 04-30-2001 | 13:09:26 | | 1092 | f25a2211
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwaddlk.dcu | 05-15-2008 | 07:55:04 | | 15966 | 86df27b0
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwaddlk.dfm | 11-27-2000 | 10:38:18 | | 3093 | 122ac190
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwbitmap.dcu | 05-15-2008 | 07:54:58 | | 29080 | 6d2409d7
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwchangelink.dcu | 05-15-2008 | 07:54:58 | | 1465 | 8b686547
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwcheckbox.dcu | 05-15-2008 | 07:54:58 | | 74684 | 60bf6f7a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwclearbuttongroup.dcu | 05-15-2008 | 07:54:58 | | 7144 | 9fe0f0fb
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwclearpanel.dcu | 05-15-2008 | 07:55:00 | | 8244 | f8477d72
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwclient.dcu | 05-15-2008 | 07:55:02 | | 13849 | eb70775a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwcollection.dcu | 05-15-2008 | 07:55:00 | | 4447 | 5e830f92
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwcollectioneditor.dcu | 05-15-2008 | 07:55:04 | | 13295 | cb64459d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwcollectioneditor.dfm | 06-01-2001 | 10:08:54 | | 21654 | f214a07d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwcombobutton.dcu | 05-15-2008 | 07:54:58 | | 34724 | 8a6877bf
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwcommon.dcu | 05-15-2008 | 07:55:00 | | 83141 | 3f08ae00
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwdatain.res | 02-06-2001 | 17:50:46 | | 796 | bc04d945
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwdatainspector.dcu | 05-15-2008 | 07:55:00 | | 167125 | cd2cc00f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwdatsrc.dcu | 05-15-2008 | 07:54:58 | | 1616 | cf5776fc
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwdbcomb.dcu | 05-15-2008 | 07:54:58 | | 54166 | 26b4bee4
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\Wwdbd32.res | 11-27-2000 | 10:38:18 | | 272 | db270c1e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwdbdatetimepicker.dcu | 05-15-2008 | 07:54:58 | | 120378 | 7db787d8
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwdbdlg.dcu | 05-15-2008 | 07:55:00 | | 21960 | 1c23530f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwdbedit.dcu | 05-15-2008 | 07:54:58 | | 77899 | d241bde1
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwdbgrid.dcu | 05-15-2008 | 07:54:58 | | 87417 | d6d98c9f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\Wwdbi32.res | 04-10-2001 | 18:59:58 | | 3000 | 33192b1e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwdbigrd.dcu | 05-15-2008 | 07:54:58 | | 210882 | 9ec1ef28
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwdblook.dcu | 05-15-2008 | 07:54:58 | | 140122 | 51ce6b1
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwdbnav.res | 11-27-2000 | 10:38:18 | | 14372 | 18ce1dee
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwDBNavEdit.res | 11-27-2000 | 10:38:18 | | 408 | 24636ef1
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwdbnavedt.dcu | 05-15-2008 | 07:55:04 | | 8419 | a98fe3d4
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwdbnavigator.dcu | 05-15-2008 | 07:55:00 | | 51687 | f5798f1
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwdbspin.dcu | 05-15-2008 | 07:54:58 | | 26951 | f2c2540b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwdialog.dcu | 05-15-2008 | 07:54:58 | | 1602 | 76c003cb
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwdotdot.dcu | 05-15-2008 | 07:54:58 | | 33064 | e3c63f91
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwedtpic.dcu | 05-15-2008 | 07:55:04 | | 6533 | 6aff7125
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwedtpic.dfm | 11-27-2000 | 10:38:18 | | 1132 | 334cd656
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwexport.dcu | 05-15-2008 | 07:54:58 | | 47996 | 86ddc2e2
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwfilter.dcu | 05-15-2008 | 07:54:58 | | 21794 | 7ecb8907
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwfltdlg.dcu | 05-15-2008 | 07:55:00 | | 92353 | f3e1cace
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwfltdlg.dfm | 01-17-2008 | 16:42:48 | | 5770 | ce537532
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwfltdum.dcu | 05-15-2008 | 07:55:00 | | 15098 | 96ec31bb
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwfltfld.dcu | 05-15-2008 | 07:55:04 | | 14087 | 67c90956
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwfltfld.dfm | 06-29-2007 | 15:59:36 | | 1939 | bf6d7d94
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwfltvw.dcu | 05-15-2008 | 07:55:00 | | 8405 | e9c425e3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwfltvw.dfm | 09-04-2001 | 15:02:16 | | 967 | 58859042
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwframe.dcu | 05-15-2008 | 07:55:00 | | 14955 | b9187aa4
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\Wwgttbl.dcu | 05-15-2008 | 07:55:04 | | 6809 | 10873e48
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\Wwgttbl.dfm | 11-27-2000 | 10:38:18 | | 1171 | 9eab7c51
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwhistorylist.dcu | 05-15-2008 | 07:54:58 | | 9764 | 5e396526
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwidlg.dcu | 05-15-2008 | 07:55:00 | | 43174 | ebe88f95
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwidlg.dfm | 11-27-2000 | 10:38:18 | | 2091 | 3c8934bf
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwinspectorprop.dcu | 05-15-2008 | 07:55:04 | | 21569 | a13dcfc3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwinspectorprop.dfm | 05-29-2001 | 10:52:16 | | 1114 | 2a1e6c98
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwInspectorPrpEdt.dcu | 05-15-2008 | 07:55:04 | | 7552 | b31b00d1
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwintl.dcu | 05-15-2008 | 07:55:00 | | 66841 | 41872c46
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwkeycb.dcu | 05-15-2008 | 07:55:00 | | 52313 | 11bca17f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwlocate.dcu | 05-15-2008 | 07:55:00 | | 26791 | 61b4f4ca
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwlocate.dfm | 01-04-2006 | 15:58:30 | | 2286 | 840a5fa2
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwmemo.dcu | 05-15-2008 | 07:54:58 | | 11185 | a985e184
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwmemo.dfm | 11-06-2007 | 14:56:24 | | 976 | d598e11c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwmidas.dcu | 05-15-2008 | 07:55:02 | | 595 | 47e0a911
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwmonthcalendar.dcu | 05-15-2008 | 07:54:58 | | 54395 | 3afcba38
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwpaintoptions.dcu | 05-15-2008 | 07:54:58 | | 9509 | 2e1123d1
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\Wwpicdb.dcu | 05-15-2008 | 07:55:04 | | 5142 | 8a36102d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\Wwpicdb.dfm | 04-11-2007 | 16:10:48 | | 1296 | f1629306
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwpiced2.dcu | 05-15-2008 | 07:55:04 | | 11419 | 26d87c7a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwpiced2.dfm | 03-24-2007 | 10:05:28 | | 1831 | 6846812d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwpict.dcu | 05-15-2008 | 07:54:58 | | 7988 | e85d2f6
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwprovider.dcu | 05-15-2008 | 07:55:02 | | 7558 | 695f62f4
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwprpcom.dcu | 05-15-2008 | 07:55:04 | | 11368 | d59718b5
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwprpcom.dfm | 11-27-2000 | 10:38:18 | | 1647 | b8722c8f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwprpds.dcu | 05-15-2008 | 07:55:04 | | 2706 | 6adbb816
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwprpedt.dcu | 05-15-2008 | 07:55:04 | | 37571 | beaa160e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwprpfld.dcu | 05-15-2008 | 07:55:04 | | 6657 | a08a2812
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwprpfld.dfm | 11-27-2000 | 10:38:18 | | 1014 | da2dd410
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwprppic.dcu | 05-15-2008 | 07:55:04 | | 12474 | 8704ec46
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwprppic.dfm | 03-15-2007 | 16:10:38 | | 2128 | e25d7339
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwqbe.dcu | 05-15-2008 | 07:54:58 | | 21003 | ce12987b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwQuery.dcu | 05-15-2008 | 07:54:58 | | 17445 | c62f726f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwradiobutton.dcu | 05-15-2008 | 07:54:58 | | 33573 | ee34f43b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwradiogroup.dcu | 05-15-2008 | 07:54:58 | | 47769 | 7ef37ec0
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwrcdpnl.dcu | 05-15-2008 | 07:55:00 | | 43586 | 2db72c11
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwrcdvw.dcu | 05-15-2008 | 07:55:00 | | 63987 | 7d032dfc
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwrcdvw.dfm | 03-06-2007 | 19:06:18 | | 363 | 19da94cd
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwrchdlg.dcu | 05-15-2008 | 07:54:58 | | 11940 | 2d9fa45c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwrchdlg.dfm | 04-23-2001 | 12:03:06 | | 2842 | 97f9a15
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwrich.dcu | 05-15-2008 | 07:54:58 | | 44670 | 67e7a0f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwrich.dfm | 12-04-2007 | 00:52:40 | | 32020 | f67080cf
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwriched.dcu | 05-15-2008 | 07:54:58 | | 141418 | 43774ef1
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwrichedspell.pas | 11-16-2007 | 16:30:56 | | 4586 | 1d91c8b6
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwrichedspell2000.dcu | 05-15-2008 | 07:55:02 | | 9831 | 62d9423a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwrichedspellxp.dcu | 05-15-2008 | 07:55:02 | | 9987 | d61b6b26
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwrichobjinfo.dcu | 05-15-2008 | 07:54:58 | | 12195 | 7f8a1e55
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwrichole.dcu | 05-15-2008 | 07:54:58 | | 4476 | 6ba8dffe
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwricholecallback.dcu | 05-15-2008 | 07:54:58 | | 7798 | 193c6518
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\Wwrichsp.res | 11-27-2000 | 10:38:18 | | 492 | 8b68ca74
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwrichtb.dcu | 05-15-2008 | 07:54:58 | | 8600 | bd7c0e78
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwrichtb.dfm | 11-27-2000 | 10:38:18 | | 1159 | 636ea086
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwrtfconverter.dcu | 05-15-2008 | 07:54:58 | | 12212 | f59bf0f3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\Wwruler.res | 11-27-2000 | 10:38:18 | | 516 | ae38022f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwselfld.dcu | 05-15-2008 | 07:55:04 | | 42066 | a0f0a58
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwselfld.dfm | 08-28-2007 | 21:05:14 | | 9028 | ef7b7eff
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwspeedbutton.dcu | 05-15-2008 | 07:55:00 | | 14146 | 32de75be
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwspin.dcu | 05-15-2008 | 07:54:58 | | 13529 | ee76e5c3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\Wwspin32.res | 11-27-2000 | 10:38:18 | | 420 | 63292224
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\Wwstacks.dcu | 05-15-2008 | 07:54:58 | | 2787 | f9fa8743
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwstorep.dcu | 05-15-2008 | 07:55:00 | | 16108 | 4589dc4d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwstr.dcu | 05-15-2008 | 07:54:58 | | 6454 | cd6a7dc5
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwsystem.dcu | 05-15-2008 | 07:54:58 | | 10685 | 7b4488e7
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwtable.dcu | 05-15-2008 | 07:55:00 | | 38462 | 39dd780b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwtrackicon.dcu | 05-15-2008 | 07:54:58 | | 6194 | 27a5cea
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\lib\windows\wwtypes.dcu | 05-15-2008 | 07:55:00 | | 7390 | 5f4f73ca
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwprpfld.pas | 09-24-2004 | 13:40:50 | | 3346 | 7ae43970
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwprpedt.pas | 05-24-2007 | 15:18:18 | | 36451 | 4f1956f5
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwprpfld.dfm | 11-27-2000 | 10:38:18 | | 1014 | da2dd410
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwprpds.pas | 01-06-2003 | 16:38:18 | | 1743 | b0a3d76d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwprpcom.pas | 09-24-2004 | 13:40:38 | | 9943 | 40057a01
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwselfld.dfm | 08-28-2007 | 21:05:14 | | 9028 | ef7b7eff
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwselfld.ddp | 09-24-2004 | 13:42:08 | | 51 | c75d6e7d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwprpcom.dfm | 11-27-2000 | 10:38:18 | | 1647 | b8722c8f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwprpcom.ddp | 09-24-2004 | 13:40:40 | | 51 | c75d6e7d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwprovider.pas | 05-31-2001 | 16:44:46 | | 6126 | af81a506
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwpict.pas | 09-24-2004 | 13:40:26 | | 15749 | 666d41aa
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwpiced2.pas | 03-24-2007 | 10:06:02 | | 9506 | 5959848d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwpiced2.dfm | 03-24-2007 | 10:05:28 | | 1831 | 6846812d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\Info32.res | 06-29-2007 | 11:14:36 | | 10188 | 14c89973
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\ipabout.ddp | 12-06-2004 | 15:05:34 | | 51 | c75d6e7d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\ipabout.dfm | 05-30-2007 | 11:35:04 | | 1216 | 15aa9582
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\ipabout.pas | 04-26-2001 | 16:25:36 | | 822 | 1f2b53ac
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\ipdsgn.pas | 03-19-2007 | 22:58:34 | | 2420 | b40e214c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwaddfld.dfm | 04-30-2001 | 13:09:26 | | 1092 | f25a2211
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwaddfld.pas | 04-30-2001 | 13:11:58 | | 2287 | 76345d4a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwaddlk.ddp | 09-24-2004 | 13:35:28 | | 51 | c75d6e7d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwaddlk.dfm | 11-27-2000 | 10:38:18 | | 3093 | 122ac190
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwaddlk.pas | 11-14-2004 | 23:07:56 | | 12085 | f6ff6a20
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwbitmap.pas | 01-06-2006 | 11:32:20 | | 44601 | 19a9deb3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwblend.pas | 04-26-2001 | 16:28:52 | | 5128 | bc70942e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwchangelink.pas | 04-26-2001 | 16:29:02 | | 1043 | 6f9cf697
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwcheckbox.cfg | 01-16-2001 | 02:41:24 | | 391 | c11b79a3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwcheckbox.pas | 01-04-2006 | 15:58:02 | | 79968 | cd55f78f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwclearbuttongroup.pas | 04-26-2001 | 16:30:18 | | 6500 | 150439d7
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwclearpanel.pas | 11-27-2000 | 10:38:18 | | 5249 | a86be23e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwclient.pas | 09-24-2004 | 13:34:58 | | 6117 | c4729a74
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwcollection.pas | 11-27-2000 | 10:38:18 | | 4176 | 4b7d5d95
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwcollectioneditor.dfm | 06-01-2001 | 10:08:54 | | 21654 | f214a07d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwcollectioneditor.pas | 05-25-2001 | 00:25:40 | | 13367 | b611bd97
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwcombobutton.identcache | 09-24-2004 | 13:27:38 | | 53 | 66a73170
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwcombobutton.pas | 11-13-2007 | 16:42:28 | | 47338 | 575ec97c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwcommon.pas | 02-13-2008 | 14:24:06 | | 139531 | b70a89d8
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwdatain.res | 02-06-2001 | 17:50:46 | | 796 | bc04d945
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwDataInspector.pas | 11-13-2007 | 16:25:44 | | 272167 | e5dbc591
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwdatsrc.pas | 09-24-2004 | 13:36:00 | | 602 | d8cff5ad
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwdbcomb.cfg | 09-06-2001 | 22:03:42 | | 386 | 9a42fe1b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwdbcomb.dof | 09-06-2001 | 22:51:04 | | 1843 | 88e7e570
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwDBComb.pas | 10-01-2007 | 10:14:02 | | 62875 | a9c5b89e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\Wwdbd32.res | 11-27-2000 | 10:38:18 | | 272 | db270c1e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwdbdatetimepicker.pas | 08-30-2007 | 12:05:56 | | 191124 | d81cdf64
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwdbdlg.pas | 09-24-2004 | 13:36:32 | | 16312 | f806110f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\Wwruler.res | 11-27-2000 | 10:38:18 | | 516 | ae38022f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwdbedit.pas | 05-14-2008 | 09:42:06 | | 106541 | 676ac94c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwdbgrid.cfg | 05-29-2001 | 16:33:28 | | 391 | c11b79a3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwdbgrid.dof | 05-29-2001 | 17:09:28 | | 2279 | 7aeb7202
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwdbgrid.pas | 11-28-2007 | 17:51:16 | | 126129 | 869c8491
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\Wwdbi32.res | 04-10-2001 | 18:59:58 | | 3000 | 33192b1e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\Wwdbigrd.pas | 04-17-2008 | 09:51:58 | | 407320 | a9fc77b4
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\WWDBIGRDtest.pas | 08-16-2001 | 15:29:32 | | 356857 | 35259fbd
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwdblook.pas | 07-30-2007 | 08:57:34 | | 206123 | 3268eb04
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwdbnav.res | 11-27-2000 | 10:38:18 | | 14372 | 18ce1dee
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwDBNavEdit.res | 11-27-2000 | 10:38:18 | | 408 | 24636ef1
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwdbnavedt.pas | 06-01-2001 | 10:08:40 | | 6000 | e80ce7cb
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwdbnavigator.pas | 09-29-2004 | 13:39:00 | | 69093 | 96e5a230
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwdbspin.pas | 09-24-2004 | 13:36:42 | | 24923 | 1e465ddf
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwDialog.pas | 02-12-2004 | 11:34:54 | | 590 | 7d222a20
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\Wwdotdot.pas | 07-02-2007 | 11:03:36 | | 29628 | eaf7a8c8
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwedtpic.dfm | 11-27-2000 | 10:38:18 | | 1132 | 334cd656
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwedtpic.pas | 04-26-2001 | 16:35:22 | | 2919 | acde3a32
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwExpandButton.pas | 04-26-2001 | 16:35:40 | | 34592 | 836f7b62
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwexport.pas | 02-14-2008 | 10:58:18 | | 62499 | b07489f4
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwfilter.pas | 11-14-2004 | 23:01:28 | | 33606 | ee789fdb
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwfltdlg.ddp | 09-24-2004 | 13:37:24 | | 51 | c75d6e7d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwfltdlg.dfm | 01-17-2008 | 16:42:48 | | 5770 | ce537532
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwfltdlg.pas | 01-17-2008 | 17:15:06 | | 157276 | 458d8048
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwfltdlg.zip | 09-03-2004 | 05:53:22 | | 29780 | 89417098
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwfltdum.pas | 09-24-2004 | 13:37:58 | | 27000 | 41a8bfa3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwfltfld.ddp | 09-24-2004 | 13:38:20 | | 51 | c75d6e7d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwfltfld.dfm | 06-29-2007 | 15:59:36 | | 1939 | bf6d7d94
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwfltfld.pas | 06-29-2007 | 15:59:38 | | 11977 | 53446303
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwfltvw.ddp | 09-24-2004 | 13:38:36 | | 51 | c75d6e7d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwfltvw.dfm | 09-04-2001 | 15:02:16 | | 967 | 58859042
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwfltvw.pas | 11-14-2004 | 23:07:26 | | 5919 | 55bef126
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwframe.pas | 02-19-2004 | 15:12:14 | | 26981 | 1bf206a2
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwframestyle.pas | 06-18-2001 | 10:51:06 | | 980 | ebdfaf49
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwframetst.pas | 06-18-2001 | 15:48:02 | | 23645 | a79c160c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\Wwgttbl.ddp | 09-24-2004 | 13:39:00 | | 51 | c75d6e7d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\Wwgttbl.dfm | 11-27-2000 | 10:38:18 | | 1171 | 9eab7c51
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\Wwgttbl.pas | 09-24-2004 | 13:38:58 | | 3531 | 94a649be
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwhistorylist.pas | 05-22-2006 | 12:03:22 | | 10344 | d887fea
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwidlg.ddp | 09-24-2004 | 13:39:14 | | 51 | c75d6e7d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwidlg.dfm | 11-27-2000 | 10:38:18 | | 2091 | 3c8934bf
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwidlg.pas | 09-24-2004 | 13:39:12 | | 46033 | ee94363b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwifdef.pas | 11-13-2007 | 16:06:36 | | 1323 | f6b8678d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwinspectorprop.ddp | 08-28-2002 | 03:19:58 | | 51 | c75d6e7d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwinspectorprop.dfm | 05-29-2001 | 10:52:16 | | 1114 | 2a1e6c98
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwinspectorprop.pas | 08-28-2002 | 03:19:58 | | 23882 | 25d23551
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwInspectorPrpEdt.pas | 05-25-2001 | 00:21:06 | | 5149 | f6e08a5
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwintl.cfg | 05-03-2004 | 06:52:06 | | 402 | f5a74d6f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwintl.dof | 05-03-2004 | 06:52:06 | | 4663 | 254c07ac
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwintl.pas | 05-15-2008 | 07:37:16 | | 76186 | 7bff87a5
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\Wwkeycb.pas | 02-13-2006 | 15:04:52 | | 53418 | 6369ce6e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwlocate.ddp | 09-24-2004 | 13:39:40 | | 51 | c75d6e7d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwlocate.dfm | 01-04-2006 | 15:58:30 | | 2286 | 840a5fa2
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwlocate.pas | 01-04-2006 | 15:58:56 | | 33475 | b7d8d41d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwmask.pas | 04-22-2002 | 01:52:18 | | 29581 | d87950ee
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwmemo.ddp | 11-13-2007 | 16:25:18 | | 51 | c75d6e7d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwmemo.dfm | 11-06-2007 | 14:56:24 | | 976 | d598e11c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwmemo.pas | 11-13-2007 | 16:25:20 | | 12882 | 2451c9d7
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwmidas.pas | 11-27-2000 | 10:38:18 | | 320 | 69541e5b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwmonthcalendar.pas | 09-13-2007 | 16:09:10 | | 71609 | b61d4c9d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwpaintoptions.cfg | 05-02-2001 | 08:28:36 | | 391 | c11b79a3
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwpaintoptions.dof | 05-02-2001 | 09:01:26 | | 2216 | fa8fe6c6
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\wwpaintoptions.pas | 01-06-2006 | 11:33:08 | | 14500 | b18bf30b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\Wwpicdb.ddp | 09-24-2004 | 13:40:02 | | 51 | c75d6e7d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\Wwpicdb.dfm | 04-11-2007 | 16:10:48 | | 1296 | f1629306
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\source\windows\Wwpicdb.pas | 04-11-2007 | 16:11:04 | | 1572 | d2a16516
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\readme.htm | 05-15-2008 | 08:03:52 | | 32858 | 79a4f0be
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\temp
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\temp\gacutil.exe | 09-23-2005 | 08:01:18 | 2.0.50727.42 | 97472 | d289f3d3
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Master.yg1 | 04-07-1995 | 00:10:36 | | 4096 | d19f0fe6
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Master.yg0 | 04-07-1995 | 00:10:36 | | 4096 | d4cd01fa
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\orders.db | 04-30-2001 | 16:19:44 | | 71680 | 62efe29a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Master.xg2 | 04-27-1995 | 23:40:26 | | 4096 | abdd6c6f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Master.xg1 | 04-27-1995 | 23:40:26 | | 6144 | 6b1b8d28
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Master.xg0 | 04-27-1995 | 23:40:26 | | 4096 | 6d416bc
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Master.px | 04-27-1995 | 23:40:26 | | 4096 | 988de6f1
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Master.db | 04-27-1995 | 23:40:26 | | 16384 | b48b720c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\items.yg0 | 04-30-2001 | 16:19:06 | | 4096 | c35105f6
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\items.y03 | 04-30-2001 | 16:19:06 | | 4096 | 67b8250b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\orders.px | 04-30-2001 | 16:19:44 | | 4096 | e6c3dabd
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\items.xg0 | 04-30-2001 | 16:19:06 | | 28672 | 68546d66
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\items.x03 | 04-30-2001 | 16:19:06 | | 38912 | a342c12e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\items.px | 04-30-2001 | 16:19:06 | | 4096 | 9205be28
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\items.db | 04-30-2001 | 16:19:06 | | 38912 | b125337d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Ip4zip.yg0 | 06-14-1996 | 15:40:48 | | 8192 | 9d320e0e
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\orders.VAL | 04-30-2001 | 16:19:44 | | 483 | 8ee98dfb
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Ip4zip.xg0 | 06-14-1996 | 15:40:48 | | 174080 | 34bd43b7
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Ip4zip.px | 06-14-1996 | 15:40:48 | | 4096 | 393dde5c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Ip4zip.db | 06-14-1996 | 15:40:48 | | 174080 | 49127917
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\orders.x02 | 04-30-2001 | 16:19:44 | | 6144 | c24abf00
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Ip4inv.PX | 07-02-1998 | 15:30:22 | | 4096 | 8d750978
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Ip4inv.DB | 07-09-1998 | 10:25:06 | | 12288 | 6d83f9a0
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Ip4cust.YG5 | 07-05-1998 | 15:33:00 | | 4096 | 835b70b8
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Ip4cust.YG4 | 07-09-1998 | 10:19:54 | | 4096 | eb876418
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Ip4cust.YG3 | 07-05-1998 | 15:32:58 | | 4096 | ab14399
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Ip4cust.YG2 | 07-05-1998 | 15:32:58 | | 4096 | eb68d015
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Ip4cust.YG1 | 07-05-1998 | 15:32:58 | | 4096 | 85fc2fc8
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Ip4cust.YG0 | 07-08-1998 | 15:08:42 | | 4096 | 9b2723b2
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\multitst.xml | 09-22-2004 | 01:21:06 | | 7733 | c6634a44
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Ip4cust.XG5 | 07-09-1998 | 10:19:54 | | 6144 | 6a0455ff
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Ip4cust.XG4 | 07-09-1998 | 10:19:54 | | 6144 | 2e80ae11
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Ip4cust.XG3 | 07-09-1998 | 10:19:54 | | 10240 | a19a5944
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Ip4cust.XG2 | 07-09-1998 | 10:19:54 | | 10240 | 2123e9c5
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Ip4cust.XG1 | 07-09-1998 | 10:19:54 | | 10240 | c7adb85d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Ip4cust.XG0 | 07-09-1998 | 10:19:54 | | 6144 | 22f6dbd6
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Ip4cust.PX | 07-09-1998 | 10:19:54 | | 4096 | 83a7f789
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Ip4cust.MB | 10-19-1999 | 13:02:52 | | 8192 | bfa0cf1a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Ip4cust.DB | 10-19-1999 | 13:02:52 | | 51200 | a9e7b315
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\orders.y02 | 04-30-2001 | 16:19:44 | | 4096 | 5878aa0
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Industry.qbe | 04-23-1995 | 23:28:58 | | 576 | cb6dbb3a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Industry.px | 04-07-1995 | 00:11:12 | | 4096 | 6cb76f76
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Industry.db | 04-07-1995 | 00:11:12 | | 4096 | d75f294f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Picture.db | 07-12-1996 | 00:01:54 | | 16384 | edec06c5
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Employee.MB | 08-26-1999 | 15:40:04 | | 8192 | b7e466fd
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Employee.DB | 08-17-2000 | 14:07:42 | | 6144 | 5be6b871
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\datetime.YG1 | 07-09-1998 | 10:41:14 | | 4096 | b3d25d2b
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\datetime.YG0 | 07-09-1998 | 10:41:14 | | 4096 | 728c22be
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Picture.px | 07-12-1996 | 00:01:54 | | 4096 | a693b9e6
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\datetime.XG1 | 07-09-1998 | 10:41:14 | | 4096 | 9322ddfc
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\datetime.XG0 | 07-09-1998 | 10:41:14 | | 4096 | a06fef6d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\datetime.PX | 07-09-1998 | 10:41:14 | | 4096 | 2b96b77c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\datetime.DB | 07-09-1998 | 10:41:14 | | 4096 | 9f63a6f0
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Picture.xg0 | 07-12-1996 | 00:01:54 | | 12288 | 9749f46d
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\customer.yg0 | 04-30-2001 | 16:18:44 | | 4096 | 59a20761
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Picture.xg1 | 07-12-1996 | 00:01:54 | | 12288 | 2c417054
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\customer.xg0 | 04-30-2001 | 16:18:44 | | 8192 | 9d6f904a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\customer.px | 04-30-2001 | 16:18:44 | | 4096 | d19b2f1f
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\customer.db | 04-30-2001 | 16:18:44 | | 18432 | ecad0970
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Master.yg2 | 04-07-1995 | 00:10:36 | | 4096 | e6d006a4
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\clients.MDX | 04-30-2001 | 16:04:58 | | 4096 | 65be3890
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\clients.DBT | 04-30-2001 | 16:04:58 | | 119808 | 85580904
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\clients.DBF | 04-30-2001 | 16:04:54 | | 3455 | b28b1d12
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Picture.yg0 | 07-12-1996 | 00:01:54 | | 8192 | 3d62bd78
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\checks.px | 08-24-1999 | 16:55:28 | | 4096 | 56098b05
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\checks.mb | 08-27-1999 | 17:21:12 | | 8192 | 939b65cc
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\checks.db | 08-27-1999 | 17:21:12 | | 6144 | 6f61e8be
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\data\Picture.yg1 | 07-12-1996 | 00:01:54 | | 8192 | 1b1b305a
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\temp\wwrtfextra.dll | 04-07-2004 | 14:23:30 | | 425984 | 75116854
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\graphics
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\graphics\tiles
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\graphics\tiles\parchmentsmall.bmp | 04-13-2001 | 16:33:58 | | 598 | 1bffbcc5
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\graphics\tiles\Tile1.BMP | 02-16-1999 | 11:52:02 | | 3318 | f93d381c
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\graphics\tiles\Tile2.BMP | 02-16-1999 | 11:52:20 | | 3318 | 3345a566
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\graphics\tiles\Tile3.BMP | 02-16-1999 | 11:53:32 | | 3318 | 8b673f47
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\graphics\tiles\Tile4.BMP | 02-16-1999 | 11:53:54 | | 3318 | 99d941b4
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\graphics\tiles\Tile5.BMP | 02-16-1999 | 11:54:26 | | 3318 | 539628d6
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\graphics\tiles\Tile6.BMP | 02-16-1999 | 11:54:46 | | 3318 | 122f27ee
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\graphics\tiles\Tile7.BMP | 02-16-1999 | 11:55:04 | | 3318 | d684bbff
+Made Dir: C:\Program Files (x86)\Woll2Woll\ipstudio2007\pictdb
+File Copy: C:\Program Files (x86)\Woll2Woll\ipstudio2007\pictdb\InfoPowerMasks.ini | 04-11-2007 | 16:23:40 | | 4619 | b546a5da
+RegDB Key: Software\Woll2Woll\InfoPowerStudio2007
+RegDB Val: C:\Program Files (x86)\Woll2Woll\ipstudio2007
+RegDB Name: RootDir
+RegDB Root: 1
+RegDB Key: Software\Woll2Woll\InfoPowerStudio2007
+RegDB Val: C:\Windows\system32
+RegDB Name: RegDir
+RegDB Root: 1
+RegDB Key: Software\Woll2Woll\InfoPowerStudio2007
+RegDB Val: 
+RegDB Name: Masks IniFile
+RegDB Root: 1
+RegDB Key: Software\Woll2Woll\InfoPowerStudio2007
+RegDB Val: WER-5
+RegDB Name: RegMask
+RegDB Root: 1
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\dipstudiowin.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\infopowr.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\ipabout.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\ipdsgn.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\ipstudiowin.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\ipstudiowinclient.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\ipstudiowinwordxp.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwaddlk.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwbitmap.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwchangelink.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwcheckbox.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwclearbuttongroup.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwclearpanel.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwclient.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwcollection.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwCollectionEditor.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwcombobutton.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwcommon.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwDataInspector.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwdatsrc.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwDBComb.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwdbdatetimepicker.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwdbdlg.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwdbedit.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwdbgrid.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\Wwdbigrd.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwdblook.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwDBNavEdt.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwdbnavigator.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwdbspin.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwDialog.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\Wwdotdot.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwedtpic.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwexport.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwfilter.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwfltdlg.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwfltdum.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwfltfld.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwfltvw.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwframe.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwGtTbl.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwhistorylist.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwidlg.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwimagecombo.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwInspectorProp.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwInspectorPrpEdt.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwintl.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\Wwkeycb.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwlocate.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwmemo.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwmidas.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwmonthcalendar.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwpaintoptions.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwpicdb.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwpiced2.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwpict.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwprovider.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwprpcom.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwprpds.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwprpedt.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwprpfld.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwprppic.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwprprx.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwqbe.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwQuery.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwradiobutton.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwradiogroup.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwrcdpnl.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwrcdvw.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwrchdlg.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwrgxed2.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwrich.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwriched.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwricheditbar.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwrichedspellxp.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwrichobjinfo.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwrichole.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwricholecallback.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwrichtb.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwrtfconverter.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwrtfprintpreview.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwselfld.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwspeedbutton.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwspin.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\Wwstacks.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwstorep.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwstr.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwSystem.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwtable.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwtrackicon.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\include\vcl\wwtypes.hpp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\Info32.res
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\wwdatain.res
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\Wwdbd32.res
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\Wwdbi32.res
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\wwdbnav.res
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\wwDBNavEdit.res
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\Wwrichsp.res
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\Wwruler.res
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\Wwspin32.res
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\ipabout.dfm
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\wwaddfld.dfm
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\wwaddlk.dfm
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\wwcollectioneditor.dfm
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\wwedtpic.dfm
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\wwfltdlg.dfm
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\wwfltfld.dfm
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\wwfltvw.dfm
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\Wwgttbl.dfm
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\wwidlg.dfm
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\wwinspectorprop.dfm
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\wwlocate.dfm
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\wwmemo.dfm
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\Wwpicdb.dfm
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\wwpiced2.dfm
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\wwprpcom.dfm
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\wwprpfld.dfm
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\wwprppic.dfm
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\wwrcdvw.dfm
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\wwrchdlg.dfm
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\wwrich.dfm
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\wwricheditbar.dfm
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\wwrichtb.dfm
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\wwrtfprintpreview.dfm
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\obj\wwselfld.dfm
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\\ipstudiowin.lib
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\\ipstudiowinclient.lib
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\\ipstudiowinwordxp.lib
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\\ipstudiowin.bpi
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\\ipstudiowinclient.bpi
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\\ipstudiowinwordxp.bpi
+File Overwrite: C:\Windows\System32\registerw2w2.exe
+File Copy: C:\Windows\System32\ipstudiowin105.bpl
+File Copy: C:\Windows\System32\ipstudiowin110.bpl
+File Copy: C:\Windows\InfoPowerMasks.ini
+File Copy: C:\Windows\System32\ipstudiowinclient110.bpl
+File Copy: C:\Windows\System32\ipstudiowinclient105.bpl
+File Copy: C:\Windows\System32\ipstudiowinword2000110.bpl
+File Copy: C:\Windows\System32\ipstudiowinword2000105.bpl
+File Copy: C:\Windows\System32\ipstudiowinwordxp110.bpl
+File Copy: C:\Windows\System32\ipstudiowinwordxp105.bpl
+File Copy: C:\Windows\System32\wwregex.dll
+Shared DLL counter ignored:
+File Overwrite: C:\Windows\System32\cc3270.dll
+RegDB Key: Software\Borland\BDS\5.0\Known Packages
+RegDB Val: Woll2Woll InfoPowerStudio for Midas
+RegDB Name: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowinclient110.bpl
+RegDB Root: 1
+RegDB Key: Software\Borland\BDS\5.0\Known Packages
+RegDB Val: InfoPower Studio 2007/ Win32
+RegDB Name: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\dipstudiowin110.bpl
+RegDB Root: 1
+RegDB Key: Software\Borland\BDS\5.0\Disabled Packages
+RegDB Val: Woll2Woll InfoPower Studio RichEdit for MSWord 2000
+RegDB Name: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowinword2000110.bpl
+RegDB Root: 1
+RegDB Key: Software\Borland\BDS\5.0\Known Packages
+RegDB Val: Woll2Woll InfoPower Studio RichEdit for MSWord XP
+RegDB Name: C:\Program Files (x86)\Woll2Woll\ipstudio2007\bin\windows\ipstudiowinwordxp110.bpl
+RegDB Root: 1
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\ipstudiowin.dcp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\dipstudiowin.dcp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\ipstudiowinword2000.dcp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\ipstudiowinwordxp.dcp
+File Copy: C:\Program Files (x86)\CodeGear\RAD Studio\5.0\\lib\ipstudiowinclient.dcp
+RegDB Root: 1

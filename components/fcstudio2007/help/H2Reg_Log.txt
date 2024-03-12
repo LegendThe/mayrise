@@ -1,0 +1,119 @@
+===============================================================================
+Log File:             	C:\PROGRA~2\WOLL2W~1\FCSTUD~1\help\H2Reg_Log.txt
+Date:                 	26/06/2019 10:47:54
+Operating System:      	Windows NT 6.2 (Build 9200) No Service Pack
+SysLocale.DefaultLCID: 	0x0809 (2057)
+SysLocale.PriLangID:   	0x0009 (9)
+SysLocale.SubLangID:   	0x0002 (2)
+DecimalSeparator:      	.
+-------------------------------------------------------------------------------
+EXE Path =          	C:\PROGRA~2\WOLL2W~1\FCSTUD~1\help\H2Reg.exe
+EXE Version =       	1.4.3.0
+Cmdline Param(s) =  	-r
+Actual CmdLine =  	"C:\PROGRA~2\WOLL2W~1\FCSTUD~1\help\H2Reg.exe" -r
+_RunDir =           	C:\PROGRA~2\WOLL2W~1\FCSTUD~1\help
+_ModuleName =       	H2Reg.exe
+_ModuleDir =        	C:\PROGRA~2\WOLL2W~1\FCSTUD~1\help
+_ModulePath =        	C:\PROGRA~2\WOLL2W~1\FCSTUD~1\help\H2Reg.exe
+Module Version =       	1.4.3.0
+-------------------------------------------------------------------------------
+_hhInstalled =      	YES
+_hhVerStr =         	6.2.18362.1
+_hhFriendlyVerStr = 	> 1.4a
+-------------------------------------------------------------------------------
+_ieInstalled =      	YES
+_ieVerStr =         	6.2.18362.1
+_ieFriendlyVerStr = 	Internet Explorer 6 (Windows Server 2003)
+===============================================================================
+MS Help 2.x Runtime Found: YES
+    2.5.50727.42, C:\Program Files (x86)\Common Files\Microsoft Shared\Help\hxds.dll
+    2.5.50727.42, C:\Program Files (x86)\Common Files\Microsoft Shared\Help\hxvz.dll
+NT Admin Log On: YES
+PC Language ID = en
+-------------------------------------------------------------------------------
+Quiet Mode (-Q): No
+Registration Mode (-R): Yes
+UnRegistration Mode (-U): No
+Append Log Mode (-A): No
+No NT Admin Check (-N): No
+Merge Indexes Mode (-M): No
+Cmd Script File (CmdFile=): C:\PROGRA~2\WOLL2W~1\FCSTUD~1\help\H2Reg.ini
+User Dir 1 (UserDir1=): 
+User Dir 2 (UserDir2=): 
+User Dir 3 (UserDir3=): 
+User Dir 4 (UserDir4=): 
+===============================================================================
+CmdFile = C:\PROGRA~2\WOLL2W~1\FCSTUD~1\help\H2Reg.ini
+<windir> = C:\Windows
+<winsysdir> = C:\Windows\system32
+<programfilesdir> = C:\Program Files (x86)
+<exedir> = C:\PROGRA~2\WOLL2W~1\FCSTUD~1\help
+<exedirparent> = C:\Program Files (x86)\Woll2Woll\fcstudio2007
+<cmdfiledir> = C:\Program Files (x86)\Woll2Woll\fcstudio2007\help
+<cmdfiledirparent> = C:\Program Files (x86)\Woll2Woll\fcstudio2007
+<userdir1> = 
+<userdir1parent> = 
+<userdir2> = 
+<userdir2parent> = 
+<userdir3> = 
+<userdir3parent> = 
+<userdir4> = 
+<userdir4parent> = 
+-------------------------------------------------------------------------------
+[Reg_Namespace]
+Woll2woll.Fc.Help|1stClassHelp.HxC|1stClass Studio Help
+
+[Reg_Title]
+Woll2woll.Fc.Help|1stClassHelp|1033|1stClassHelp.HxS|1stClassHelp.HxI||||||
+
+[Reg_Plugin]
+borland.bds5|_DEFAULT|Woll2woll.Fc.Help|_DEFAULT|
+
+[Reg_Filter]
+
+[UnReg_Namespace]
+Woll2woll.Fc.Help
+
+[UnReg_Title]
+Woll2woll.Fc.Help|1stClassHelp|1033
+
+[UnReg_Plugin]
+borland.bds5|_DEFAULT|Woll2woll.Fc.Help|_DEFAULT|
+
+[UnReg_Filter]
+-------------------------------------------------------------------------------
+10:47:55   [Reg_Namespace] - Lines To Process = 1
+10:47:55     <nsName>="Woll2woll.Fc.Help"
+10:47:55     <nsColfile>="C:\Program Files (x86)\Woll2Woll\fcstudio2007\help\1stClassHelp.HxC"
+10:47:55     <nsDesc>="1stClass Studio Help"
+10:47:55     +Mode = Not Enabled
+10:47:55    -->Registered OK
+-------------------------------------------------------------------------------
+10:47:55   [Reg_Title] - Lines To Process = 1
+10:47:55     <nsName>="Woll2woll.Fc.Help"
+10:47:55     <TitleID>="1stClassHelp"
+10:47:55     <LangID>="1033"
+10:47:55     <HxS_HelpFile>="C:\Program Files (x86)\Woll2Woll\fcstudio2007\help\1stClassHelp.HxS"
+10:47:55     <HxI_IndexFile>="C:\Program Files (x86)\Woll2Woll\fcstudio2007\help\1stClassHelp.HxI"
+10:47:55     <HxQ_QueryFile>=""
+10:47:55     <HxR_AttrQueryFile>=""
+10:47:55     <HxsMediaLoc>=""
+10:47:55     <HxqMediaLoc>=""
+10:47:55     <HxrMediaLoc>=""
+10:47:55     <SampleMediaLoc>=""
+10:47:55    -->Registered OK
+-------------------------------------------------------------------------------
+10:47:55   [Reg_Plugin] - Lines To Process = 1
+10:47:55     <nsName_Parent>="borland.bds5"
+10:47:55     <HxT_Parent>="_DEFAULT"
+10:47:55     <nsName_Child>="Woll2woll.Fc.Help"
+10:47:55     <HxT_Child>="_DEFAULT"
+10:47:55     <HxA_Child>=""
+10:47:55   Plug Child "Woll2woll.Fc.Help" into "borland.bds5"
+10:47:55    -->Registered OK
+-------------------------------------------------------------------------------
+10:47:55   [Reg_Filter] - Lines To Process = 0
+===============================================================================
+
+--END OF FILE--
+

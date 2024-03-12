@@ -1,0 +1,34 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{91bcab81-f511-47f2-b80d-392f8e7c21cb}</ProjectGuid>
+  </PropertyGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Projects Include="dclEQGridD7.dproj" />
+  </ItemGroup>
+  <ProjectExtensions>
+    <Borland.Personality>Default.Personality</Borland.Personality>
+    <Borland.ProjectType />
+    <BorlandProject>
+  <BorlandProject xmlns=""> <Default.Personality> </Default.Personality> </BorlandProject></BorlandProject>
+  </ProjectExtensions>
+  <Target Name="dclEQGridD7">
+    <MSBuild Projects="dclEQGridD7.dproj" Targets="" />
+  </Target>
+  <Target Name="dclEQGridD7:Clean">
+    <MSBuild Projects="dclEQGridD7.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="dclEQGridD7:Make">
+    <MSBuild Projects="dclEQGridD7.dproj" Targets="Make" />
+  </Target>
+  <Target Name="Build">
+    <CallTarget Targets="dclEQGridD7" />
+  </Target>
+  <Target Name="Clean">
+    <CallTarget Targets="dclEQGridD7:Clean" />
+  </Target>
+  <Target Name="Make">
+    <CallTarget Targets="dclEQGridD7:Make" />
+  </Target>
+  <Import Condition="Exists('$(MSBuildBinPath)\Borland.Group.Targets')" Project="$(MSBuildBinPath)\Borland.Group.Targets" />
+</Project>

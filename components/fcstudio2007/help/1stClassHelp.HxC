@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE HelpCollection>
+<HelpCollection
+   Id = "1stClassHelp"
+   DTDVersion = "1.0"
+   Title = "1stClass Studio 2007"
+   Copyright = "Copyright (c) 2007, All rights reserved."
+   FileVersion = "1.0"
+>
+<CompilerOptions
+    CompileResult = "HxiHxs "
+    OutputFile = "1stClassHelp.HxS"
+    CreateFullTextIndex = "Yes" >
+<IncludeFile File = "1stClassHelp.HxF" />
+</CompilerOptions>
+<TOCDef File = "1stClassHelp.HxT" />
+<KeywordIndexDef File = "1stClassHelp_K.HxK" />
+<KeywordIndexDef File = "1stClassHelp_F.HxK" />
+<KeywordIndexDef File = "1stClassHelp_A.HxK" />
+<KeywordIndexDef File = "1stClassHelp_NamedURL.HxK" />
+    <ItemMoniker Name="!DefaultToc" ProgId="HxDs.HxHierarchy" InitData=""/>
+    <ItemMoniker Name="!DefaultFullTextSearch" ProgId="HxDs.HxFullTextSearch" InitData=""/>
+    <ItemMoniker Name="!DefaultKeywordIndex" ProgId="HxDs.HxIndex" InitData="K"/>
+    <ItemMoniker Name="!DefaultAssociativeIndex" ProgId="HxDs.HxIndex" InitData="A" />
+    <ItemMoniker Name="!DefaultContextWindowIndex" ProgId="HxDs.HxIndex" InitData="F" />
+    <ItemMoniker Name="!DefaultNamedUrlIndex" ProgId="HxDs.HxIndex" InitData="NamedURLIndex"/>
+</HelpCollection>

@@ -1,0 +1,46 @@
+package dfcstudiowin;
+
+{$R *.res}
+{$ALIGN 8}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO OFF}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS OFF}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION ON}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO OFF}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES ON}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST ON}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$DESCRIPTION 'Woll2Woll 1stClass Studio 2007'}
+{$LIBSUFFIX '105'}
+{$DESIGNONLY}
+{$IMPLICITBUILD OFF}
+
+requires
+  VCL,
+  VCLDB,
+  VCLX,
+  fcstudiowin,
+  designide;
+
+contains
+  fcAbout,
+  fcCollectionEditor,
+  fClass,
+  fcPicEdt,
+  fcLinesEditor,
+  fcTreeView_ItemsEditor,
+  fcPropEdt;
+
+end.

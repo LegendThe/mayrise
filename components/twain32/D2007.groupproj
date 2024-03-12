@@ -1,0 +1,44 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{52998358-a743-4023-84f4-bc6d3862fa7f}</ProjectGuid>
+  </PropertyGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Projects Include="mcmIntE2007.dproj" />
+    <Projects Include="mcmtwn2007.dproj" />
+  </ItemGroup>
+  <ProjectExtensions>
+    <Borland.Personality>Default.Personality</Borland.Personality>
+    <Borland.ProjectType />
+    <BorlandProject>
+  <BorlandProject xmlns=""> <Default.Personality> </Default.Personality> </BorlandProject></BorlandProject>
+  </ProjectExtensions>
+  <Target Name="mcmIntE2007">
+    <MSBuild Projects="mcmIntE2007.dproj" Targets="" />
+  </Target>
+  <Target Name="mcmIntE2007:Clean">
+    <MSBuild Projects="mcmIntE2007.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="mcmIntE2007:Make">
+    <MSBuild Projects="mcmIntE2007.dproj" Targets="Make" />
+  </Target>
+  <Target Name="mcmtwn2007">
+    <MSBuild Projects="mcmtwn2007.dproj" Targets="" />
+  </Target>
+  <Target Name="mcmtwn2007:Clean">
+    <MSBuild Projects="mcmtwn2007.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="mcmtwn2007:Make">
+    <MSBuild Projects="mcmtwn2007.dproj" Targets="Make" />
+  </Target>
+  <Target Name="Build">
+    <CallTarget Targets="mcmIntE2007;mcmtwn2007" />
+  </Target>
+  <Target Name="Clean">
+    <CallTarget Targets="mcmIntE2007:Clean;mcmtwn2007:Clean" />
+  </Target>
+  <Target Name="Make">
+    <CallTarget Targets="mcmIntE2007:Make;mcmtwn2007:Make" />
+  </Target>
+  <Import Condition="Exists('$(MSBuildBinPath)\Borland.Group.Targets')" Project="$(MSBuildBinPath)\Borland.Group.Targets" />
+</Project>

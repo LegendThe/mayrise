@@ -1,0 +1,50 @@
+package mcmTWN4;
+
+{$R *.RES}
+{$R 'mcmTWAIN.dcr'}
+{$ALIGN ON}
+{$ASSERTIONS OFF}
+{$BOOLEVAL OFF}
+{$DEBUGINFO OFF}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS OFF}
+{$LOCALSYMBOLS OFF}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION ON}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO OFF}
+{$SAFEDIVIDE ON}
+{$STACKFRAMES OFF}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST ON}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $00400000}
+{$DESCRIPTION 'MCM DESIGN, TWAIN Toolkit for Delphi'}
+{$DESIGNONLY}
+{$IMPLICITBUILD OFF}
+{$DEFINE TWNDEBUG}
+
+requires
+  vcl40,
+  Vclx40,
+  mcmInte4;
+
+contains
+  InstmcmTwn in 'InstmcmTwn.pas',
+  mcmTWAIN in 'mcmTWAIN.pas',
+  Utwnabout4 in 'uTwnAbout4.pas' {mcmAboutBox},
+  mcmTWAINFix in 'mcmTWAINFix.pas',
+  mcmTWAINIntf in 'mcmTWAINIntf.pas',
+  mcmTWAINKernel in 'mcmTWAINKernel.pas',
+  mcmTWAINLog in 'mcmTWAINLog.pas',
+  twain in 'twain.pas',
+  twainproc in 'twainproc.pas',
+  mcmTWAINContainer in 'mcmTWAINContainer.pas',
+  uTwnDlgSend in 'uTwnDlgSend.pas' {DlgTwnSend},
+  uTwnDlgPref in 'uTwnDlgPref.pas' {DlgTwainPref};
+
+end.

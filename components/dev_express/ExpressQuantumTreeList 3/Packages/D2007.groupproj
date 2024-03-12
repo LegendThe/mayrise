@@ -1,0 +1,64 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{25f533a3-81cf-45c5-afee-373959847cb1}</ProjectGuid>
+  </PropertyGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Projects Include="..\..\ExpressEditors Library 3\Packages\dcldxEdtrD7.dproj" />
+    <Projects Include="..\..\ExpressEditors Library 3\Packages\dxEdtrD7.dproj" />
+    <Projects Include="dclECQDBCD7.dproj" />
+    <Projects Include="ecqdbcd7.dproj" />
+  </ItemGroup>
+  <ProjectExtensions>
+    <Borland.Personality>Default.Personality</Borland.Personality>
+    <Borland.ProjectType />
+    <BorlandProject>
+<BorlandProject xmlns=""><Default.Personality></Default.Personality></BorlandProject></BorlandProject>
+  </ProjectExtensions>
+  <Target Name="dclECQDBCD7">
+    <MSBuild Projects="dclECQDBCD7.dproj" Targets="" />
+  </Target>
+  <Target Name="dclECQDBCD7:Clean">
+    <MSBuild Projects="dclECQDBCD7.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="dclECQDBCD7:Make">
+    <MSBuild Projects="dclECQDBCD7.dproj" Targets="Make" />
+  </Target>
+  <Target Name="ecqdbcd7">
+    <MSBuild Projects="ecqdbcd7.dproj" Targets="" />
+  </Target>
+  <Target Name="ecqdbcd7:Clean">
+    <MSBuild Projects="ecqdbcd7.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="ecqdbcd7:Make">
+    <MSBuild Projects="ecqdbcd7.dproj" Targets="Make" />
+  </Target>
+  <Target Name="dcldxEdtrD7">
+    <MSBuild Projects="..\..\ExpressEditors Library 3\Packages\dcldxEdtrD7.dproj" Targets="" />
+  </Target>
+  <Target Name="dcldxEdtrD7:Clean">
+    <MSBuild Projects="..\..\ExpressEditors Library 3\Packages\dcldxEdtrD7.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="dcldxEdtrD7:Make">
+    <MSBuild Projects="..\..\ExpressEditors Library 3\Packages\dcldxEdtrD7.dproj" Targets="Make" />
+  </Target>
+  <Target Name="dxEdtrD7">
+    <MSBuild Projects="..\..\ExpressEditors Library 3\Packages\dxEdtrD7.dproj" Targets="" />
+  </Target>
+  <Target Name="dxEdtrD7:Clean">
+    <MSBuild Projects="..\..\ExpressEditors Library 3\Packages\dxEdtrD7.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="dxEdtrD7:Make">
+    <MSBuild Projects="..\..\ExpressEditors Library 3\Packages\dxEdtrD7.dproj" Targets="Make" />
+  </Target>
+  <Target Name="Build">
+    <CallTarget Targets="dclECQDBCD7;ecqdbcd7;dcldxEdtrD7;dxEdtrD7" />
+  </Target>
+  <Target Name="Clean">
+    <CallTarget Targets="dclECQDBCD7:Clean;ecqdbcd7:Clean;dcldxEdtrD7:Clean;dxEdtrD7:Clean" />
+  </Target>
+  <Target Name="Make">
+    <CallTarget Targets="dclECQDBCD7:Make;ecqdbcd7:Make;dcldxEdtrD7:Make;dxEdtrD7:Make" />
+  </Target>
+  <Import Condition="Exists('$(MSBuildBinPath)\Borland.Group.Targets')" Project="$(MSBuildBinPath)\Borland.Group.Targets" />
+</Project>

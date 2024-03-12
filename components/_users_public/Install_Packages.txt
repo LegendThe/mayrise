@@ -1,0 +1,36 @@
+Make sure all the files from "C:\development\mayrise\components\_users_public\bpl" are all copied to "C:\Users\Public\Documents\RAD Studio\5.0"
+
+Run the "Compare_packages.bat" in this directory to launch 'Beyond Compare' to do this.
+
+Install the following packages from "C:\Users\Public\Documents\RAD Studio\5.0" in order
+---------------------------------------------------------------------------------------
+adsd2007dstudio.bpl
+mcmIntE2007.bpl
+mcmtwn2007.bpl
+ISGmapi2_2007.bpl
+VirtualTreesD.bpl
+AdrockD5.bpl
+O406_D50.bpl
+B304_D2007.bpl
+DecisionCube.bpl
+dfcstudiowin110.bpl
+dipstudiowin110.bpl
+ipstudiowinclient110.bpl
+ipstudiowinWordxp110.bpl
+TMSD2007.bpl
+TMSEXD2007.bpl
+TMSDED2007.bpl
+TMSWizD2007.bpl
+TMSXisD2007.bpl
+dclcxLibraryD11.bpl
+dclcxPageControlD11.bpl
+dcldxEdtrD7.bpl
+dcldxCoreD11.bpl
+dclcxEditorsD11.bpl
+dclcxExtEditorsD11.bpl
+dclECQDBCD7.bpl
+dclcxGridD11.bpl
+dcldxmdsD11.bpl
+dclEQGridD7.bpl
+dclEQTLD7.bpl
+Mayrise.bpl

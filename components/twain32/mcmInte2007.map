@@ -1,0 +1,310 @@
+
+ Start         Length     Name                   Class
+ 0001:00401000 00003664H .text                   CODE
+ 0002:00405000 000000ECH .itext                  ICODE
+ 0003:00406000 00000030H .data                   DATA
+ 0004:00407000 00000018H .bss                    BSS
+ 0005:00000000 00000000H .tls                    TLS
+
+
+Detailed map of segments
+
+ 0001:00000000 000000DE C=CODE     S=.text    G=(none)   M=System   ACBP=A9
+ 0001:000000E0 000001C3 C=CODE     S=.text    G=(none)   M=SysInit  ACBP=A9
+ 0001:000002A4 0000004E C=CODE     S=.text    G=(none)   M=Buttons  ACBP=A9
+ 0001:000002F4 00000006 C=CODE     S=.text    G=(none)   M=Menus    ACBP=A9
+ 0001:000002FC 00000006 C=CODE     S=.text    G=(none)   M=ActnList ACBP=A9
+ 0001:00000304 0000004E C=CODE     S=.text    G=(none)   M=Classes  ACBP=A9
+ 0001:00000354 000000AC C=CODE     S=.text    G=(none)   M=Windows  ACBP=A9
+ 0001:00000400 00000006 C=CODE     S=.text    G=(none)   M=TypInfo  ACBP=A9
+ 0001:00000408 00000026 C=CODE     S=.text    G=(none)   M=SysUtils ACBP=A9
+ 0001:00000430 00000006 C=CODE     S=.text    G=(none)   M=Variants ACBP=A9
+ 0001:00000438 00000006 C=CODE     S=.text    G=(none)   M=VarUtils ACBP=A9
+ 0001:00000440 0000001E C=CODE     S=.text    G=(none)   M=Graphics ACBP=A9
+ 0001:00000460 00000006 C=CODE     S=.text    G=(none)   M=Registry ACBP=A9
+ 0001:00000468 00000006 C=CODE     S=.text    G=(none)   M=IniFiles ACBP=A9
+ 0001:00000470 00000006 C=CODE     S=.text    G=(none)   M=Themes   ACBP=A9
+ 0001:00000478 0000032E C=CODE     S=.text    G=(none)   M=Controls ACBP=A9
+ 0001:000007A8 00000006 C=CODE     S=.text    G=(none)   M=UxTheme  ACBP=A9
+ 0001:000007B0 00000006 C=CODE     S=.text    G=(none)   M=MultiMon ACBP=A9
+ 0001:000007B8 00000006 C=CODE     S=.text    G=(none)   M=DwmApi   ACBP=A9
+ 0001:000007C0 00000006 C=CODE     S=.text    G=(none)   M=Forms    ACBP=A9
+ 0001:000007C8 00000006 C=CODE     S=.text    G=(none)   M=HelpIntfs ACBP=A9
+ 0001:000007D0 00000006 C=CODE     S=.text    G=(none)   M=Dialogs  ACBP=A9
+ 0001:000007D8 0000009E C=CODE     S=.text    G=(none)   M=StdCtrls ACBP=A9
+ 0001:00000878 00000006 C=CODE     S=.text    G=(none)   M=Printers ACBP=A9
+ 0001:00000880 00000026 C=CODE     S=.text    G=(none)   M=ExtCtrls ACBP=A9
+ 0001:000008A8 00000006 C=CODE     S=.text    G=(none)   M=GraphUtil ACBP=A9
+ 0001:000008B0 00000006 C=CODE     S=.text    G=(none)   M=Clipbrd  ACBP=A9
+ 0001:000008B8 00000006 C=CODE     S=.text    G=(none)   M=FlatSB   ACBP=A9
+ 0001:000008C0 00002BCA C=CODE     S=.text    G=(none)   M=umcmIntE ACBP=A9
+ 0001:0000348C 000001D7 C=CODE     S=.text    G=(none)   M=.mcmIntE2007 ACBP=A9
+ 0002:00000000 00000006 C=ICODE    S=.itext   G=(none)   M=System   ACBP=A9
+ 0002:00000008 00000006 C=ICODE    S=.itext   G=(none)   M=Buttons  ACBP=A9
+ 0002:00000010 00000006 C=ICODE    S=.itext   G=(none)   M=Menus    ACBP=A9
+ 0002:00000018 00000006 C=ICODE    S=.itext   G=(none)   M=ActnList ACBP=A9
+ 0002:00000020 00000006 C=ICODE    S=.itext   G=(none)   M=Classes  ACBP=A9
+ 0002:00000028 00000011 C=ICODE    S=.itext   G=(none)   M=Windows  ACBP=A9
+ 0002:0000003C 00000006 C=ICODE    S=.itext   G=(none)   M=TypInfo  ACBP=A9
+ 0002:00000044 00000006 C=ICODE    S=.itext   G=(none)   M=SysUtils ACBP=A9
+ 0002:0000004C 00000006 C=ICODE    S=.itext   G=(none)   M=Variants ACBP=A9
+ 0002:00000054 00000006 C=ICODE    S=.itext   G=(none)   M=VarUtils ACBP=A9
+ 0002:0000005C 00000006 C=ICODE    S=.itext   G=(none)   M=Graphics ACBP=A9
+ 0002:00000064 00000006 C=ICODE    S=.itext   G=(none)   M=Registry ACBP=A9
+ 0002:0000006C 00000006 C=ICODE    S=.itext   G=(none)   M=IniFiles ACBP=A9
+ 0002:00000074 00000006 C=ICODE    S=.itext   G=(none)   M=Themes   ACBP=A9
+ 0002:0000007C 00000006 C=ICODE    S=.itext   G=(none)   M=Controls ACBP=A9
+ 0002:00000084 00000006 C=ICODE    S=.itext   G=(none)   M=UxTheme  ACBP=A9
+ 0002:0000008C 00000006 C=ICODE    S=.itext   G=(none)   M=MultiMon ACBP=A9
+ 0002:00000094 00000006 C=ICODE    S=.itext   G=(none)   M=DwmApi   ACBP=A9
+ 0002:0000009C 00000006 C=ICODE    S=.itext   G=(none)   M=Forms    ACBP=A9
+ 0002:000000A4 00000006 C=ICODE    S=.itext   G=(none)   M=HelpIntfs ACBP=A9
+ 0002:000000AC 00000006 C=ICODE    S=.itext   G=(none)   M=Dialogs  ACBP=A9
+ 0002:000000B4 00000006 C=ICODE    S=.itext   G=(none)   M=Printers ACBP=A9
+ 0002:000000BC 00000006 C=ICODE    S=.itext   G=(none)   M=ExtCtrls ACBP=A9
+ 0002:000000C4 00000006 C=ICODE    S=.itext   G=(none)   M=GraphUtil ACBP=A9
+ 0002:000000CC 00000006 C=ICODE    S=.itext   G=(none)   M=Clipbrd  ACBP=A9
+ 0002:000000D4 00000006 C=ICODE    S=.itext   G=(none)   M=FlatSB   ACBP=A9
+ 0002:000000DC 00000008 C=ICODE    S=.itext   G=(none)   M=umcmIntE ACBP=A9
+ 0002:000000E4 00000005 C=ICODE    S=.itext   G=(none)   M=.mcmIntE2007 ACBP=A9
+ 0003:00000000 0000002C C=DATA     S=.data    G=DGROUP   M=SysInit  ACBP=A9
+ 0004:00000000 0000000C C=BSS      S=.bss     G=DGROUP   M=SysInit  ACBP=A9
+ 0004:0000000C 00000008 C=BSS      S=.bss     G=DGROUP   M=Windows  ACBP=A9
+ 0004:00000014 00000004 C=BSS      S=.bss     G=DGROUP   M=umcmIntE ACBP=A9
+
+
+  Address             Publics by Name
+
+ 0002:000000E4       .mcmIntE2007..mcmIntE2007
+ 0001:00003644       .mcmIntE2007.@GetPackageInfoTable
+ 0001:0000364C       .mcmIntE2007.@PackageLoad
+ 0001:00003658       .mcmIntE2007.@PackageUnload
+ 0001:00000228       SysInit.@InitPkg
+ 0001:0000028C       SysInit.@PackageLoad
+ 0001:00000298       SysInit.@PackageUnload
+ 0001:00000118       SysInit.AllocTlsBuffer
+ 0001:000001D4       SysInit.ExitProcessTLS
+ 0001:0000019C       SysInit.ExitThreadTLS
+ 0001:000000E0       SysInit.FreeLibrary
+ 0001:00000124       SysInit.GetTlsSize
+ 0004:00000004       SysInit.HInstance
+ 0001:000001F8       SysInit.InitializeModule
+ 0001:00000170       SysInit.InitProcessTLS
+ 0001:0000012C       SysInit.InitThreadTLS
+ 0001:000000E8       SysInit.LocalAlloc
+ 0001:000000F0       SysInit.LocalFree
+ 0003:00000004       SysInit.Module
+ 0004:00000000       SysInit.ModuleIsLib
+ 0004:00000001       SysInit.ModuleIsPackage
+ 0001:000000F8       SysInit.TlsAlloc
+ 0004:00000008       SysInit.tlsBuffer
+ 0001:00000100       SysInit.TlsFree
+ 0001:00000108       SysInit.TlsGetValue
+ 0003:00000000       SysInit.TlsIndex
+ 0005:00000000       SysInit.TlsLast
+ 0003:0000001C       SysInit.TlsProc
+ 0001:00000110       SysInit.TlsSetValue
+ 0001:00000204       SysInit.UninitializeModule
+ 0004:00000014       umcmIntE..7
+ 0001:000008C0       umcmIntE..TmcmIntEdit
+ 0001:00000F50       umcmIntE..TmcmRealEdit
+ 0001:00001C14       umcmIntE..TmcmRealSpin
+ 0001:00001658       umcmIntE..TmcmRealSpinBtn
+ 0001:00001AE8       umcmIntE..TmcmTimeSpeedBtn
+ 0001:0000345C       umcmIntE.Finalization
+ 0001:00001DD4       umcmIntE.Register
+ 0001:00002124       umcmIntE.TmcmIntEdit.Change
+ 0001:00002070       umcmIntE.TmcmIntEdit.CheckValue
+ 0001:000020FC       umcmIntE.TmcmIntEdit.CMEnter
+ 0001:000020B8       umcmIntE.TmcmIntEdit.CMExit
+ 0001:00001E30       umcmIntE.TmcmIntEdit.Create
+ 0001:00001F08       umcmIntE.TmcmIntEdit.GetValue
+ 0001:00001EAC       umcmIntE.TmcmIntEdit.IsValidKey
+ 0001:00001ED8       umcmIntE.TmcmIntEdit.KeyPress
+ 0001:00002018       umcmIntE.TmcmIntEdit.SetValue
+ 0001:00002854       umcmIntE.TmcmRealEdit.Change
+ 0001:000026AC       umcmIntE.TmcmRealEdit.CheckValue
+ 0001:0000282C       umcmIntE.TmcmRealEdit.CMEnter
+ 0001:000027D4       umcmIntE.TmcmRealEdit.CMExit
+ 0001:00002224       umcmIntE.TmcmRealEdit.Create
+ 0001:000023F0       umcmIntE.TmcmRealEdit.GetValue
+ 0001:000022C4       umcmIntE.TmcmRealEdit.IsValidKey
+ 0001:000023C0       umcmIntE.TmcmRealEdit.KeyPress
+ 0001:00002790       umcmIntE.TmcmRealEdit.SetDecimals
+ 0001:00002560       umcmIntE.TmcmRealEdit.SetValue
+ 0001:000030C8       umcmIntE.TmcmRealSpin.Create
+ 0001:00003228       umcmIntE.TmcmRealSpin.CreateParams
+ 0001:00003244       umcmIntE.TmcmRealSpin.CreateWnd
+ 0001:000031B4       umcmIntE.TmcmRealSpin.Destroy
+ 0001:000033F8       umcmIntE.TmcmRealSpin.DownClick
+ 0001:00003350       umcmIntE.TmcmRealSpin.GetMinHeight
+ 0001:000031E4       umcmIntE.TmcmRealSpin.KeyDown
+ 0001:00003258       umcmIntE.TmcmRealSpin.SetEditRect
+ 0001:000033C4       umcmIntE.TmcmRealSpin.UpClick
+ 0001:00003444       umcmIntE.TmcmRealSpin.WMCut
+ 0001:0000342C       umcmIntE.TmcmRealSpin.WMPaste
+ 0001:000032D8       umcmIntE.TmcmRealSpin.WMSize
+ 0001:00002C58       umcmIntE.TmcmRealSpinBtn.Adjust_Size
+ 0001:00002EC8       umcmIntE.TmcmRealSpinBtn.BtnClick
+ 0001:00002E2C       umcmIntE.TmcmRealSpinBtn.BtnMouseDown
+ 0001:00002B48       umcmIntE.TmcmRealSpinBtn.Create
+ 0001:00002BE8       umcmIntE.TmcmRealSpinBtn.CreateButton
+ 0001:0000305C       umcmIntE.TmcmRealSpinBtn.GetDownGlyph
+ 0001:00002FF0       umcmIntE.TmcmRealSpinBtn.GetUpGlyph
+ 0001:00002DC4       umcmIntE.TmcmRealSpinBtn.KeyDown
+ 0001:00002F9C       umcmIntE.TmcmRealSpinBtn.Loaded
+ 0001:00002CC0       umcmIntE.TmcmRealSpinBtn.SetBounds
+ 0001:00003068       umcmIntE.TmcmRealSpinBtn.SetDownGlyph
+ 0001:00002F0C       umcmIntE.TmcmRealSpinBtn.SetFocusBtn
+ 0001:00002FFC       umcmIntE.TmcmRealSpinBtn.SetUpGlyph
+ 0001:00002F94       umcmIntE.TmcmRealSpinBtn.WMGetDlgCode
+ 0001:00002D94       umcmIntE.TmcmRealSpinBtn.WMKillFocus
+ 0001:00002D64       umcmIntE.TmcmRealSpinBtn.WMSetFocus
+ 0001:00002D04       umcmIntE.TmcmRealSpinBtn.WMSize
+ 0001:00002980       umcmIntE.TmcmTimeSpeedBtn.Destroy
+ 0001:000029B4       umcmIntE.TmcmTimeSpeedBtn.MouseDown
+ 0001:00002A2C       umcmIntE.TmcmTimeSpeedBtn.MouseUp
+ 0001:00002AE0       umcmIntE.TmcmTimeSpeedBtn.Paint
+ 0001:00002A60       umcmIntE.TmcmTimeSpeedBtn.TimerExpired
+ 0002:000000DC       umcmIntE.umcmIntE
+ 0004:0000000C       Windows..3
+ 0001:0000036C       Windows.DrawFocusRect
+ 0001:000003BC       Windows.Finalization
+ 0001:00000354       Windows.FreeLibrary
+ 0001:00000374       Windows.GetDC
+ 0001:0000037C       Windows.GetFocus
+ 0001:00000384       Windows.GetSystemMetrics
+ 0001:0000035C       Windows.GetTextMetrics
+ 0004:00000010       Windows.HtmlHelpModule
+ 0001:0000038C       Windows.InflateRect
+ 0001:00000394       Windows.LoadBitmap
+ 0001:0000039C       Windows.MessageBeep
+ 0001:000003A4       Windows.OffsetRect
+ 0001:000003AC       Windows.ReleaseDC
+ 0001:00000364       Windows.SelectObject
+ 0001:000003B4       Windows.SendMessage
+ 0002:00000028       Windows.Windows
+
+
+  Address             Publics by Value
+
+ 0001:000000E0       SysInit.FreeLibrary
+ 0001:000000E8       SysInit.LocalAlloc
+ 0001:000000F0       SysInit.LocalFree
+ 0001:000000F8       SysInit.TlsAlloc
+ 0001:00000100       SysInit.TlsFree
+ 0001:00000108       SysInit.TlsGetValue
+ 0001:00000110       SysInit.TlsSetValue
+ 0001:00000118       SysInit.AllocTlsBuffer
+ 0001:00000124       SysInit.GetTlsSize
+ 0001:0000012C       SysInit.InitThreadTLS
+ 0001:00000170       SysInit.InitProcessTLS
+ 0001:0000019C       SysInit.ExitThreadTLS
+ 0001:000001D4       SysInit.ExitProcessTLS
+ 0001:000001F8       SysInit.InitializeModule
+ 0001:00000204       SysInit.UninitializeModule
+ 0001:00000228       SysInit.@InitPkg
+ 0001:0000028C       SysInit.@PackageLoad
+ 0001:00000298       SysInit.@PackageUnload
+ 0001:00000354       Windows.FreeLibrary
+ 0001:0000035C       Windows.GetTextMetrics
+ 0001:00000364       Windows.SelectObject
+ 0001:0000036C       Windows.DrawFocusRect
+ 0001:00000374       Windows.GetDC
+ 0001:0000037C       Windows.GetFocus
+ 0001:00000384       Windows.GetSystemMetrics
+ 0001:0000038C       Windows.InflateRect
+ 0001:00000394       Windows.LoadBitmap
+ 0001:0000039C       Windows.MessageBeep
+ 0001:000003A4       Windows.OffsetRect
+ 0001:000003AC       Windows.ReleaseDC
+ 0001:000003B4       Windows.SendMessage
+ 0001:000003BC       Windows.Finalization
+ 0001:000008C0       umcmIntE..TmcmIntEdit
+ 0001:00000F50       umcmIntE..TmcmRealEdit
+ 0001:00001658       umcmIntE..TmcmRealSpinBtn
+ 0001:00001AE8       umcmIntE..TmcmTimeSpeedBtn
+ 0001:00001C14       umcmIntE..TmcmRealSpin
+ 0001:00001DD4       umcmIntE.Register
+ 0001:00001E30       umcmIntE.TmcmIntEdit.Create
+ 0001:00001EAC       umcmIntE.TmcmIntEdit.IsValidKey
+ 0001:00001ED8       umcmIntE.TmcmIntEdit.KeyPress
+ 0001:00001F08       umcmIntE.TmcmIntEdit.GetValue
+ 0001:00002018       umcmIntE.TmcmIntEdit.SetValue
+ 0001:00002070       umcmIntE.TmcmIntEdit.CheckValue
+ 0001:000020B8       umcmIntE.TmcmIntEdit.CMExit
+ 0001:000020FC       umcmIntE.TmcmIntEdit.CMEnter
+ 0001:00002124       umcmIntE.TmcmIntEdit.Change
+ 0001:00002224       umcmIntE.TmcmRealEdit.Create
+ 0001:000022C4       umcmIntE.TmcmRealEdit.IsValidKey
+ 0001:000023C0       umcmIntE.TmcmRealEdit.KeyPress
+ 0001:000023F0       umcmIntE.TmcmRealEdit.GetValue
+ 0001:00002560       umcmIntE.TmcmRealEdit.SetValue
+ 0001:000026AC       umcmIntE.TmcmRealEdit.CheckValue
+ 0001:00002790       umcmIntE.TmcmRealEdit.SetDecimals
+ 0001:000027D4       umcmIntE.TmcmRealEdit.CMExit
+ 0001:0000282C       umcmIntE.TmcmRealEdit.CMEnter
+ 0001:00002854       umcmIntE.TmcmRealEdit.Change
+ 0001:00002980       umcmIntE.TmcmTimeSpeedBtn.Destroy
+ 0001:000029B4       umcmIntE.TmcmTimeSpeedBtn.MouseDown
+ 0001:00002A2C       umcmIntE.TmcmTimeSpeedBtn.MouseUp
+ 0001:00002A60       umcmIntE.TmcmTimeSpeedBtn.TimerExpired
+ 0001:00002AE0       umcmIntE.TmcmTimeSpeedBtn.Paint
+ 0001:00002B48       umcmIntE.TmcmRealSpinBtn.Create
+ 0001:00002BE8       umcmIntE.TmcmRealSpinBtn.CreateButton
+ 0001:00002C58       umcmIntE.TmcmRealSpinBtn.Adjust_Size
+ 0001:00002CC0       umcmIntE.TmcmRealSpinBtn.SetBounds
+ 0001:00002D04       umcmIntE.TmcmRealSpinBtn.WMSize
+ 0001:00002D64       umcmIntE.TmcmRealSpinBtn.WMSetFocus
+ 0001:00002D94       umcmIntE.TmcmRealSpinBtn.WMKillFocus
+ 0001:00002DC4       umcmIntE.TmcmRealSpinBtn.KeyDown
+ 0001:00002E2C       umcmIntE.TmcmRealSpinBtn.BtnMouseDown
+ 0001:00002EC8       umcmIntE.TmcmRealSpinBtn.BtnClick
+ 0001:00002F0C       umcmIntE.TmcmRealSpinBtn.SetFocusBtn
+ 0001:00002F94       umcmIntE.TmcmRealSpinBtn.WMGetDlgCode
+ 0001:00002F9C       umcmIntE.TmcmRealSpinBtn.Loaded
+ 0001:00002FF0       umcmIntE.TmcmRealSpinBtn.GetUpGlyph
+ 0001:00002FFC       umcmIntE.TmcmRealSpinBtn.SetUpGlyph
+ 0001:0000305C       umcmIntE.TmcmRealSpinBtn.GetDownGlyph
+ 0001:00003068       umcmIntE.TmcmRealSpinBtn.SetDownGlyph
+ 0001:000030C8       umcmIntE.TmcmRealSpin.Create
+ 0001:000031B4       umcmIntE.TmcmRealSpin.Destroy
+ 0001:000031E4       umcmIntE.TmcmRealSpin.KeyDown
+ 0001:00003228       umcmIntE.TmcmRealSpin.CreateParams
+ 0001:00003244       umcmIntE.TmcmRealSpin.CreateWnd
+ 0001:00003258       umcmIntE.TmcmRealSpin.SetEditRect
+ 0001:000032D8       umcmIntE.TmcmRealSpin.WMSize
+ 0001:00003350       umcmIntE.TmcmRealSpin.GetMinHeight
+ 0001:000033C4       umcmIntE.TmcmRealSpin.UpClick
+ 0001:000033F8       umcmIntE.TmcmRealSpin.DownClick
+ 0001:0000342C       umcmIntE.TmcmRealSpin.WMPaste
+ 0001:00003444       umcmIntE.TmcmRealSpin.WMCut
+ 0001:0000345C       umcmIntE.Finalization
+ 0001:00003644       .mcmIntE2007.@GetPackageInfoTable
+ 0001:0000364C       .mcmIntE2007.@PackageLoad
+ 0001:00003658       .mcmIntE2007.@PackageUnload
+ 0002:00000028       Windows.Windows
+ 0002:000000DC       umcmIntE.umcmIntE
+ 0002:000000E4       .mcmIntE2007..mcmIntE2007
+ 0003:00000000       SysInit.TlsIndex
+ 0003:00000004       SysInit.Module
+ 0003:0000001C       SysInit.TlsProc
+ 0004:00000000       SysInit.ModuleIsLib
+ 0004:00000001       SysInit.ModuleIsPackage
+ 0004:00000004       SysInit.HInstance
+ 0004:00000008       SysInit.tlsBuffer
+ 0004:0000000C       Windows..3
+ 0004:00000010       Windows.HtmlHelpModule
+ 0004:00000014       umcmIntE..7
+ 0005:00000000       SysInit.TlsLast
+
+
+Bound resource files
+
+C:\Extras\TWAIN32\RMCMSPIN.RES
+C:\Extras\TWAIN32\mcmIntE2007.res
+C:\Extras\TWAIN32\umcmIntE.dcr
+mcmIntE2007.drf
+
+
+Program entry point at 0002:000000E4
